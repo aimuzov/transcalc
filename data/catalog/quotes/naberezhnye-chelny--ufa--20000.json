@@ -1,0 +1,42 @@
+{
+	"status": "not_served",
+	"route": {
+		"from": "Набережные Челны",
+		"to": "Уфа",
+		"from_case": "Набережных Челнов",
+		"to_case": "Уфу",
+		"from_slug": "naberezhnye-chelny",
+		"to_slug": "ufa",
+		"from_region": "Набережные Челны, Республика Татарстан",
+		"to_region": "Уфа, Республика Башкортостан",
+		"km": 292,
+		"days": "1-2"
+	},
+	"cargo": {
+		"weight_kg": 20000,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [],
+	"reason": "neighbor_under_300",
+	"message": "Между соседними регионами мы возим на расстояние от 300 км.",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "individual",
+		"calc_reason": "not_served",
+		"days_source": "estimate_by_km",
+		"container_source": "none",
+		"container_kind": "",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 0,
+			"km_rounded": 292,
+			"auto": 0,
+			"modular": 0,
+			"volume_car_m3": ""
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"status": "not_served",
+	"route": {
+		"from": "Ростов-на-Дону",
+		"to": "Краснодар",
+		"from_case": "Ростова-на-Дону",
+		"to_case": "Краснодар",
+		"from_slug": "rostov-na-donu",
+		"to_slug": "krasnodar",
+		"from_region": "Ростов-на-Дону, Ростовская область",
+		"to_region": "Краснодар, Краснодарский край",
+		"km": 274,
+		"days": "1-2"
+	},
+	"cargo": {
+		"weight_kg": 20000,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [],
+	"reason": "neighbor_under_300",
+	"message": "Между соседними регионами мы возим на расстояние от 300 км.",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "individual",
+		"calc_reason": "not_served",
+		"days_source": "estimate_by_km",
+		"container_source": "none",
+		"container_kind": "",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 0,
+			"km_rounded": 274,
+			"auto": 0,
+			"modular": 0,
+			"volume_car_m3": ""
+		}
+	}
+}

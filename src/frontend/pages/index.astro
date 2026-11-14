@@ -13,7 +13,7 @@ import { cities, routeCount } from '#frontend/lib/calculator.ts'
 			</svg>
 			Транскальк
 		</a>
-		<span class="header-note">Маршруты через Москву</span>
+		<span class="header-note">Калькулятор грузоперевозок</span>
 	</header>
 	<main class="container main-content">
 		<section class="intro" aria-labelledby="page-title">
@@ -27,7 +27,7 @@ import { cities, routeCount } from '#frontend/lib/calculator.ts'
 				Выберите маршрут и сравните стоимость перевозки. Без заявки, регистрации и ожидания ответа.
 			</p>
 			<p class="coverage">
-				{cities.length} города · {routeCount} направлений через Москву
+				Городов: {cities.length} · Опубликованных направлений: {routeCount}
 			</p>
 		</section>
 		<Calculator client:load />

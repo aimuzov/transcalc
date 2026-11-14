@@ -1,0 +1,2236 @@
+{
+	"abakan": {
+		"id": "abakan",
+		"name": "Абакан",
+		"title": "Абакан, Республика Хакасия",
+		"region": "Республика Хакасия",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "data/control/moskva--abakan--5000.json",
+		"conflict": false
+	},
+	"abay": {
+		"id": "abay",
+		"name": "Абай",
+		"title": "Абай, Карагандинская область",
+		"region": "Карагандинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "data/control/abay--moskva--20000.json",
+		"conflict": false
+	},
+	"achinsk": {
+		"id": "achinsk",
+		"name": "Ачинск",
+		"title": "Ачинск, Красноярский край",
+		"region": "Красноярский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--achinsk--20000.json",
+		"conflict": false
+	},
+	"akkol": {
+		"id": "akkol",
+		"name": "Акколь",
+		"title": "Акколь, Акмолинская область",
+		"region": "Акмолинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/akkol--moskva--20000.json",
+		"conflict": false
+	},
+	"aksay": {
+		"id": "aksay",
+		"name": "Аксай",
+		"title": "Аксай, Западно-Казахстанская область",
+		"region": "Западно-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/aksay--moskva--20000.json",
+		"conflict": false
+	},
+	"aksu": {
+		"id": "aksu",
+		"name": "Аксу",
+		"title": "Аксу, Павлодарская область",
+		"region": "Павлодарская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/aksu--moskva--20000.json",
+		"conflict": false
+	},
+	"aktau": {
+		"id": "aktau",
+		"name": "Актау",
+		"title": "Актау, Мангистауская область",
+		"region": "Мангистауская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/aktau--moskva--20000.json",
+		"conflict": false
+	},
+	"aktobe": {
+		"id": "aktobe",
+		"name": "Актобе",
+		"title": "Актобе, Актюбинская область",
+		"region": "Актюбинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/aktobe--moskva--20000.json",
+		"conflict": false
+	},
+	"alga": {
+		"id": "alga",
+		"name": "Алга",
+		"title": "Алга, Актюбинская область",
+		"region": "Актюбинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/alga--moskva--20000.json",
+		"conflict": false
+	},
+	"almaty": {
+		"id": "almaty",
+		"name": "Алма-Ата",
+		"title": "Алма-Ата, Республика Казахстан",
+		"region": "Республика Казахстан",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "data/control/moskva--almaty--1000.json",
+		"conflict": false
+	},
+	"almetevsk": {
+		"id": "almetevsk",
+		"name": "Альметьевск",
+		"title": "Альметьевск, Республика Татарстан",
+		"region": "Республика Татарстан",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--almetevsk--20000.json",
+		"conflict": false
+	},
+	"altay": {
+		"id": "altay",
+		"name": "Алтай",
+		"title": "Алтай, Восточно-Казахстанская область",
+		"region": "Восточно-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/altay--moskva--20000.json",
+		"conflict": false
+	},
+	"alushta": {
+		"id": "alushta",
+		"name": "Алушта",
+		"title": "Алушта, Республика Крым",
+		"region": "Республика Крым",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--alushta--20000.json",
+		"conflict": false
+	},
+	"anapa": {
+		"id": "anapa",
+		"name": "Анапа",
+		"title": "Анапа, Краснодарский край",
+		"region": "Краснодарский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "data/training/moskva--anapa--1000.json",
+		"conflict": false
+	},
+	"angarsk": {
+		"id": "angarsk",
+		"name": "Ангарск",
+		"title": "Ангарск, Иркутская область",
+		"region": "Иркутская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/moskva--angarsk--20000.json",
+		"conflict": false
+	},
+	"aralsk": {
+		"id": "aralsk",
+		"name": "Аральск",
+		"title": "Аральск, Кызылординская область",
+		"region": "Кызылординская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/aralsk--moskva--20000.json",
+		"conflict": false
+	},
+	"arhangelsk": {
+		"id": "arhangelsk",
+		"name": "Архангельск",
+		"title": "Архангельск, Архангельская область",
+		"region": "Архангельская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--arhangelsk--20000.json",
+		"conflict": false
+	},
+	"aris": {
+		"id": "aris",
+		"name": "Арыс",
+		"title": "Арыс, Туркестанская область",
+		"region": "Туркестанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/aris--moskva--20000.json",
+		"conflict": false
+	},
+	"arkalik": {
+		"id": "arkalik",
+		"name": "Аркалык",
+		"title": "Аркалык, Костанайская область",
+		"region": "Костанайская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/arkalik--moskva--20000.json",
+		"conflict": false
+	},
+	"astana": {
+		"id": "astana",
+		"name": "Астана",
+		"title": "Астана, Республика Казахстан",
+		"region": "Республика Казахстан",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/astana--moskva--20000.json",
+		"conflict": false
+	},
+	"astrahan": {
+		"id": "astrahan",
+		"name": "Астрахань",
+		"title": "Астрахань, Астраханская область",
+		"region": "Астраханская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--astrahan--20000.json",
+		"conflict": false
+	},
+	"atbasar": {
+		"id": "atbasar",
+		"name": "Атбасар",
+		"title": "Атбасар, Акмолинская область",
+		"region": "Акмолинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/atbasar--moskva--20000.json",
+		"conflict": false
+	},
+	"atirau": {
+		"id": "atirau",
+		"name": "Атырау",
+		"title": "Атырау, Атырауская область",
+		"region": "Атырауская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/atirau--moskva--20000.json",
+		"conflict": false
+	},
+	"ayagoz": {
+		"id": "ayagoz",
+		"name": "Аягоз",
+		"title": "Аягоз, Абайская область",
+		"region": "Абайская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/ayagoz--komsomolsk-na-amure--20000.json",
+		"conflict": false
+	},
+	"azov": {
+		"id": "azov",
+		"name": "Азов",
+		"title": "Азов, Ростовская область",
+		"region": "Ростовская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/azov--vladivostok--20000.json",
+		"conflict": false
+	},
+	"balakovo": {
+		"id": "balakovo",
+		"name": "Балаково",
+		"title": "Балаково, Саратовская область",
+		"region": "Саратовская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--balakovo--20000.json",
+		"conflict": false
+	},
+	"balashov": {
+		"id": "balashov",
+		"name": "Балашов",
+		"title": "Балашов, Саратовская область",
+		"region": "Саратовская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--balashov--20000.json",
+		"conflict": false
+	},
+	"balhash": {
+		"id": "balhash",
+		"name": "Балхаш",
+		"title": "Балхаш, Карагандинская область",
+		"region": "Карагандинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--balhash--20000.json",
+		"conflict": false
+	},
+	"barnaul": {
+		"id": "barnaul",
+		"name": "Барнаул",
+		"title": "Барнаул, Алтайский край",
+		"region": "Алтайский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--barnaul--20000.json",
+		"conflict": false
+	},
+	"bataysk": {
+		"id": "bataysk",
+		"name": "Батайск",
+		"title": "Батайск, Ростовская область",
+		"region": "Ростовская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--bataysk--20000.json",
+		"conflict": false
+	},
+	"baykonur": {
+		"id": "baykonur",
+		"name": "Байконур",
+		"title": "Байконур, Кызылординская область",
+		"region": "Кызылординская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/baykonur--moskva--20000.json",
+		"conflict": false
+	},
+	"belgorod": {
+		"id": "belgorod",
+		"name": "Белгород",
+		"title": "Белгород, Белгородская область",
+		"region": "Белгородская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--belgorod--20000.json",
+		"conflict": false
+	},
+	"berdsk": {
+		"id": "berdsk",
+		"name": "Бердск",
+		"title": "Бердск, Новосибирская область",
+		"region": "Новосибирская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/berdsk--ekaterinburg--20000.json",
+		"conflict": false
+	},
+	"birobidzhan": {
+		"id": "birobidzhan",
+		"name": "Биробиджан",
+		"title": "Биробиджан, Еврейская Аобл",
+		"region": "Еврейская Аобл",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/dolgoprudniy--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"blagoveschensk": {
+		"id": "blagoveschensk",
+		"name": "Благовещенск",
+		"title": "Благовещенск, Амурская область",
+		"region": "Амурская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--blagoveschensk--20000.json",
+		"conflict": false
+	},
+	"bratsk": {
+		"id": "bratsk",
+		"name": "Братск",
+		"title": "Братск, Иркутская область",
+		"region": "Иркутская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/moskva--bratsk--20000.json",
+		"conflict": false
+	},
+	"bryansk": {
+		"id": "bryansk",
+		"name": "Брянск",
+		"title": "Брянск, Брянская область",
+		"region": "Брянская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--bryansk--20000.json",
+		"conflict": false
+	},
+	"bulaevo": {
+		"id": "bulaevo",
+		"name": "Булаево",
+		"title": "Булаево, Северо-Казахстанская область",
+		"region": "Северо-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/bulaevo--moskva--20000.json",
+		"conflict": false
+	},
+	"buzuluk": {
+		"id": "buzuluk",
+		"name": "Бузулук",
+		"title": "Бузулук, Оренбургская область",
+		"region": "Оренбургская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--buzuluk--20000.json",
+		"conflict": false
+	},
+	"chapaevsk": {
+		"id": "chapaevsk",
+		"name": "Чапаевск",
+		"title": "Чапаевск, Самарская область",
+		"region": "Самарская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--chapaevsk--20000.json",
+		"conflict": false
+	},
+	"cheboksary": {
+		"id": "cheboksary",
+		"name": "Чебоксары",
+		"title": "Чебоксары, Чувашская Республика",
+		"region": "Чувашская Республика",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--cheboksary--20000.json",
+		"conflict": false
+	},
+	"chelyabinsk": {
+		"id": "chelyabinsk",
+		"name": "Челябинск",
+		"title": "Челябинск, Челябинская область",
+		"region": "Челябинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-matrix/chelyabinsk--naberezhnye-chelny--20000.json",
+		"conflict": false
+	},
+	"cherepovec": {
+		"id": "cherepovec",
+		"name": "Череповец",
+		"title": "Череповец, Вологодская область",
+		"region": "Вологодская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/cherepovec--moskva--20000.json",
+		"conflict": false
+	},
+	"cherkessk": {
+		"id": "cherkessk",
+		"name": "Черкесск",
+		"title": "Черкесск, Карачаево-Черкесская Республика",
+		"region": "Карачаево-Черкесская Республика",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--cherkessk--20000.json",
+		"conflict": false
+	},
+	"chita": {
+		"id": "chita",
+		"name": "Чита",
+		"title": "Чита, Забайкальский край",
+		"region": "Забайкальский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--chita--20000.json",
+		"conflict": false
+	},
+	"chrometau": {
+		"id": "chrometau",
+		"name": "Хромтау",
+		"title": "Хромтау, Актюбинская область",
+		"region": "Актюбинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/chrometau--vladivostok--20000.json",
+		"conflict": false
+	},
+	"derzhavinsk": {
+		"id": "derzhavinsk",
+		"name": "Державинск",
+		"title": "Державинск, Акмолинская область",
+		"region": "Акмолинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/derzhavinsk--vladivostok--20000.json",
+		"conflict": false
+	},
+	"dimitrovgrad": {
+		"id": "dimitrovgrad",
+		"name": "Димитровград",
+		"title": "Димитровград, Ульяновская область",
+		"region": "Ульяновская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/dimitrovgrad--vladivostok--20000.json",
+		"conflict": false
+	},
+	"dolgoprudniy": {
+		"id": "dolgoprudniy",
+		"name": "Долгопрудный",
+		"title": "Долгопрудный, Московская область",
+		"region": "Московская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/dolgoprudniy--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"donetck": {
+		"id": "donetck",
+		"region": null,
+		"name": "Донецк",
+		"nameSource": "manualnormalization",
+		"autocompleteRegion": null,
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"dzerzhinsk": {
+		"id": "dzerzhinsk",
+		"name": "Дзержинск",
+		"title": "Дзержинск, Нижегородская область",
+		"region": "Нижегородская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/dzerzhinsk--kazan--1000.json",
+		"conflict": false
+	},
+	"dzhankoi": {
+		"id": "dzhankoi",
+		"region": null,
+		"name": "Джанкой",
+		"nameSource": "manualnormalization",
+		"autocompleteRegion": null,
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"ekaterinburg": {
+		"id": "ekaterinburg",
+		"name": "Екатеринбург",
+		"title": "Екатеринбург, Свердловская область",
+		"region": "Свердловская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-research/moskva--ekaterinburg--1000.json",
+		"conflict": false
+	},
+	"ekibastuz": {
+		"id": "ekibastuz",
+		"name": "Экибастуз",
+		"title": "Экибастуз, Павлодарская область",
+		"region": "Павлодарская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/ekibastuz--vladivostok--20000.json",
+		"conflict": false
+	},
+	"elektrostal": {
+		"id": "elektrostal",
+		"name": "Электросталь",
+		"title": "Электросталь, Московская область",
+		"region": "Московская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/elektrostal--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"elista": {
+		"id": "elista",
+		"name": "Элиста",
+		"title": "Элиста, Республика Калмыкия",
+		"region": "Республика Калмыкия",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--elista--20000.json",
+		"conflict": false
+	},
+	"emba": {
+		"id": "emba",
+		"name": "Эмба",
+		"title": "Эмба, Актюбинская область",
+		"region": "Актюбинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/emba--vladivostok--20000.json",
+		"conflict": false
+	},
+	"engels": {
+		"id": "engels",
+		"name": "Энгельс",
+		"title": "Энгельс, Саратовская область",
+		"region": "Саратовская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--engels--20000.json",
+		"conflict": false
+	},
+	"ereymentau": {
+		"id": "ereymentau",
+		"name": "Ерейментау",
+		"title": "Ерейментау, Акмолинская область",
+		"region": "Акмолинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/ereymentau--vladivostok--20000.json",
+		"conflict": false
+	},
+	"esik": {
+		"id": "esik",
+		"name": "Есик",
+		"title": "Есик, Алматинская область",
+		"region": "Алматинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/esik--moskva--20000.json",
+		"conflict": false
+	},
+	"esil": {
+		"id": "esil",
+		"name": "Есиль",
+		"title": "Есиль, Акмолинская область",
+		"region": "Акмолинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/esil--moskva--20000.json",
+		"conflict": false
+	},
+	"evpatoriia": {
+		"id": "evpatoriia",
+		"region": null,
+		"name": "Евпатория",
+		"nameSource": "manualnormalization",
+		"autocompleteRegion": null,
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"fortshevchenko": {
+		"id": "fortshevchenko",
+		"name": "Форт-Шевченко",
+		"title": "Форт-Шевченко, Мангистауская область",
+		"region": "Мангистауская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/fortshevchenko--vladivostok--20000.json",
+		"conflict": false
+	},
+	"fryazino": {
+		"id": "fryazino",
+		"name": "Фрязино",
+		"title": "Фрязино, Московская область",
+		"region": "Московская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/fryazino--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"gorno-altaysk": {
+		"id": "gorno-altaysk",
+		"name": "Горно-Алтайск",
+		"title": "Горно-Алтайск, Республика Алтай",
+		"region": "Республика Алтай",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--gorno-altaysk--20000.json",
+		"conflict": false
+	},
+	"grozniy": {
+		"id": "grozniy",
+		"name": "Грозный",
+		"title": "Грозный, Чеченская Республика",
+		"region": "Чеченская Республика",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--grozniy--20000.json",
+		"conflict": false
+	},
+	"habarovsk": {
+		"id": "habarovsk",
+		"name": "Хабаровск",
+		"title": "Хабаровск, Хабаровский край",
+		"region": "Хабаровский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "data/control/moskva--habarovsk--1000.json",
+		"conflict": false
+	},
+	"hanty-mansiysk": {
+		"id": "hanty-mansiysk",
+		"name": "Ханты-Мансийск",
+		"title": "Ханты-Мансийск, АО Ханты-Мансийский Автономный округ - Югра",
+		"region": "АО Ханты-Мансийский Автономный округ - Югра",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--hanty-mansiysk--20000.json",
+		"conflict": false
+	},
+	"himki": {
+		"id": "himki",
+		"name": "Химки",
+		"title": "Химки, Московская область",
+		"region": "Московская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/himki--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"irkutsk": {
+		"id": "irkutsk",
+		"name": "Иркутск",
+		"title": "Иркутск, Иркутская область",
+		"region": "Иркутская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "data/control/moskva--irkutsk--20000.json",
+		"conflict": false
+	},
+	"ivanovo": {
+		"id": "ivanovo",
+		"name": "Иваново",
+		"title": "Иваново, Ивановская область",
+		"region": "Ивановская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--ivanovo--20000.json",
+		"conflict": false
+	},
+	"ivanteevka": {
+		"id": "ivanteevka",
+		"name": "Ивантеевка",
+		"title": "Ивантеевка, Московская область",
+		"region": "Московская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/ivanteevka--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"izhevsk": {
+		"id": "izhevsk",
+		"name": "Ижевск",
+		"title": "Ижевск, Удмуртская Республика",
+		"region": "Удмуртская Республика",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--izhevsk--20000.json",
+		"conflict": false
+	},
+	"kaliningrad": {
+		"id": "kaliningrad",
+		"title": "Калининград, Калининградская область",
+		"name": "Калининград",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Калининградская область",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"kaluga": {
+		"id": "kaluga",
+		"name": "Калуга",
+		"title": "Калуга, Калужская область",
+		"region": "Калужская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kaluga--moskva--20000.json",
+		"conflict": false
+	},
+	"kamyshin": {
+		"id": "kamyshin",
+		"name": "Камышин",
+		"title": "Камышин, Волгоградская область",
+		"region": "Волгоградская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kamyshin--vladivostok--20000.json",
+		"conflict": false
+	},
+	"kandiagash": {
+		"id": "kandiagash",
+		"name": "Кандыагаш",
+		"title": "Кандыагаш, Актюбинская область",
+		"region": "Актюбинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kandiagash--moskva--20000.json",
+		"conflict": false
+	},
+	"karaganda": {
+		"id": "karaganda",
+		"name": "Караганда",
+		"title": "Караганда, Карагандинская область",
+		"region": "Карагандинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/karaganda--moskva--20000.json",
+		"conflict": false
+	},
+	"karatau": {
+		"id": "karatau",
+		"name": "Каратау",
+		"title": "Каратау, Жамбылская область",
+		"region": "Жамбылская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/karatau--moskva--20000.json",
+		"conflict": false
+	},
+	"karazhal": {
+		"id": "karazhal",
+		"name": "Каражал",
+		"title": "Каражал, Улытауская область",
+		"region": "Улытауская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/karazhal--moskva--20000.json",
+		"conflict": false
+	},
+	"karkaralinsk": {
+		"id": "karkaralinsk",
+		"name": "Каркаралинск",
+		"title": "Каркаралинск, Карагандинская область",
+		"region": "Карагандинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/karkaralinsk--moskva--20000.json",
+		"conflict": false
+	},
+	"kaskelen": {
+		"id": "kaskelen",
+		"name": "Каскелен",
+		"title": "Каскелен, Алматинская область",
+		"region": "Алматинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kaskelen--vladivostok--20000.json",
+		"conflict": false
+	},
+	"kazalinsk": {
+		"id": "kazalinsk",
+		"name": "Казалинск",
+		"title": "Казалинск, Кызылординская область",
+		"region": "Кызылординская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kazalinsk--moskva--20000.json",
+		"conflict": false
+	},
+	"kazan": {
+		"id": "kazan",
+		"name": "Казань",
+		"title": "Казань, Республика Татарстан",
+		"region": "Республика Татарстан",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-research/moskva--kazan--1000.json",
+		"conflict": false
+	},
+	"kemerovo": {
+		"id": "kemerovo",
+		"name": "Кемерово",
+		"title": "Кемерово, Кемеровская область",
+		"region": "Кемеровская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--kemerovo--20000.json",
+		"conflict": false
+	},
+	"kentau": {
+		"id": "kentau",
+		"name": "Кентау",
+		"title": "Кентау, Туркестанская область",
+		"region": "Туркестанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kentau--moskva--20000.json",
+		"conflict": false
+	},
+	"kirov": {
+		"id": "kirov",
+		"name": "Киров",
+		"title": "Киров, Кировская область",
+		"region": "Кировская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--kirov--20000.json",
+		"conflict": false
+	},
+	"kislovodsk": {
+		"id": "kislovodsk",
+		"name": "Кисловодск",
+		"title": "Кисловодск, Ставропольский край",
+		"region": "Ставропольский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--kislovodsk--20000.json",
+		"conflict": false
+	},
+	"kizilorda": {
+		"id": "kizilorda",
+		"name": "Кызылорда",
+		"title": "Кызылорда, Кызылординская область",
+		"region": "Кызылординская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kizilorda--moskva--20000.json",
+		"conflict": false
+	},
+	"kogalym": {
+		"id": "kogalym",
+		"name": "Когалым",
+		"title": "Когалым, АО Ханты-Мансийский Автономный округ - Югра",
+		"region": "АО Ханты-Мансийский Автономный округ - Югра",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--kogalym--20000.json",
+		"conflict": false
+	},
+	"kokshetau": {
+		"id": "kokshetau",
+		"name": "Кокшетау",
+		"title": "Кокшетау, Акмолинская область",
+		"region": "Акмолинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kokshetau--moskva--20000.json",
+		"conflict": false
+	},
+	"kolomna": {
+		"id": "kolomna",
+		"name": "Коломна",
+		"title": "Коломна, Московская область",
+		"region": "Московская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kolomna--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"komsomolsk-na-amure": {
+		"id": "komsomolsk-na-amure",
+		"name": "Комсомольск-на-Амуре",
+		"title": "Комсомольск-на-Амуре, Хабаровский край",
+		"region": "Хабаровский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/komsomolsk-na-amure--vladivostok--20000.json",
+		"conflict": false
+	},
+	"konaev": {
+		"id": "konaev",
+		"name": "Конаев",
+		"title": "Конаев, Алматинская область",
+		"region": "Алматинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/konaev--moskva--20000.json",
+		"conflict": false
+	},
+	"kosshi": {
+		"id": "kosshi",
+		"name": "Косшы",
+		"title": "Косшы, Акмолинская область",
+		"region": "Акмолинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kosshi--moskva--20000.json",
+		"conflict": false
+	},
+	"kostanay": {
+		"id": "kostanay",
+		"name": "Костанай",
+		"title": "Костанай, Костанайская область",
+		"region": "Костанайская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kostanay--moskva--20000.json",
+		"conflict": false
+	},
+	"kostroma": {
+		"id": "kostroma",
+		"name": "Кострома",
+		"title": "Кострома, Костромская область",
+		"region": "Костромская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--kostroma--20000.json",
+		"conflict": false
+	},
+	"krasnodar": {
+		"id": "krasnodar",
+		"name": "Краснодар",
+		"title": "Краснодар, Краснодарский край",
+		"region": "Краснодарский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "data/control/moskva--krasnodar--7500.json",
+		"conflict": false
+	},
+	"krasnokamensk": {
+		"id": "krasnokamensk",
+		"name": "Краснокаменск",
+		"title": "Краснокаменск, Забайкальский край",
+		"region": "Забайкальский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--krasnokamensk--20000.json",
+		"conflict": false
+	},
+	"krasnoyarsk": {
+		"id": "krasnoyarsk",
+		"name": "Красноярск",
+		"title": "Красноярск, Красноярский край",
+		"region": "Красноярский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/krasnoyarsk--novosibirsk--20000.json",
+		"conflict": false
+	},
+	"krymsk": {
+		"id": "krymsk",
+		"name": "Крымск",
+		"title": "Крымск, Краснодарский край",
+		"region": "Краснодарский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/krymsk--samara--20000.json",
+		"conflict": false
+	},
+	"kulsari": {
+		"id": "kulsari",
+		"name": "Кульсары",
+		"title": "Кульсары, Атырауская область",
+		"region": "Атырауская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kulsari--moskva--20000.json",
+		"conflict": false
+	},
+	"kurchatov": {
+		"id": "kurchatov",
+		"name": "Курчатов",
+		"title": "Курчатов, Курская область",
+		"region": "Курская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/kurchatov--moskva--20000.json",
+		"conflict": false
+	},
+	"kurgan": {
+		"id": "kurgan",
+		"name": "Курган",
+		"title": "Курган, Курганская область",
+		"region": "Курганская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--kurgan--20000.json",
+		"conflict": false
+	},
+	"kursk": {
+		"id": "kursk",
+		"name": "Курск",
+		"title": "Курск, Курская область",
+		"region": "Курская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--kursk--20000.json",
+		"conflict": false
+	},
+	"kyzyl": {
+		"id": "kyzyl",
+		"name": "Кызыл",
+		"title": "Кызыл, Республика Тыва",
+		"region": "Республика Тыва",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--kyzyl--20000.json",
+		"conflict": false
+	},
+	"lenger": {
+		"id": "lenger",
+		"name": "Ленгер",
+		"title": "Ленгер, Туркестанская область",
+		"region": "Туркестанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--lenger--20000.json",
+		"conflict": false
+	},
+	"leninskoe": {
+		"id": "leninskoe",
+		"region": null,
+		"name": "Ленинское",
+		"nameSource": "manualnormalization",
+		"autocompleteRegion": null,
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"lesosibirsk": {
+		"id": "lesosibirsk",
+		"name": "Лесосибирск",
+		"title": "Лесосибирск, Красноярский край",
+		"region": "Красноярский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--lesosibirsk--20000.json",
+		"conflict": false
+	},
+	"lipeck": {
+		"id": "lipeck",
+		"name": "Липецк",
+		"title": "Липецк, Липецкая область",
+		"region": "Липецкая область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/lipeck--moskva--20000.json",
+		"conflict": false
+	},
+	"lisakovsk": {
+		"id": "lisakovsk",
+		"name": "Лисаковск",
+		"title": "Лисаковск, Костанайская область",
+		"region": "Костанайская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/lisakovsk--moskva--20000.json",
+		"conflict": false
+	},
+	"magadan": {
+		"id": "magadan",
+		"title": "Магадан, Магаданская область",
+		"name": "Магадан",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Магаданская область",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"magnitogorsk": {
+		"id": "magnitogorsk",
+		"name": "Магнитогорск",
+		"title": "Магнитогорск, Челябинская область",
+		"region": "Челябинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--magnitogorsk--20000.json",
+		"conflict": false
+	},
+	"mahachkala": {
+		"id": "mahachkala",
+		"name": "Махачкала",
+		"title": "Махачкала, Республика Дагестан",
+		"region": "Республика Дагестан",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--mahachkala--20000.json",
+		"conflict": false
+	},
+	"makinsk": {
+		"id": "makinsk",
+		"name": "Макинск",
+		"title": "Макинск, Акмолинская область",
+		"region": "Акмолинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/makinsk--moskva--20000.json",
+		"conflict": false
+	},
+	"mamlutka": {
+		"id": "mamlutka",
+		"name": "Мамлютка",
+		"title": "Мамлютка, Северо-Казахстанская область",
+		"region": "Северо-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/mamlutka--moskva--20000.json",
+		"conflict": false
+	},
+	"maykop": {
+		"id": "maykop",
+		"name": "Майкоп",
+		"title": "Майкоп, Республика Адыгея",
+		"region": "Республика Адыгея",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--maykop--20000.json",
+		"conflict": false
+	},
+	"miass": {
+		"id": "miass",
+		"name": "Миасс",
+		"title": "Миасс, Челябинская область",
+		"region": "Челябинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-matrix/kazan--miass--20000.json",
+		"conflict": false
+	},
+	"mineralnye-vody": {
+		"id": "mineralnye-vody",
+		"name": "Минеральные Воды",
+		"title": "Минеральные Воды, Ставропольский край",
+		"region": "Ставропольский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/mineralnye-vody--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"moskva": {
+		"id": "moskva",
+		"name": "Москва",
+		"title": "Москва, Московская область",
+		"region": "Московская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "data/training/moskva--anapa--1000.json",
+		"conflict": false
+	},
+	"murmansk": {
+		"id": "murmansk",
+		"name": "Мурманск",
+		"title": "Мурманск, Мурманская область",
+		"region": "Мурманская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "data/control/murmansk--moskva--1500.json",
+		"conflict": false
+	},
+	"naberezhnye-chelny": {
+		"id": "naberezhnye-chelny",
+		"name": "Набережные Челны",
+		"title": "Набережные Челны, Республика Татарстан",
+		"region": "Республика Татарстан",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-matrix/chelyabinsk--naberezhnye-chelny--20000.json",
+		"conflict": false
+	},
+	"nadym": {
+		"id": "nadym",
+		"name": "Надым",
+		"title": "Надым, Ямало-Ненецкий АО",
+		"region": "Ямало-Ненецкий АО",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--nadym--20000.json",
+		"conflict": false
+	},
+	"nahodka": {
+		"id": "nahodka",
+		"name": "Находка",
+		"title": "Находка, Приморский край",
+		"region": "Приморский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/nahodka--moskva--20000.json",
+		"conflict": false
+	},
+	"nalchik": {
+		"id": "nalchik",
+		"name": "Нальчик",
+		"title": "Нальчик, Кабардино-Балкарская Республика",
+		"region": "Кабардино-Балкарская Республика",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--nalchik--20000.json",
+		"conflict": false
+	},
+	"nazran": {
+		"id": "nazran",
+		"name": "Назрань",
+		"title": "Назрань, Республика Ингушетия",
+		"region": "Республика Ингушетия",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--nazran--20000.json",
+		"conflict": false
+	},
+	"neftekamsk": {
+		"id": "neftekamsk",
+		"name": "Нефтекамск",
+		"title": "Нефтекамск, Республика Башкортостан",
+		"region": "Республика Башкортостан",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-matrix/kazan--neftekamsk--20000.json",
+		"conflict": false
+	},
+	"nizhniy-novgorod": {
+		"id": "nizhniy-novgorod",
+		"name": "Нижний Новгород",
+		"title": "Нижний Новгород, Нижегородская область",
+		"region": "Нижегородская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/kazan--nizhniy-novgorod--20000.json",
+		"conflict": false
+	},
+	"nizhniy-tagil": {
+		"id": "nizhniy-tagil",
+		"name": "Нижний Тагил",
+		"title": "Нижний Тагил, Свердловская область",
+		"region": "Свердловская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-matrix/kazan--nizhniy-tagil--20000.json",
+		"conflict": false
+	},
+	"noviy-urengoy": {
+		"id": "noviy-urengoy",
+		"name": "Новый Уренгой",
+		"title": "Новый Уренгой, Ямало-Ненецкий АО",
+		"region": "Ямало-Ненецкий АО",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--noviy-urengoy--20000.json",
+		"conflict": false
+	},
+	"novoaltaysk": {
+		"id": "novoaltaysk",
+		"name": "Новоалтайск",
+		"title": "Новоалтайск, Алтайский край",
+		"region": "Алтайский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/novoaltaysk--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"novocherkassk": {
+		"id": "novocherkassk",
+		"name": "Новочеркасск",
+		"title": "Новочеркасск, Ростовская область",
+		"region": "Ростовская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--novocherkassk--20000.json",
+		"conflict": false
+	},
+	"novokuzneck": {
+		"id": "novokuzneck",
+		"name": "Новокузнецк",
+		"title": "Новокузнецк, Кемеровская область",
+		"region": "Кемеровская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--novokuzneck--20000.json",
+		"conflict": false
+	},
+	"novorossiysk": {
+		"id": "novorossiysk",
+		"name": "Новороссийск",
+		"title": "Новороссийск, Краснодарский край",
+		"region": "Краснодарский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--novorossiysk--20000.json",
+		"conflict": false
+	},
+	"novosibirsk": {
+		"id": "novosibirsk",
+		"name": "Новосибирск",
+		"title": "Новосибирск, Новосибирская область",
+		"region": "Новосибирская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "data/control/novosibirsk--moskva--6789.json",
+		"conflict": false
+	},
+	"novouralsk": {
+		"id": "novouralsk",
+		"name": "Новоуральск",
+		"title": "Новоуральск, Свердловская область",
+		"region": "Свердловская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--novouralsk--20000.json",
+		"conflict": false
+	},
+	"noyabrsk": {
+		"id": "noyabrsk",
+		"name": "Ноябрьск",
+		"title": "Ноябрьск, Ямало-Ненецкий АО",
+		"region": "Ямало-Ненецкий АО",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--noyabrsk--20000.json",
+		"conflict": false
+	},
+	"obninsk": {
+		"id": "obninsk",
+		"name": "Обнинск",
+		"title": "Обнинск, Калужская область",
+		"region": "Калужская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/moskva--obninsk--20000.json",
+		"conflict": false
+	},
+	"omsk": {
+		"id": "omsk",
+		"name": "Омск",
+		"title": "Омск, Омская область",
+		"region": "Омская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/omsk--vladivostok--20000.json",
+		"conflict": false
+	},
+	"orel": {
+		"id": "orel",
+		"name": "Орёл",
+		"title": "Орёл, Орловская область",
+		"region": "Орловская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/orel--moskva--20000.json",
+		"conflict": false
+	},
+	"orenburg": {
+		"id": "orenburg",
+		"name": "Оренбург",
+		"title": "Оренбург, Оренбургская область",
+		"region": "Оренбургская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--orenburg--20000.json",
+		"conflict": false
+	},
+	"pavlodar": {
+		"id": "pavlodar",
+		"name": "Павлодар",
+		"title": "Павлодар, Павлодарская область",
+		"region": "Павлодарская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/pavlodar--vladivostok--20000.json",
+		"conflict": false
+	},
+	"penza": {
+		"id": "penza",
+		"name": "Пенза",
+		"title": "Пенза, Пензенская область",
+		"region": "Пензенская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--penza--20000.json",
+		"conflict": false
+	},
+	"perm": {
+		"id": "perm",
+		"name": "Пермь",
+		"title": "Пермь, Пермский край",
+		"region": "Пермский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--perm--20000.json",
+		"conflict": false
+	},
+	"pervouralsk": {
+		"id": "pervouralsk",
+		"name": "Первоуральск",
+		"title": "Первоуральск, Свердловская область",
+		"region": "Свердловская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-matrix/kazan--pervouralsk--20000.json",
+		"conflict": false
+	},
+	"petropavlovsk": {
+		"id": "petropavlovsk",
+		"name": "Петропавловск",
+		"title": "Петропавловск, Северо-Казахстанская область",
+		"region": "Северо-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/petropavlovsk--moskva--20000.json",
+		"conflict": false
+	},
+	"petropavlovsk-kamchatskiy": {
+		"id": "petropavlovsk-kamchatskiy",
+		"title": "Петропавловск-Камчатский, Камчатский край",
+		"name": "Петропавловск-Камчатский",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Камчатский край",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"petrozavodsk": {
+		"id": "petrozavodsk",
+		"name": "Петрозаводск",
+		"title": "Петрозаводск, Республика Карелия",
+		"region": "Республика Карелия",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--petrozavodsk--20000.json",
+		"conflict": false
+	},
+	"podolsk": {
+		"id": "podolsk",
+		"name": "Подольск",
+		"title": "Подольск, Московская область",
+		"region": "Московская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/podolsk--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"priozersk": {
+		"id": "priozersk",
+		"name": "Приозёрск",
+		"title": "Приозёрск, Карагандинская область",
+		"region": "Карагандинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/priozersk--vladivostok--20000.json",
+		"conflict": false
+	},
+	"pskov": {
+		"id": "pskov",
+		"name": "Псков",
+		"title": "Псков, Псковская область",
+		"region": "Псковская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/pskov--vladivostok--20000.json",
+		"conflict": false
+	},
+	"pyatigorsk": {
+		"id": "pyatigorsk",
+		"name": "Пятигорск",
+		"title": "Пятигорск, Ставропольский край",
+		"region": "Ставропольский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/pyatigorsk--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"ridder": {
+		"id": "ridder",
+		"name": "Риддер",
+		"title": "Риддер, Восточно-Казахстанская область",
+		"region": "Восточно-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/ridder--vladivostok--20000.json",
+		"conflict": false
+	},
+	"rostov-na-donu": {
+		"id": "rostov-na-donu",
+		"name": "Ростов-на-Дону",
+		"title": "Ростов-на-Дону, Ростовская область",
+		"region": "Ростовская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/krasnodar--rostov-na-donu--20000.json",
+		"conflict": false
+	},
+	"rudniy": {
+		"id": "rudniy",
+		"name": "Рудный",
+		"title": "Рудный, Костанайская область",
+		"region": "Костанайская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/rudniy--vladivostok--20000.json",
+		"conflict": false
+	},
+	"ryazan": {
+		"id": "ryazan",
+		"name": "Рязань",
+		"title": "Рязань, Рязанская область",
+		"region": "Рязанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/moskva--ryazan--20000.json",
+		"conflict": false
+	},
+	"salavat": {
+		"id": "salavat",
+		"name": "Салават",
+		"title": "Салават, Республика Башкортостан",
+		"region": "Республика Башкортостан",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/salavat--vladivostok--20000.json",
+		"conflict": false
+	},
+	"salehard": {
+		"id": "salehard",
+		"name": "Салехард",
+		"title": "Салехард, Ямало-Ненецкий АО",
+		"region": "Ямало-Ненецкий АО",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/salehard--vladivostok--20000.json",
+		"conflict": false
+	},
+	"samara": {
+		"id": "samara",
+		"name": "Самара",
+		"title": "Самара, Самарская область",
+		"region": "Самарская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-research/moskva--samara--1000.json",
+		"conflict": false
+	},
+	"sankt-peterburg": {
+		"id": "sankt-peterburg",
+		"name": "Санкт-Петербург",
+		"title": "Санкт-Петербург, Ленинградская область",
+		"region": "Ленинградская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-research/moskva--sankt-peterburg--1000.json",
+		"conflict": false
+	},
+	"saran": {
+		"id": "saran",
+		"name": "Сарань",
+		"title": "Сарань, Карагандинская область",
+		"region": "Карагандинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/saran--vladivostok--20000.json",
+		"conflict": false
+	},
+	"saransk": {
+		"id": "saransk",
+		"name": "Саранск",
+		"title": "Саранск, Республика Мордовия",
+		"region": "Республика Мордовия",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--saransk--20000.json",
+		"conflict": false
+	},
+	"saratov": {
+		"id": "saratov",
+		"name": "Саратов",
+		"title": "Саратов, Саратовская область",
+		"region": "Саратовская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/samara--saratov--20000.json",
+		"conflict": false
+	},
+	"sariagash": {
+		"id": "sariagash",
+		"name": "Сарыагаш",
+		"title": "Сарыагаш, Туркестанская область",
+		"region": "Туркестанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/sariagash--moskva--20000.json",
+		"conflict": false
+	},
+	"sarkand": {
+		"id": "sarkand",
+		"name": "Сарканд",
+		"title": "Сарканд, Жетысуская область",
+		"region": "Жетысуская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/sarkand--moskva--20000.json",
+		"conflict": false
+	},
+	"sarov": {
+		"id": "sarov",
+		"name": "Саров",
+		"title": "Саров, Нижегородская область",
+		"region": "Нижегородская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/sarov--moskva--20000.json",
+		"conflict": false
+	},
+	"satpaev": {
+		"id": "satpaev",
+		"name": "Сатпаев",
+		"title": "Сатпаев, Улытауская область",
+		"region": "Улытауская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/satpaev--moskva--20000.json",
+		"conflict": false
+	},
+	"semey": {
+		"id": "semey",
+		"name": "Семей",
+		"title": "Семей, Абайская область",
+		"region": "Абайская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/semey--moskva--20000.json",
+		"conflict": false
+	},
+	"serebryansk": {
+		"id": "serebryansk",
+		"name": "Серебрянск",
+		"title": "Серебрянск, Восточно-Казахстанская область",
+		"region": "Восточно-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/serebryansk--moskva--20000.json",
+		"conflict": false
+	},
+	"sergeevka": {
+		"id": "sergeevka",
+		"name": "Сергеевка",
+		"title": "Сергеевка, Северо-Казахстанская область",
+		"region": "Северо-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/sergeevka--moskva--20000.json",
+		"conflict": false
+	},
+	"serpuhov": {
+		"id": "serpuhov",
+		"name": "Серпухов",
+		"title": "Серпухов, Московская область",
+		"region": "Московская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/serpuhov--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"sevastopol": {
+		"id": "sevastopol",
+		"name": "Севастополь",
+		"title": "Севастополь, Республика Крым",
+		"region": "Республика Крым",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--sevastopol--20000.json",
+		"conflict": false
+	},
+	"severodvinsk": {
+		"id": "severodvinsk",
+		"name": "Северодвинск",
+		"title": "Северодвинск, Архангельская область",
+		"region": "Архангельская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--severodvinsk--20000.json",
+		"conflict": false
+	},
+	"shahtinsk": {
+		"id": "shahtinsk",
+		"name": "Шахтинск",
+		"title": "Шахтинск, Карагандинская область",
+		"region": "Карагандинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/shahtinsk--moskva--20000.json",
+		"conflict": false
+	},
+	"shahty": {
+		"id": "shahty",
+		"name": "Шахты",
+		"title": "Шахты, Ростовская область",
+		"region": "Ростовская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--shahty--20000.json",
+		"conflict": false
+	},
+	"shalkar": {
+		"id": "shalkar",
+		"name": "Шалкар",
+		"title": "Шалкар, Актюбинская область",
+		"region": "Актюбинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/shalkar--moskva--20000.json",
+		"conflict": false
+	},
+	"shar": {
+		"id": "shar",
+		"name": "Шар",
+		"title": "Шар, Абайская область",
+		"region": "Абайская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/shar--moskva--20000.json",
+		"conflict": false
+	},
+	"shardara": {
+		"id": "shardara",
+		"name": "Шардара",
+		"title": "Шардара, Туркестанская область",
+		"region": "Туркестанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/shardara--moskva--20000.json",
+		"conflict": false
+	},
+	"shemonaiha": {
+		"id": "shemonaiha",
+		"name": "Шемонаиха",
+		"title": "Шемонаиха, Восточно-Казахстанская область",
+		"region": "Восточно-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/shemonaiha--vladivostok--20000.json",
+		"conflict": false
+	},
+	"shimkent": {
+		"id": "shimkent",
+		"name": "Шымкент",
+		"title": "Шымкент, Республика Казахстан",
+		"region": "Республика Казахстан",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/shimkent--vladivostok--20000.json",
+		"conflict": false
+	},
+	"shu": {
+		"id": "shu",
+		"name": "Шу",
+		"title": "Шу, Жамбылская область",
+		"region": "Жамбылская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/shu--vladivostok--20000.json",
+		"conflict": false
+	},
+	"shuchinsk": {
+		"id": "shuchinsk",
+		"name": "Щучинск",
+		"title": "Щучинск, Акмолинская область",
+		"region": "Акмолинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/shuchinsk--vladivostok--20000.json",
+		"conflict": false
+	},
+	"simferopol": {
+		"id": "simferopol",
+		"name": "Симферополь",
+		"title": "Симферополь, Республика Крым",
+		"region": "Республика Крым",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--simferopol--20000.json",
+		"conflict": false
+	},
+	"smolensk": {
+		"id": "smolensk",
+		"name": "Смоленск",
+		"title": "Смоленск, Смоленская область",
+		"region": "Смоленская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/smolensk--vladivostok--20000.json",
+		"conflict": false
+	},
+	"sochi": {
+		"id": "sochi",
+		"name": "Сочи",
+		"title": "Сочи, Краснодарский край",
+		"region": "Краснодарский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/rostov-na-donu--sochi--20000.json",
+		"conflict": false
+	},
+	"solikamsk": {
+		"id": "solikamsk",
+		"name": "Соликамск",
+		"title": "Соликамск, Пермский край",
+		"region": "Пермский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--solikamsk--20000.json",
+		"conflict": false
+	},
+	"stariy-oskol": {
+		"id": "stariy-oskol",
+		"name": "Старый Оскол",
+		"title": "Старый Оскол, Белгородская область",
+		"region": "Белгородская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--stariy-oskol--20000.json",
+		"conflict": false
+	},
+	"stavropol": {
+		"id": "stavropol",
+		"name": "Ставрополь",
+		"title": "Ставрополь, Ставропольский край",
+		"region": "Ставропольский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--stavropol--20000.json",
+		"conflict": false
+	},
+	"stepnogorsk": {
+		"id": "stepnogorsk",
+		"name": "Степногорск",
+		"title": "Степногорск, Акмолинская область",
+		"region": "Акмолинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/stepnogorsk--moskva--20000.json",
+		"conflict": false
+	},
+	"stepnyak": {
+		"id": "stepnyak",
+		"name": "Степняк",
+		"title": "Степняк, Акмолинская область",
+		"region": "Акмолинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/stepnyak--moskva--20000.json",
+		"conflict": false
+	},
+	"sterlitamak": {
+		"id": "sterlitamak",
+		"name": "Стерлитамак",
+		"title": "Стерлитамак, Республика Башкортостан",
+		"region": "Республика Башкортостан",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-matrix/kazan--sterlitamak--20000.json",
+		"conflict": false
+	},
+	"surgut": {
+		"id": "surgut",
+		"name": "Сургут",
+		"title": "Сургут, АО Ханты-Мансийский Автономный округ - Югра",
+		"region": "АО Ханты-Мансийский Автономный округ - Югра",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/surgut--vladivostok--20000.json",
+		"conflict": false
+	},
+	"syktyvkar": {
+		"id": "syktyvkar",
+		"name": "Сыктывкар",
+		"title": "Сыктывкар, Республика Коми",
+		"region": "Республика Коми",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/syktyvkar--vladivostok--20000.json",
+		"conflict": false
+	},
+	"syzran": {
+		"id": "syzran",
+		"name": "Сызрань",
+		"title": "Сызрань, Самарская область",
+		"region": "Самарская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-matrix/ekaterinburg--syzran--20000.json",
+		"conflict": false
+	},
+	"taganrog": {
+		"id": "taganrog",
+		"name": "Таганрог",
+		"title": "Таганрог, Ростовская область",
+		"region": "Ростовская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/anapa--taganrog--20000.json",
+		"conflict": false
+	},
+	"taldikorgan": {
+		"id": "taldikorgan",
+		"name": "Талдыкорган",
+		"title": "Талдыкорган, Жетысуская область",
+		"region": "Жетысуская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/taldikorgan--moskva--20000.json",
+		"conflict": false
+	},
+	"talgar": {
+		"id": "talgar",
+		"name": "Талгар",
+		"title": "Талгар, Алматинская область",
+		"region": "Алматинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/talgar--moskva--20000.json",
+		"conflict": false
+	},
+	"tambov": {
+		"id": "tambov",
+		"name": "Тамбов",
+		"title": "Тамбов, Тамбовская область",
+		"region": "Тамбовская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--tambov--20000.json",
+		"conflict": false
+	},
+	"taraz": {
+		"id": "taraz",
+		"name": "Тараз",
+		"title": "Тараз, Жамбылская область",
+		"region": "Жамбылская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/taraz--moskva--20000.json",
+		"conflict": false
+	},
+	"tayinsha": {
+		"id": "tayinsha",
+		"name": "Тайынша",
+		"title": "Тайынша, Северо-Казахстанская область",
+		"region": "Северо-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/tayinsha--moskva--20000.json",
+		"conflict": false
+	},
+	"tekeli": {
+		"id": "tekeli",
+		"name": "Текели",
+		"title": "Текели, Жетысуская область",
+		"region": "Жетысуская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/tekeli--moskva--20000.json",
+		"conflict": false
+	},
+	"temir": {
+		"id": "temir",
+		"name": "Темир",
+		"title": "Темир, Актюбинская область",
+		"region": "Актюбинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/temir--moskva--20000.json",
+		"conflict": false
+	},
+	"temirtau": {
+		"id": "temirtau",
+		"name": "Темиртау",
+		"title": "Темиртау, Карагандинская область",
+		"region": "Карагандинская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/temirtau--moskva--20000.json",
+		"conflict": false
+	},
+	"tobil": {
+		"id": "tobil",
+		"name": "Тобыл",
+		"title": "Тобыл, Костанайская область",
+		"region": "Костанайская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--tobil--20000.json",
+		"conflict": false
+	},
+	"tobolsk": {
+		"id": "tobolsk",
+		"name": "Тобольск",
+		"title": "Тобольск, Тюменская область",
+		"region": "Тюменская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--tobolsk--20000.json",
+		"conflict": false
+	},
+	"tolyatti": {
+		"id": "tolyatti",
+		"name": "Тольятти",
+		"title": "Тольятти, Самарская область",
+		"region": "Самарская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-matrix/chelyabinsk--tolyatti--20000.json",
+		"conflict": false
+	},
+	"tomsk": {
+		"id": "tomsk",
+		"name": "Томск",
+		"title": "Томск, Томская область",
+		"region": "Томская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--tomsk--20000.json",
+		"conflict": false
+	},
+	"troick": {
+		"id": "troick",
+		"name": "Троицк",
+		"title": "Троицк, Московская область",
+		"region": "Московская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/troick--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"tula": {
+		"id": "tula",
+		"name": "Тула",
+		"title": "Тула, Тульская область",
+		"region": "Тульская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/moskva--tula--20000.json",
+		"conflict": false
+	},
+	"turkestan": {
+		"id": "turkestan",
+		"name": "Туркестан",
+		"title": "Туркестан, Туркестанская область",
+		"region": "Туркестанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/turkestan--moskva--20000.json",
+		"conflict": false
+	},
+	"tver": {
+		"id": "tver",
+		"name": "Тверь",
+		"title": "Тверь, Тверская область",
+		"region": "Тверская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/tver--vladivostok--20000.json",
+		"conflict": false
+	},
+	"tyumen": {
+		"id": "tyumen",
+		"name": "Тюмень",
+		"title": "Тюмень, Тюменская область",
+		"region": "Тюменская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/tyumen--vladivostok--20000.json",
+		"conflict": false
+	},
+	"ufa": {
+		"id": "ufa",
+		"name": "Уфа",
+		"title": "Уфа, Республика Башкортостан",
+		"region": "Республика Башкортостан",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/chelyabinsk--ufa--20000.json",
+		"conflict": false
+	},
+	"uhta": {
+		"id": "uhta",
+		"name": "Ухта",
+		"title": "Ухта, Республика Коми",
+		"region": "Республика Коми",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/uhta--vladivostok--20000.json",
+		"conflict": false
+	},
+	"ulan-ude": {
+		"id": "ulan-ude",
+		"title": "Улан-Удэ, Республика Бурятия",
+		"name": "Улан-Удэ",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Бурятия",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"ulyanovsk": {
+		"id": "ulyanovsk",
+		"name": "Ульяновск",
+		"title": "Ульяновск, Ульяновская область",
+		"region": "Ульяновская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/samara--ulyanovsk--20000.json",
+		"conflict": false
+	},
+	"uralsk": {
+		"id": "uralsk",
+		"name": "Уральск",
+		"title": "Уральск, Западно-Казахстанская область",
+		"region": "Западно-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/uralsk--vladivostok--20000.json",
+		"conflict": false
+	},
+	"usharal": {
+		"id": "usharal",
+		"title": "Ушарал, Республика Казахстан",
+		"name": "Ушарал",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Казахстан",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"ushtobe": {
+		"id": "ushtobe",
+		"title": "Уштобе, Республика Казахстан",
+		"name": "Уштобе",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Казахстан",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"ussuriysk": {
+		"id": "ussuriysk",
+		"name": "Уссурийск",
+		"title": "Уссурийск, Приморский край",
+		"region": "Приморский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-probes/habarovsk--ussuriysk--20000.json",
+		"conflict": false
+	},
+	"ustkamenogorsk": {
+		"id": "ustkamenogorsk",
+		"title": "Усть-Каменогорск, Республика Казахстан",
+		"name": "Усть-Каменогорск",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Казахстан",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"velikiy-novgorod": {
+		"id": "velikiy-novgorod",
+		"name": "Великий Новгород",
+		"title": "Великий Новгород, Новгородская область",
+		"region": "Новгородская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/velikiy-novgorod--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"vidnoe": {
+		"id": "vidnoe",
+		"name": "Видное",
+		"title": "Видное, Московская область",
+		"region": "Московская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/vidnoe--birobidzhan--20000.json",
+		"conflict": false
+	},
+	"vladikavkaz": {
+		"id": "vladikavkaz",
+		"title": "Владикавказ, Республика Северная Осетия - Алания",
+		"name": "Владикавказ",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Северная Осетия - Алания",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"vladimir": {
+		"id": "vladimir",
+		"title": "Владимир, Владимирская область",
+		"name": "Владимир",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Владимирская область",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"vladivostok": {
+		"id": "vladivostok",
+		"name": "Владивосток",
+		"title": "Владивосток, Приморский край",
+		"region": "Приморский край",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-research/moskva--vladivostok--1000.json",
+		"conflict": false
+	},
+	"volgodonsk": {
+		"id": "volgodonsk",
+		"title": "Волгодонск, Ростовская область",
+		"name": "Волгодонск",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Ростовская область",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"volgograd": {
+		"id": "volgograd",
+		"title": "Волгоград, Волгоградская область",
+		"name": "Волгоград",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Волгоградская область",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"vologda": {
+		"id": "vologda",
+		"title": "Вологда, Вологодская область",
+		"name": "Вологда",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Вологодская область",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"volzhskiy": {
+		"id": "volzhskiy",
+		"title": "Волжский, Волгоградская область",
+		"name": "Волжский",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Волгоградская область",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"vorkuta": {
+		"id": "vorkuta",
+		"title": "Воркута, Республика Коми",
+		"name": "Воркута",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Коми",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"voronezh": {
+		"id": "voronezh",
+		"title": "Воронеж, Воронежская область",
+		"name": "Воронеж",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Воронежская область",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"voskresensk": {
+		"id": "voskresensk",
+		"title": "Воскресенск, Московская область",
+		"name": "Воскресенск",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Московская область",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"vsevolozhsk": {
+		"id": "vsevolozhsk",
+		"name": "Всеволожск",
+		"title": "Всеволожск, Ленинградская область",
+		"region": "Ленинградская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-route-matrix/novosibirsk--vsevolozhsk--20000.json",
+		"conflict": false
+	},
+	"vyksa": {
+		"id": "vyksa",
+		"title": "Выкса, Нижегородская область",
+		"name": "Выкса",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Нижегородская область",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"yakutsk": {
+		"id": "yakutsk",
+		"region": null,
+		"name": "Якутск",
+		"nameSource": "manualnormalization",
+		"autocompleteRegion": null,
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"yalta": {
+		"id": "yalta",
+		"region": null,
+		"name": "Ялта",
+		"nameSource": "manualnormalization",
+		"autocompleteRegion": null,
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"yaroslavl": {
+		"id": "yaroslavl",
+		"name": "Ярославль",
+		"title": "Ярославль, Ярославская область",
+		"region": "Ярославская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/yaroslavl--komsomolsk-na-amure--20000.json",
+		"conflict": false
+	},
+	"yoshkar-ola": {
+		"id": "yoshkar-ola",
+		"name": "Йошкар-Ола",
+		"title": "Йошкар-Ола, Республика Марий Эл",
+		"region": "Республика Марий Эл",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/yoshkar-ola--vladivostok--20000.json",
+		"conflict": false
+	},
+	"yuzhno-sahalinsk": {
+		"id": "yuzhno-sahalinsk",
+		"region": null,
+		"name": "Южно-Сахалинск",
+		"nameSource": "manualnormalization",
+		"autocompleteRegion": null,
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"zaysan": {
+		"id": "zaysan",
+		"name": "Зайсан",
+		"title": "Зайсан, Восточно-Казахстанская область",
+		"region": "Восточно-Казахстанская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/zaysan--vladivostok--20000.json",
+		"conflict": false
+	},
+	"zhanaozen": {
+		"id": "zhanaozen",
+		"title": "Жанаозен, Республика Казахстан",
+		"name": "Жанаозен",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Казахстан",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"zhanatas": {
+		"id": "zhanatas",
+		"title": "Жанатас, Республика Казахстан",
+		"name": "Жанатас",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Казахстан",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"zharkent": {
+		"id": "zharkent",
+		"title": "Жаркент, Республика Казахстан",
+		"name": "Жаркент",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Казахстан",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"zhem": {
+		"id": "zhem",
+		"title": "Жем, Республика Казахстан",
+		"name": "Жем",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Казахстан",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"zhetisay": {
+		"id": "zhetisay",
+		"title": "Жетысай, Республика Казахстан",
+		"name": "Жетысай",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Казахстан",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"zhezkazgan": {
+		"id": "zhezkazgan",
+		"title": "Жезказган, Республика Казахстан",
+		"name": "Жезказган",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Республика Казахстан",
+		"unknownReason": "no_owning_DATA_region"
+	},
+	"zhitikara": {
+		"id": "zhitikara",
+		"name": "Житикара",
+		"title": "Житикара, Костанайская область",
+		"region": "Костанайская область",
+		"metadataSource": "calc.DATA.route",
+		"sourceFile": "/private/tmp/transcalc-full-regions/quotes/zhitikara--vladivostok--20000.json",
+		"conflict": false
+	},
+	"zlatoust": {
+		"id": "zlatoust",
+		"title": "Златоуст, Челябинская область",
+		"name": "Златоуст",
+		"region": null,
+		"blocked": false,
+		"autocompleteRegion": "Челябинская область",
+		"unknownReason": "no_owning_DATA_region"
+	}
+}

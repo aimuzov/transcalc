@@ -1,0 +1,152 @@
+[
+	{
+		"from": "uralsk",
+		"to": "saratov",
+		"weight": 1000
+	},
+	{
+		"from": "uralsk",
+		"to": "saratov",
+		"weight": 5000
+	},
+	{
+		"from": "uralsk",
+		"to": "saratov",
+		"weight": 10000
+	},
+	{
+		"from": "pavlodar",
+		"to": "omsk",
+		"weight": 1000
+	},
+	{
+		"from": "pavlodar",
+		"to": "omsk",
+		"weight": 5000
+	},
+	{
+		"from": "pavlodar",
+		"to": "omsk",
+		"weight": 10000
+	},
+	{
+		"from": "petropavlovsk",
+		"to": "omsk",
+		"weight": 1000
+	},
+	{
+		"from": "petropavlovsk",
+		"to": "omsk",
+		"weight": 5000
+	},
+	{
+		"from": "petropavlovsk",
+		"to": "omsk",
+		"weight": 10000
+	},
+	{
+		"from": "aktobe",
+		"to": "orenburg",
+		"weight": 1000
+	},
+	{
+		"from": "aktobe",
+		"to": "orenburg",
+		"weight": 5000
+	},
+	{
+		"from": "aktobe",
+		"to": "orenburg",
+		"weight": 10000
+	},
+	{
+		"from": "almaty",
+		"to": "sochi",
+		"weight": 1000
+	},
+	{
+		"from": "almaty",
+		"to": "sochi",
+		"weight": 5000
+	},
+	{
+		"from": "almaty",
+		"to": "sochi",
+		"weight": 10000
+	},
+	{
+		"from": "samara",
+		"to": "balhash",
+		"weight": 1000
+	},
+	{
+		"from": "samara",
+		"to": "balhash",
+		"weight": 5000
+	},
+	{
+		"from": "samara",
+		"to": "balhash",
+		"weight": 10000
+	},
+	{
+		"from": "murmansk",
+		"to": "ussuriysk",
+		"weight": 1000
+	},
+	{
+		"from": "murmansk",
+		"to": "ussuriysk",
+		"weight": 5000
+	},
+	{
+		"from": "murmansk",
+		"to": "ussuriysk",
+		"weight": 10000
+	},
+	{
+		"from": "ussuriysk",
+		"to": "murmansk",
+		"weight": 1000
+	},
+	{
+		"from": "ussuriysk",
+		"to": "murmansk",
+		"weight": 5000
+	},
+	{
+		"from": "ussuriysk",
+		"to": "murmansk",
+		"weight": 10000
+	},
+	{
+		"from": "salehard",
+		"to": "anapa",
+		"weight": 1000
+	},
+	{
+		"from": "salehard",
+		"to": "anapa",
+		"weight": 5000
+	},
+	{
+		"from": "salehard",
+		"to": "anapa",
+		"weight": 10000
+	},
+	{
+		"from": "anapa",
+		"to": "salehard",
+		"weight": 1000
+	},
+	{
+		"from": "anapa",
+		"to": "salehard",
+		"weight": 5000
+	},
+	{
+		"from": "anapa",
+		"to": "salehard",
+		"weight": 10000
+	}
+]

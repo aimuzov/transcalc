@@ -7,19 +7,19 @@
 		onchange,
 	}: { value?: string; id: string; onchange: () => void } = $props()
 	let query = $state('')
+	let syncedValue: string | undefined
 
 	$effect(() => {
-		if (value) query = cities.find((city) => city.id === value)?.name ?? ''
+		if (value !== syncedValue) {
+			query = cities.find((city) => city.id === value)?.name ?? ''
+			syncedValue = value
+		}
 	})
 
 	let open = $state(false)
 	let active = $state(-1)
 	const choices = $derived(
-		cities.filter(
-			(city) =>
-				city.id !== 'moskva' &&
-				city.name.toLocaleLowerCase('ru').includes(query.trim().toLocaleLowerCase('ru')),
-		),
+		cities.filter((city) => city.name.toLocaleLowerCase('ru').includes(query.trim().toLocaleLowerCase('ru'))),
 	)
 
 	function choose(index: number) {
@@ -27,6 +27,7 @@
 
 		if (!city) return
 
+		syncedValue = city.id
 		value = city.id
 		query = city.name
 		open = false
@@ -77,6 +78,7 @@
 			active = -1
 		}}
 		oninput={() => {
+			syncedValue = ''
 			value = ''
 			open = true
 			active = -1

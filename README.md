@@ -24,11 +24,11 @@ The site is in Russian, so the names below are translated.
 
 ## What's inside
 
-The calculator supports searchable cities, Moscow routes in both directions, weight presets and VAT. Calculation links preserve the route and weight.
+The calculator supports two searchable cities, published regional routes, weight presets and VAT. Calculation links preserve the route and weight.
 
 Tariffs come from a versioned datrans.ru snapshot. Calculations make no requests to the source site. Unknown routes show no invented prices.
 
-The research records the formula and its limits in docs/research.md. Tests check 90 training quotes, 14 control quotes and the scraper.
+The research records the formula and its limits in docs/research.md. Tests check 90 training quotes, 14 control quotes and the scrapers. The [route catalog](docs/catalog.md) records sources and coverage gaps. `npm run test:catalog` checks every published price.
 
 Buttons, inputs and fields come from infra-site-kit.
 

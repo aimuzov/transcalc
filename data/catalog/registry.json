@@ -1,0 +1,3755 @@
+[
+	{
+		"fromRegion": "АО Ханты-Мансийский Автономный округ - Югра",
+		"toRegion": "Приморский край",
+		"rate": 137,
+		"evidence": [
+			{
+				"from": "surgut",
+				"to": "vladivostok",
+				"km": 6672,
+				"kmRounded": 6700,
+				"rate": 137,
+				"base": 917900,
+				"status": "ok",
+				"source": "data/catalog/quotes/surgut--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Абайская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "semey",
+				"to": "moskva",
+				"km": 3433,
+				"kmRounded": 3500,
+				"rate": 81,
+				"base": 283500,
+				"status": "ok",
+				"source": "data/catalog/quotes/semey--moskva--20000.json"
+			},
+			{
+				"from": "shar",
+				"to": "moskva",
+				"km": 3546,
+				"kmRounded": 3600,
+				"rate": 81,
+				"base": 291600,
+				"status": "ok",
+				"source": "data/catalog/quotes/shar--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Абайская область",
+		"toRegion": "Хабаровский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "ayagoz",
+				"to": "komsomolsk-na-amure",
+				"km": 5992,
+				"kmRounded": 6000,
+				"rate": 92,
+				"base": 552000,
+				"status": "ok",
+				"source": "data/catalog/quotes/ayagoz--komsomolsk-na-amure--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Акмолинская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "akkol",
+				"to": "moskva",
+				"km": 2730,
+				"kmRounded": 2800,
+				"rate": 81,
+				"base": 226800,
+				"status": "ok",
+				"source": "data/catalog/quotes/akkol--moskva--20000.json"
+			},
+			{
+				"from": "atbasar",
+				"to": "moskva",
+				"km": 2541,
+				"kmRounded": 2600,
+				"rate": 81,
+				"base": 210600,
+				"status": "ok",
+				"source": "data/catalog/quotes/atbasar--moskva--20000.json"
+			},
+			{
+				"from": "esil",
+				"to": "moskva",
+				"km": 2380,
+				"kmRounded": 2400,
+				"rate": 81,
+				"base": 194400,
+				"status": "ok",
+				"source": "data/catalog/quotes/esil--moskva--20000.json"
+			},
+			{
+				"from": "kokshetau",
+				"to": "moskva",
+				"km": 2526,
+				"kmRounded": 2600,
+				"rate": 81,
+				"base": 210600,
+				"status": "ok",
+				"source": "data/catalog/quotes/kokshetau--moskva--20000.json"
+			},
+			{
+				"from": "kosshi",
+				"to": "moskva",
+				"km": 2825,
+				"kmRounded": 2900,
+				"rate": 81,
+				"base": 234900,
+				"status": "ok",
+				"source": "data/catalog/quotes/kosshi--moskva--20000.json"
+			},
+			{
+				"from": "makinsk",
+				"to": "moskva",
+				"km": 2639,
+				"kmRounded": 2700,
+				"rate": 81,
+				"base": 218700,
+				"status": "ok",
+				"source": "data/catalog/quotes/makinsk--moskva--20000.json"
+			},
+			{
+				"from": "stepnogorsk",
+				"to": "moskva",
+				"km": 2694,
+				"kmRounded": 2700,
+				"rate": 81,
+				"base": 218700,
+				"status": "ok",
+				"source": "data/catalog/quotes/stepnogorsk--moskva--20000.json"
+			},
+			{
+				"from": "stepnyak",
+				"to": "moskva",
+				"km": 2587,
+				"kmRounded": 2600,
+				"rate": 81,
+				"base": 210600,
+				"status": "ok",
+				"source": "data/catalog/quotes/stepnyak--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Акмолинская область",
+		"toRegion": "Приморский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "derzhavinsk",
+				"to": "vladivostok",
+				"km": 8161,
+				"kmRounded": 8200,
+				"rate": 92,
+				"base": 754400,
+				"status": "ok",
+				"source": "data/catalog/quotes/derzhavinsk--vladivostok--20000.json"
+			},
+			{
+				"from": "ereymentau",
+				"to": "vladivostok",
+				"km": 6645,
+				"kmRounded": 6700,
+				"rate": 92,
+				"base": 616400,
+				"status": "ok",
+				"source": "data/catalog/quotes/ereymentau--vladivostok--20000.json"
+			},
+			{
+				"from": "shuchinsk",
+				"to": "vladivostok",
+				"km": 6648,
+				"kmRounded": 6700,
+				"rate": 92,
+				"base": 616400,
+				"status": "ok",
+				"source": "data/catalog/quotes/shuchinsk--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Актюбинская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "aktobe",
+				"to": "moskva",
+				"km": 1753,
+				"kmRounded": 1800,
+				"rate": 81,
+				"base": 145800,
+				"status": "ok",
+				"source": "data/catalog/quotes/aktobe--moskva--20000.json"
+			},
+			{
+				"from": "alga",
+				"to": "moskva",
+				"km": 2417,
+				"kmRounded": 2500,
+				"rate": 81,
+				"base": 202500,
+				"status": "ok",
+				"source": "data/catalog/quotes/alga--moskva--20000.json"
+			},
+			{
+				"from": "kandiagash",
+				"to": "moskva",
+				"km": 1850,
+				"kmRounded": 1900,
+				"rate": 81,
+				"base": 153900,
+				"status": "ok",
+				"source": "data/catalog/quotes/kandiagash--moskva--20000.json"
+			},
+			{
+				"from": "shalkar",
+				"to": "moskva",
+				"km": 2108,
+				"kmRounded": 2200,
+				"rate": 81,
+				"base": 178200,
+				"status": "ok",
+				"source": "data/catalog/quotes/shalkar--moskva--20000.json"
+			},
+			{
+				"from": "temir",
+				"to": "moskva",
+				"km": 1783,
+				"kmRounded": 1800,
+				"rate": 81,
+				"base": 145800,
+				"status": "ok",
+				"source": "data/catalog/quotes/temir--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Актюбинская область",
+		"toRegion": "Приморский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "chrometau",
+				"to": "vladivostok",
+				"km": 8057,
+				"kmRounded": 8100,
+				"rate": 92,
+				"base": 745200,
+				"status": "ok",
+				"source": "data/catalog/quotes/chrometau--vladivostok--20000.json"
+			},
+			{
+				"from": "emba",
+				"to": "vladivostok",
+				"km": 8057,
+				"kmRounded": 8100,
+				"rate": 92,
+				"base": 745200,
+				"status": "ok",
+				"source": "data/catalog/quotes/emba--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Алматинская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "esik",
+				"to": "moskva",
+				"km": 4096,
+				"kmRounded": 4100,
+				"rate": 81,
+				"base": 332100,
+				"status": "ok",
+				"source": "data/catalog/quotes/esik--moskva--20000.json"
+			},
+			{
+				"from": "konaev",
+				"to": "moskva",
+				"km": 4092,
+				"kmRounded": 4100,
+				"rate": 81,
+				"base": 332100,
+				"status": "ok",
+				"source": "data/catalog/quotes/konaev--moskva--20000.json"
+			},
+			{
+				"from": "talgar",
+				"to": "moskva",
+				"km": 3609,
+				"kmRounded": 3700,
+				"rate": 81,
+				"base": 299700,
+				"status": "ok",
+				"source": "data/catalog/quotes/talgar--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Алматинская область",
+		"toRegion": "Приморский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "kaskelen",
+				"to": "vladivostok",
+				"km": 6354,
+				"kmRounded": 6400,
+				"rate": 92,
+				"base": 588800,
+				"status": "ok",
+				"source": "data/catalog/quotes/kaskelen--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Алтайский край",
+		"toRegion": "Еврейская Аобл",
+		"rate": 184,
+		"evidence": [
+			{
+				"from": "novoaltaysk",
+				"to": "birobidzhan",
+				"km": 4975,
+				"kmRounded": 5000,
+				"rate": 184,
+				"base": 920000,
+				"status": "ok",
+				"source": "data/catalog/quotes/novoaltaysk--birobidzhan--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Атырауская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "atirau",
+				"to": "moskva",
+				"km": 1721,
+				"kmRounded": 1800,
+				"rate": 81,
+				"base": 145800,
+				"status": "ok",
+				"source": "data/catalog/quotes/atirau--moskva--20000.json"
+			},
+			{
+				"from": "kulsari",
+				"to": "moskva",
+				"km": 1944,
+				"kmRounded": 2000,
+				"rate": 81,
+				"base": 162000,
+				"status": "ok",
+				"source": "data/catalog/quotes/kulsari--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Волгоградская область",
+		"toRegion": "Приморский край",
+		"rate": 200,
+		"evidence": [
+			{
+				"from": "kamyshin",
+				"to": "vladivostok",
+				"km": 8837,
+				"kmRounded": 8900,
+				"rate": 200,
+				"base": 1780000,
+				"status": "ok",
+				"source": "data/catalog/quotes/kamyshin--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Вологодская область",
+		"toRegion": "Московская область",
+		"rate": 160,
+		"evidence": [
+			{
+				"from": "cherepovec",
+				"to": "moskva",
+				"km": 512,
+				"kmRounded": 600,
+				"rate": 160,
+				"base": 96000,
+				"status": "ok",
+				"source": "data/catalog/quotes/cherepovec--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Восточно-Казахстанская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "altay",
+				"to": "moskva",
+				"km": 3809,
+				"kmRounded": 3900,
+				"rate": 81,
+				"base": 315900,
+				"status": "ok",
+				"source": "data/catalog/quotes/altay--moskva--20000.json"
+			},
+			{
+				"from": "serebryansk",
+				"to": "moskva",
+				"km": 3708,
+				"kmRounded": 3800,
+				"rate": 81,
+				"base": 307800,
+				"status": "ok",
+				"source": "data/catalog/quotes/serebryansk--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Восточно-Казахстанская область",
+		"toRegion": "Приморский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "ridder",
+				"to": "vladivostok",
+				"km": 6383,
+				"kmRounded": 6400,
+				"rate": 92,
+				"base": 588800,
+				"status": "ok",
+				"source": "data/catalog/quotes/ridder--vladivostok--20000.json"
+			},
+			{
+				"from": "shemonaiha",
+				"to": "vladivostok",
+				"km": 6322,
+				"kmRounded": 6400,
+				"rate": 92,
+				"base": 588800,
+				"status": "ok",
+				"source": "data/catalog/quotes/shemonaiha--vladivostok--20000.json"
+			},
+			{
+				"from": "zaysan",
+				"to": "vladivostok",
+				"km": 6420,
+				"kmRounded": 6500,
+				"rate": 92,
+				"base": 598000,
+				"status": "ok",
+				"source": "data/catalog/quotes/zaysan--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Жамбылская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "karatau",
+				"to": "moskva",
+				"km": 3384,
+				"kmRounded": 3400,
+				"rate": 81,
+				"base": 275400,
+				"status": "ok",
+				"source": "data/catalog/quotes/karatau--moskva--20000.json"
+			},
+			{
+				"from": "taraz",
+				"to": "moskva",
+				"km": 3373,
+				"kmRounded": 3400,
+				"rate": 81,
+				"base": 275400,
+				"status": "ok",
+				"source": "data/catalog/quotes/taraz--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Жамбылская область",
+		"toRegion": "Приморский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "shu",
+				"to": "vladivostok",
+				"km": 6354,
+				"kmRounded": 6400,
+				"rate": 92,
+				"base": 588800,
+				"status": "ok",
+				"source": "data/catalog/quotes/shu--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Жетысуская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "sarkand",
+				"to": "moskva",
+				"km": 4343,
+				"kmRounded": 4400,
+				"rate": 81,
+				"base": 356400,
+				"status": "ok",
+				"source": "data/catalog/quotes/sarkand--moskva--20000.json"
+			},
+			{
+				"from": "taldikorgan",
+				"to": "moskva",
+				"km": 4292,
+				"kmRounded": 4300,
+				"rate": 81,
+				"base": 348300,
+				"status": "ok",
+				"source": "data/catalog/quotes/taldikorgan--moskva--20000.json"
+			},
+			{
+				"from": "tekeli",
+				"to": "moskva",
+				"km": 4326,
+				"kmRounded": 4400,
+				"rate": 81,
+				"base": 356400,
+				"status": "ok",
+				"source": "data/catalog/quotes/tekeli--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Западно-Казахстанская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "aksay",
+				"to": "moskva",
+				"km": 1450,
+				"kmRounded": 1500,
+				"rate": 81,
+				"base": 121500,
+				"status": "ok",
+				"source": "data/catalog/quotes/aksay--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Западно-Казахстанская область",
+		"toRegion": "Приморский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "uralsk",
+				"to": "vladivostok",
+				"km": 8381,
+				"kmRounded": 8400,
+				"rate": 92,
+				"base": 772800,
+				"status": "ok",
+				"source": "data/catalog/quotes/uralsk--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Калужская область",
+		"toRegion": "Московская область",
+		"rate": 300,
+		"evidence": [
+			{
+				"from": "kaluga",
+				"to": "moskva",
+				"km": 180,
+				"kmRounded": 200,
+				"rate": 300,
+				"base": 60000,
+				"status": "ok",
+				"source": "data/catalog/quotes/kaluga--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Карагандинская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "abay",
+				"to": "moskva",
+				"km": 2929,
+				"kmRounded": 3000,
+				"rate": 81,
+				"base": 243000,
+				"status": "ok",
+				"source": "data/control/abay--moskva--20000.json"
+			},
+			{
+				"from": "karaganda",
+				"to": "moskva",
+				"km": 2969,
+				"kmRounded": 3000,
+				"rate": 81,
+				"base": 243000,
+				"status": "ok",
+				"source": "data/catalog/quotes/karaganda--moskva--20000.json"
+			},
+			{
+				"from": "karkaralinsk",
+				"to": "moskva",
+				"km": 3224,
+				"kmRounded": 3300,
+				"rate": 81,
+				"base": 267300,
+				"status": "ok",
+				"source": "data/catalog/quotes/karkaralinsk--moskva--20000.json"
+			},
+			{
+				"from": "shahtinsk",
+				"to": "moskva",
+				"km": 2904,
+				"kmRounded": 3000,
+				"rate": 81,
+				"base": 243000,
+				"status": "ok",
+				"source": "data/catalog/quotes/shahtinsk--moskva--20000.json"
+			},
+			{
+				"from": "temirtau",
+				"to": "moskva",
+				"km": 2969,
+				"kmRounded": 3000,
+				"rate": 81,
+				"base": 243000,
+				"status": "ok",
+				"source": "data/catalog/quotes/temirtau--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Карагандинская область",
+		"toRegion": "Приморский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "priozersk",
+				"to": "vladivostok",
+				"km": 6353,
+				"kmRounded": 6400,
+				"rate": 92,
+				"base": 588800,
+				"status": "ok",
+				"source": "data/catalog/quotes/priozersk--vladivostok--20000.json"
+			},
+			{
+				"from": "saran",
+				"to": "vladivostok",
+				"km": 6645,
+				"kmRounded": 6700,
+				"rate": 92,
+				"base": 616400,
+				"status": "ok",
+				"source": "data/catalog/quotes/saran--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Костанайская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "arkalik",
+				"to": "moskva",
+				"km": 2559,
+				"kmRounded": 2600,
+				"rate": 81,
+				"base": 210600,
+				"status": "ok",
+				"source": "data/catalog/quotes/arkalik--moskva--20000.json"
+			},
+			{
+				"from": "kostanay",
+				"to": "moskva",
+				"km": 2079,
+				"kmRounded": 2100,
+				"rate": 81,
+				"base": 170100,
+				"status": "ok",
+				"source": "data/catalog/quotes/kostanay--moskva--20000.json"
+			},
+			{
+				"from": "lisakovsk",
+				"to": "moskva",
+				"km": 2079,
+				"kmRounded": 2100,
+				"rate": 81,
+				"base": 170100,
+				"status": "ok",
+				"source": "data/catalog/quotes/lisakovsk--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Костанайская область",
+		"toRegion": "Приморский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "rudniy",
+				"to": "vladivostok",
+				"km": 7714,
+				"kmRounded": 7800,
+				"rate": 92,
+				"base": 717600,
+				"status": "ok",
+				"source": "data/catalog/quotes/rudniy--vladivostok--20000.json"
+			},
+			{
+				"from": "zhitikara",
+				"to": "vladivostok",
+				"km": 7388,
+				"kmRounded": 7400,
+				"rate": 92,
+				"base": 680800,
+				"status": "ok",
+				"source": "data/catalog/quotes/zhitikara--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Краснодарский край",
+		"toRegion": "Ростовская область",
+		"rate": 210,
+		"evidence": [
+			{
+				"from": "anapa",
+				"to": "taganrog",
+				"km": 475,
+				"kmRounded": 500,
+				"rate": 210,
+				"base": 105000,
+				"status": "ok",
+				"source": "data/catalog/quotes/anapa--taganrog--20000.json"
+			},
+			{
+				"from": "sochi",
+				"to": "rostov-na-donu",
+				"km": 552,
+				"kmRounded": 600,
+				"rate": 210,
+				"base": 126000,
+				"status": "ok",
+				"source": "data/catalog/quotes/sochi--rostov-na-donu--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Краснодарский край",
+		"toRegion": "Самарская область",
+		"rate": 105,
+		"evidence": [
+			{
+				"from": "krymsk",
+				"to": "samara",
+				"km": 1604,
+				"kmRounded": 1700,
+				"rate": 105,
+				"base": 178500,
+				"status": "ok",
+				"source": "data/catalog/quotes/krymsk--samara--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Красноярский край",
+		"toRegion": "Новосибирская область",
+		"rate": 112,
+		"evidence": [
+			{
+				"from": "krasnoyarsk",
+				"to": "novosibirsk",
+				"km": 792,
+				"kmRounded": 800,
+				"rate": 112,
+				"base": 90000,
+				"status": "ok",
+				"source": "data/catalog/quotes/krasnoyarsk--novosibirsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Курская область",
+		"toRegion": "Московская область",
+		"rate": 133,
+		"evidence": [
+			{
+				"from": "kurchatov",
+				"to": "moskva",
+				"km": 644,
+				"kmRounded": 700,
+				"rate": 133,
+				"base": 93100,
+				"status": "ok",
+				"source": "data/catalog/quotes/kurchatov--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Кызылординская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "aralsk",
+				"to": "moskva",
+				"km": 2318,
+				"kmRounded": 2400,
+				"rate": 81,
+				"base": 194400,
+				"status": "ok",
+				"source": "data/catalog/quotes/aralsk--moskva--20000.json"
+			},
+			{
+				"from": "baykonur",
+				"to": "moskva",
+				"km": 2561,
+				"kmRounded": 2600,
+				"rate": 81,
+				"base": 210600,
+				"status": "ok",
+				"source": "data/catalog/quotes/baykonur--moskva--20000.json"
+			},
+			{
+				"from": "kazalinsk",
+				"to": "moskva",
+				"km": 2440,
+				"kmRounded": 2500,
+				"rate": 81,
+				"base": 202500,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazalinsk--moskva--20000.json"
+			},
+			{
+				"from": "kizilorda",
+				"to": "moskva",
+				"km": 2772,
+				"kmRounded": 2800,
+				"rate": 81,
+				"base": 226800,
+				"status": "ok",
+				"source": "data/catalog/quotes/kizilorda--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Ленинградская область",
+		"toRegion": "Новосибирская область",
+		"rate": 106,
+		"evidence": [
+			{
+				"from": "sankt-peterburg",
+				"to": "berdsk",
+				"km": 3939,
+				"kmRounded": 4000,
+				"rate": 106,
+				"base": 424000,
+				"status": "ok",
+				"source": "data/catalog/quotes/sankt-peterburg--berdsk--20000.json"
+			},
+			{
+				"from": "sankt-peterburg",
+				"to": "novosibirsk",
+				"km": 3906,
+				"kmRounded": 4000,
+				"rate": 106,
+				"base": 480000,
+				"status": "ok",
+				"source": "data/catalog/quotes/sankt-peterburg--novosibirsk--20000.json"
+			},
+			{
+				"from": "vsevolozhsk",
+				"to": "novosibirsk",
+				"km": 3924,
+				"kmRounded": 4000,
+				"rate": 106,
+				"base": 424000,
+				"status": "ok",
+				"source": "data/catalog/quotes/vsevolozhsk--novosibirsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Ленинградская область",
+		"toRegion": "Республика Татарстан",
+		"rate": 120,
+		"evidence": [
+			{
+				"from": "sankt-peterburg",
+				"to": "kazan",
+				"km": 1524,
+				"kmRounded": 1600,
+				"rate": 120,
+				"base": 192000,
+				"status": "ok",
+				"source": "data/catalog/quotes/sankt-peterburg--kazan--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Ленинградская область",
+		"toRegion": "Самарская область",
+		"rate": 103,
+		"evidence": [
+			{
+				"from": "sankt-peterburg",
+				"to": "samara",
+				"km": 1772,
+				"kmRounded": 1800,
+				"rate": 103,
+				"base": 185400,
+				"status": "ok",
+				"source": "data/catalog/quotes/sankt-peterburg--samara--20000.json"
+			},
+			{
+				"from": "sankt-peterburg",
+				"to": "tolyatti",
+				"km": 1704,
+				"kmRounded": 1800,
+				"rate": 103,
+				"base": 185400,
+				"status": "ok",
+				"source": "data/catalog/quotes/sankt-peterburg--tolyatti--20000.json"
+			},
+			{
+				"from": "vsevolozhsk",
+				"to": "samara",
+				"km": 1790,
+				"kmRounded": 1800,
+				"rate": 103,
+				"base": 185400,
+				"status": "ok",
+				"source": "data/catalog/quotes/vsevolozhsk--samara--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Ленинградская область",
+		"toRegion": "Свердловская область",
+		"rate": 120,
+		"evidence": [
+			{
+				"from": "sankt-peterburg",
+				"to": "ekaterinburg",
+				"km": 2310,
+				"kmRounded": 2400,
+				"rate": 120,
+				"base": 290000,
+				"status": "ok",
+				"source": "data/catalog/quotes/sankt-peterburg--ekaterinburg--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Липецкая область",
+		"toRegion": "Московская область",
+		"rate": 160,
+		"evidence": [
+			{
+				"from": "lipeck",
+				"to": "moskva",
+				"km": 437,
+				"kmRounded": 500,
+				"rate": 160,
+				"base": 80000,
+				"status": "ok",
+				"source": "data/catalog/quotes/lipeck--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Мангистауская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "aktau",
+				"to": "moskva",
+				"km": 1988,
+				"kmRounded": 2000,
+				"rate": 81,
+				"base": 162000,
+				"status": "ok",
+				"source": "data/catalog/quotes/aktau--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Мангистауская область",
+		"toRegion": "Приморский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "fortshevchenko",
+				"to": "vladivostok",
+				"km": 9316,
+				"kmRounded": 9400,
+				"rate": 92,
+				"base": 864800,
+				"status": "ok",
+				"source": "data/catalog/quotes/fortshevchenko--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "АО Ханты-Мансийский Автономный округ - Югра",
+		"rate": 117,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "hanty-mansiysk",
+				"km": 2600,
+				"kmRounded": 2600,
+				"rate": 117,
+				"base": 304200,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--hanty-mansiysk--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "kogalym",
+				"km": 3069,
+				"kmRounded": 3100,
+				"rate": 117,
+				"base": 362700,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--kogalym--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Алтайский край",
+		"rate": 111,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "barnaul",
+				"km": 3635,
+				"kmRounded": 3700,
+				"rate": 111,
+				"base": 410000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--barnaul--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Амурская область",
+		"rate": 89,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "blagoveschensk",
+				"km": 7858,
+				"kmRounded": 7900,
+				"rate": 89,
+				"base": 703100,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--blagoveschensk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Архангельская область",
+		"rate": 115,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "arhangelsk",
+				"km": 1232,
+				"kmRounded": 1300,
+				"rate": 115,
+				"base": 150000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--arhangelsk--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "severodvinsk",
+				"km": 1267,
+				"kmRounded": 1300,
+				"rate": 115,
+				"base": 149500,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--severodvinsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Астраханская область",
+		"rate": 154,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "astrahan",
+				"km": 1392,
+				"kmRounded": 1400,
+				"rate": 154,
+				"base": 215000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--astrahan--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Белгородская область",
+		"rate": 186,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "belgorod",
+				"km": 665,
+				"kmRounded": 700,
+				"rate": 186,
+				"base": 130000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--belgorod--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "stariy-oskol",
+				"km": 635,
+				"kmRounded": 700,
+				"rate": 186,
+				"base": 130200,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--stariy-oskol--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Брянская область",
+		"rate": 162,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "bryansk",
+				"km": 382,
+				"kmRounded": 400,
+				"rate": 162,
+				"base": 65000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--bryansk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Еврейская Аобл",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "dolgoprudniy",
+				"to": "birobidzhan",
+				"km": 8246,
+				"kmRounded": 8300,
+				"rate": 147,
+				"base": 1220100,
+				"status": "ok",
+				"source": "data/catalog/quotes/dolgoprudniy--birobidzhan--20000.json"
+			},
+			{
+				"from": "elektrostal",
+				"to": "birobidzhan",
+				"km": 8208,
+				"kmRounded": 8300,
+				"rate": 147,
+				"base": 1220100,
+				"status": "ok",
+				"source": "data/catalog/quotes/elektrostal--birobidzhan--20000.json"
+			},
+			{
+				"from": "fryazino",
+				"to": "birobidzhan",
+				"km": 8228,
+				"kmRounded": 8300,
+				"rate": 147,
+				"base": 1220100,
+				"status": "ok",
+				"source": "data/catalog/quotes/fryazino--birobidzhan--20000.json"
+			},
+			{
+				"from": "himki",
+				"to": "birobidzhan",
+				"km": 8249,
+				"kmRounded": 8300,
+				"rate": 147,
+				"base": 1220100,
+				"status": "ok",
+				"source": "data/catalog/quotes/himki--birobidzhan--20000.json"
+			},
+			{
+				"from": "ivanteevka",
+				"to": "birobidzhan",
+				"km": 8218,
+				"kmRounded": 8300,
+				"rate": 147,
+				"base": 1220100,
+				"status": "ok",
+				"source": "data/catalog/quotes/ivanteevka--birobidzhan--20000.json"
+			},
+			{
+				"from": "kolomna",
+				"to": "birobidzhan",
+				"km": 8179,
+				"kmRounded": 8200,
+				"rate": 147,
+				"base": 1205400,
+				"status": "ok",
+				"source": "data/catalog/quotes/kolomna--birobidzhan--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "birobidzhan",
+				"km": 8245,
+				"kmRounded": 8300,
+				"rate": 147,
+				"base": 1220100,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--birobidzhan--20000.json"
+			},
+			{
+				"from": "podolsk",
+				"to": "birobidzhan",
+				"km": 8292,
+				"kmRounded": 8300,
+				"rate": 147,
+				"base": 1220100,
+				"status": "ok",
+				"source": "data/catalog/quotes/podolsk--birobidzhan--20000.json"
+			},
+			{
+				"from": "serpuhov",
+				"to": "birobidzhan",
+				"km": 8362,
+				"kmRounded": 8400,
+				"rate": 147,
+				"base": 1234800,
+				"status": "ok",
+				"source": "data/catalog/quotes/serpuhov--birobidzhan--20000.json"
+			},
+			{
+				"from": "troick",
+				"to": "birobidzhan",
+				"km": 6538,
+				"kmRounded": 6600,
+				"rate": 147,
+				"base": 970200,
+				"status": "ok",
+				"source": "data/catalog/quotes/troick--birobidzhan--20000.json"
+			},
+			{
+				"from": "vidnoe",
+				"to": "birobidzhan",
+				"km": 8274,
+				"kmRounded": 8300,
+				"rate": 147,
+				"base": 1220100,
+				"status": "ok",
+				"source": "data/catalog/quotes/vidnoe--birobidzhan--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Забайкальский край",
+		"rate": 94,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "chita",
+				"km": 6316,
+				"kmRounded": 6400,
+				"rate": 94,
+				"base": 600000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--chita--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "krasnokamensk",
+				"km": 6901,
+				"kmRounded": 7000,
+				"rate": 94,
+				"base": 658000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--krasnokamensk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Ивановская область",
+		"rate": 158,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "ivanovo",
+				"km": 302,
+				"kmRounded": 400,
+				"rate": 158,
+				"base": 63200,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--ivanovo--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Иркутская область",
+		"rate": 104,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "irkutsk",
+				"km": 5240,
+				"kmRounded": 5300,
+				"rate": 104,
+				"base": 480000,
+				"status": "ok",
+				"source": "data/control/moskva--irkutsk--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "angarsk",
+				"km": 5194,
+				"kmRounded": 5200,
+				"rate": 104,
+				"base": 540800,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--angarsk--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "bratsk",
+				"km": 5068,
+				"kmRounded": 5100,
+				"rate": 104,
+				"base": 600000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--bratsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Кабардино-Балкарская Республика",
+		"rate": 135,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "nalchik",
+				"km": 1685,
+				"kmRounded": 1700,
+				"rate": 135,
+				"base": 230000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--nalchik--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Калужская область",
+		"rate": 300,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "obninsk",
+				"km": 105,
+				"kmRounded": 200,
+				"rate": 300,
+				"base": 60000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--obninsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Карагандинская область",
+		"rate": 104,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "balhash",
+				"km": 3404,
+				"kmRounded": 3500,
+				"rate": 104,
+				"base": 364000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--balhash--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Карачаево-Черкесская Республика",
+		"rate": 153,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "cherkessk",
+				"km": 1496,
+				"kmRounded": 1500,
+				"rate": 153,
+				"base": 230000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--cherkessk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Кемеровская область",
+		"rate": 99,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "kemerovo",
+				"km": 3664,
+				"kmRounded": 3700,
+				"rate": 99,
+				"base": 350000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--kemerovo--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "novokuzneck",
+				"km": 3871,
+				"kmRounded": 3900,
+				"rate": 99,
+				"base": 400000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--novokuzneck--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Кировская область",
+		"rate": 130,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "kirov",
+				"km": 958,
+				"kmRounded": 1000,
+				"rate": 130,
+				"base": 130000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--kirov--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Костанайская область",
+		"rate": 104,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "tobil",
+				"km": 2085,
+				"kmRounded": 2100,
+				"rate": 104,
+				"base": 218400,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--tobil--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Костромская область",
+		"rate": 162,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "kostroma",
+				"km": 345,
+				"kmRounded": 400,
+				"rate": 162,
+				"base": 65000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--kostroma--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Краснодарский край",
+		"rate": 139,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "novorossiysk",
+				"km": 1480,
+				"kmRounded": 1500,
+				"rate": 139,
+				"base": 200000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--novorossiysk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Красноярский край",
+		"rate": 95,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "achinsk",
+				"km": 4021,
+				"kmRounded": 4100,
+				"rate": 95,
+				"base": 389500,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--achinsk--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "lesosibirsk",
+				"km": 4465,
+				"kmRounded": 4500,
+				"rate": 95,
+				"base": 427500,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--lesosibirsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Курганская область",
+		"rate": 119,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "kurgan",
+				"km": 2045,
+				"kmRounded": 2100,
+				"rate": 119,
+				"base": 250000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--kurgan--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Курская область",
+		"rate": 150,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "kursk",
+				"km": 526,
+				"kmRounded": 600,
+				"rate": 150,
+				"base": 90000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--kursk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Ленинградская область",
+		"rate": 162,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "sankt-peterburg",
+				"km": 704,
+				"kmRounded": 800,
+				"rate": 162,
+				"base": 130000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--sankt-peterburg--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Оренбургская область",
+		"rate": 153,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "buzuluk",
+				"km": 1218,
+				"kmRounded": 1300,
+				"rate": 153,
+				"base": 198900,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--buzuluk--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "orenburg",
+				"km": 1461,
+				"kmRounded": 1500,
+				"rate": 153,
+				"base": 230000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--orenburg--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Пензенская область",
+		"rate": 157,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "penza",
+				"km": 644,
+				"kmRounded": 700,
+				"rate": 157,
+				"base": 110000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--penza--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Пермский край",
+		"rate": 127,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "perm",
+				"km": 1442,
+				"kmRounded": 1500,
+				"rate": 127,
+				"base": 190000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--perm--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "solikamsk",
+				"km": 1644,
+				"kmRounded": 1700,
+				"rate": 127,
+				"base": 215900,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--solikamsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Приморский край",
+		"rate": 82,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "vladivostok",
+				"km": 9186,
+				"kmRounded": 9200,
+				"rate": 82,
+				"base": 750000,
+				"status": "ok",
+				"source": "data/control/moskva--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Республика Адыгея",
+		"rate": 123,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "maykop",
+				"km": 1403,
+				"kmRounded": 1500,
+				"rate": 123,
+				"base": 185000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--maykop--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Республика Алтай",
+		"rate": 133,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "gorno-altaysk",
+				"km": 3853,
+				"kmRounded": 3900,
+				"rate": 133,
+				"base": 518700,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--gorno-altaysk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Республика Дагестан",
+		"rate": 128,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "mahachkala",
+				"km": 1798,
+				"kmRounded": 1800,
+				"rate": 128,
+				"base": 230000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--mahachkala--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Республика Ингушетия",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "nazran",
+				"km": 1796,
+				"kmRounded": 1800,
+				"rate": 147,
+				"base": 264600,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--nazran--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Республика Калмыкия",
+		"rate": 169,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "elista",
+				"km": 1260,
+				"kmRounded": 1300,
+				"rate": 169,
+				"base": 220000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--elista--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Республика Карелия",
+		"rate": 133,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "petrozavodsk",
+				"km": 1033,
+				"kmRounded": 1100,
+				"rate": 133,
+				"base": 146300,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--petrozavodsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Республика Мордовия",
+		"rate": 129,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "saransk",
+				"km": 649,
+				"kmRounded": 700,
+				"rate": 129,
+				"base": 90000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--saransk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Республика Татарстан",
+		"rate": 169,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "almetevsk",
+				"km": 1077,
+				"kmRounded": 1100,
+				"rate": 169,
+				"base": 180000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--almetevsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Республика Тыва",
+		"rate": 133,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "kyzyl",
+				"km": 4702,
+				"kmRounded": 4800,
+				"rate": 133,
+				"base": 638400,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--kyzyl--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Ростовская область",
+		"rate": 153,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "bataysk",
+				"km": 1084,
+				"kmRounded": 1100,
+				"rate": 153,
+				"base": 168300,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--bataysk--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "novocherkassk",
+				"km": 1045,
+				"kmRounded": 1100,
+				"rate": 153,
+				"base": 168300,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--novocherkassk--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "shahty",
+				"km": 1009,
+				"kmRounded": 1100,
+				"rate": 153,
+				"base": 168300,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--shahty--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Рязанская область",
+		"rate": 275,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "ryazan",
+				"km": 199,
+				"kmRounded": 200,
+				"rate": 275,
+				"base": 55000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--ryazan--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Самарская область",
+		"rate": 167,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "samara",
+				"km": 1060,
+				"kmRounded": 1100,
+				"rate": 167,
+				"base": 180000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--samara--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "chapaevsk",
+				"km": 1108,
+				"kmRounded": 1200,
+				"rate": 167,
+				"base": 200400,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--chapaevsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Саратовская область",
+		"rate": 124,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "balakovo",
+				"km": 1001,
+				"kmRounded": 1100,
+				"rate": 124,
+				"base": 130000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--balakovo--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "balashov",
+				"km": 701,
+				"kmRounded": 800,
+				"rate": 124,
+				"base": 99200,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--balashov--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "engels",
+				"km": 914,
+				"kmRounded": 1000,
+				"rate": 124,
+				"base": 124000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--engels--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Свердловская область",
+		"rate": 128,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "novouralsk",
+				"km": 1872,
+				"kmRounded": 1900,
+				"rate": 128,
+				"base": 243200,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--novouralsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Ставропольский край",
+		"rate": 140,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "kislovodsk",
+				"km": 1630,
+				"kmRounded": 1700,
+				"rate": 140,
+				"base": 230000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--kislovodsk--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "stavropol",
+				"km": 1412,
+				"kmRounded": 1500,
+				"rate": 140,
+				"base": 220000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--stavropol--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Тамбовская область",
+		"rate": 180,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "tambov",
+				"km": 459,
+				"kmRounded": 500,
+				"rate": 180,
+				"base": 90000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--tambov--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Томская область",
+		"rate": 97,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "tomsk",
+				"km": 3662,
+				"kmRounded": 3700,
+				"rate": 97,
+				"base": 360000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--tomsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Тульская область",
+		"rate": 275,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "tula",
+				"km": 183,
+				"kmRounded": 200,
+				"rate": 275,
+				"base": 55000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--tula--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Туркестанская область",
+		"rate": 104,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "lenger",
+				"km": 3281,
+				"kmRounded": 3300,
+				"rate": 104,
+				"base": 343200,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--lenger--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Тюменская область",
+		"rate": 118,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "tobolsk",
+				"km": 2379,
+				"kmRounded": 2400,
+				"rate": 118,
+				"base": 283200,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--tobolsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Удмуртская Республика",
+		"rate": 154,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "izhevsk",
+				"km": 1193,
+				"kmRounded": 1200,
+				"rate": 154,
+				"base": 185000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--izhevsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Хабаровский край",
+		"rate": 82,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "habarovsk",
+				"km": 8428,
+				"kmRounded": 8500,
+				"rate": 82,
+				"base": 700000,
+				"status": "ok",
+				"source": "data/control/moskva--habarovsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Челябинская область",
+		"rate": 128,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "magnitogorsk",
+				"km": 1695,
+				"kmRounded": 1700,
+				"rate": 128,
+				"base": 230000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--magnitogorsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Чеченская Республика",
+		"rate": 121,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "grozniy",
+				"km": 1884,
+				"kmRounded": 1900,
+				"rate": 121,
+				"base": 230000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--grozniy--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Чувашская Республика",
+		"rate": 193,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "cheboksary",
+				"km": 673,
+				"kmRounded": 700,
+				"rate": 193,
+				"base": 135000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--cheboksary--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Московская область",
+		"toRegion": "Ямало-Ненецкий АО",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "moskva",
+				"to": "nadym",
+				"km": 3039,
+				"kmRounded": 3100,
+				"rate": 147,
+				"base": 455700,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--nadym--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "noviy-urengoy",
+				"km": 3276,
+				"kmRounded": 3300,
+				"rate": 147,
+				"base": 420000,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--noviy-urengoy--20000.json"
+			},
+			{
+				"from": "moskva",
+				"to": "noyabrsk",
+				"km": 3201,
+				"kmRounded": 3300,
+				"rate": 147,
+				"base": 485100,
+				"status": "ok",
+				"source": "data/catalog/quotes/moskva--noyabrsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Нижегородская область",
+		"toRegion": "Московская область",
+		"rate": 171,
+		"evidence": [
+			{
+				"from": "sarov",
+				"to": "moskva",
+				"km": 467,
+				"kmRounded": 500,
+				"rate": 171,
+				"base": 85500,
+				"status": "ok",
+				"source": "data/catalog/quotes/sarov--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Нижегородская область",
+		"toRegion": "Республика Татарстан",
+		"rate": 184,
+		"evidence": [
+			{
+				"from": "dzerzhinsk",
+				"to": "kazan",
+				"km": 427,
+				"kmRounded": 500,
+				"rate": 184,
+				"base": 92000,
+				"status": "ok",
+				"source": "data/catalog/quotes/dzerzhinsk--kazan--20000.json"
+			},
+			{
+				"from": "nizhniy-novgorod",
+				"to": "kazan",
+				"km": 399,
+				"kmRounded": 400,
+				"rate": 184,
+				"base": 73600,
+				"status": "ok",
+				"source": "data/catalog/quotes/nizhniy-novgorod--kazan--20000.json"
+			},
+			{
+				"from": "nizhniy-novgorod",
+				"to": "naberezhnye-chelny",
+				"km": 639,
+				"kmRounded": 700,
+				"rate": 184,
+				"base": 128800,
+				"status": "ok",
+				"source": "data/catalog/quotes/nizhniy-novgorod--naberezhnye-chelny--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Новгородская область",
+		"toRegion": "Еврейская Аобл",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "velikiy-novgorod",
+				"to": "birobidzhan",
+				"km": 8622,
+				"kmRounded": 8700,
+				"rate": 147,
+				"base": 1278900,
+				"status": "ok",
+				"source": "data/catalog/quotes/velikiy-novgorod--birobidzhan--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Новосибирская область",
+		"toRegion": "Красноярский край",
+		"rate": 162,
+		"evidence": [
+			{
+				"from": "novosibirsk",
+				"to": "krasnoyarsk",
+				"km": 790,
+				"kmRounded": 800,
+				"rate": 162,
+				"base": 130000,
+				"status": "ok",
+				"source": "data/catalog/quotes/novosibirsk--krasnoyarsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Новосибирская область",
+		"toRegion": "Ленинградская область",
+		"rate": 77,
+		"evidence": [
+			{
+				"from": "novosibirsk",
+				"to": "sankt-peterburg",
+				"km": 3899,
+				"kmRounded": 3900,
+				"rate": 77,
+				"base": 300000,
+				"status": "ok",
+				"source": "data/catalog/quotes/novosibirsk--sankt-peterburg--20000.json"
+			},
+			{
+				"from": "novosibirsk",
+				"to": "vsevolozhsk",
+				"km": 3919,
+				"kmRounded": 4000,
+				"rate": 77,
+				"base": 308000,
+				"status": "ok",
+				"source": "data/catalog/quotes/novosibirsk--vsevolozhsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Новосибирская область",
+		"toRegion": "Республика Татарстан",
+		"rate": 69,
+		"evidence": [
+			{
+				"from": "berdsk",
+				"to": "kazan",
+				"km": 2569,
+				"kmRounded": 2600,
+				"rate": 69,
+				"base": 179400,
+				"status": "ok",
+				"source": "data/catalog/quotes/berdsk--kazan--20000.json"
+			},
+			{
+				"from": "novosibirsk",
+				"to": "kazan",
+				"km": 2534,
+				"kmRounded": 2600,
+				"rate": 69,
+				"base": 179400,
+				"status": "ok",
+				"source": "data/catalog/quotes/novosibirsk--kazan--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Новосибирская область",
+		"toRegion": "Самарская область",
+		"rate": 69,
+		"evidence": [
+			{
+				"from": "berdsk",
+				"to": "samara",
+				"km": 2486,
+				"kmRounded": 2500,
+				"rate": 69,
+				"base": 172500,
+				"status": "ok",
+				"source": "data/catalog/quotes/berdsk--samara--20000.json"
+			},
+			{
+				"from": "novosibirsk",
+				"to": "samara",
+				"km": 2454,
+				"kmRounded": 2500,
+				"rate": 69,
+				"base": 172500,
+				"status": "ok",
+				"source": "data/catalog/quotes/novosibirsk--samara--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Новосибирская область",
+		"toRegion": "Свердловская область",
+		"rate": 59,
+		"evidence": [
+			{
+				"from": "berdsk",
+				"to": "ekaterinburg",
+				"km": 1638,
+				"kmRounded": 1700,
+				"rate": 59,
+				"base": 100300,
+				"status": "ok",
+				"source": "data/catalog/quotes/berdsk--ekaterinburg--20000.json"
+			},
+			{
+				"from": "novosibirsk",
+				"to": "ekaterinburg",
+				"km": 1605,
+				"kmRounded": 1700,
+				"rate": 59,
+				"base": 100300,
+				"status": "ok",
+				"source": "data/catalog/quotes/novosibirsk--ekaterinburg--20000.json"
+			},
+			{
+				"from": "novosibirsk",
+				"to": "nizhniy-tagil",
+				"km": 1741,
+				"kmRounded": 1800,
+				"rate": 59,
+				"base": 106200,
+				"status": "ok",
+				"source": "data/catalog/quotes/novosibirsk--nizhniy-tagil--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Омская область",
+		"toRegion": "Приморский край",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "omsk",
+				"to": "vladivostok",
+				"km": 6429,
+				"kmRounded": 6500,
+				"rate": 147,
+				"base": 955500,
+				"status": "ok",
+				"source": "data/catalog/quotes/omsk--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Орловская область",
+		"toRegion": "Московская область",
+		"rate": 188,
+		"evidence": [
+			{
+				"from": "orel",
+				"to": "moskva",
+				"km": 362,
+				"kmRounded": 400,
+				"rate": 188,
+				"base": 75000,
+				"status": "ok",
+				"source": "data/catalog/quotes/orel--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Павлодарская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "aksu",
+				"to": "moskva",
+				"km": 3088,
+				"kmRounded": 3100,
+				"rate": 81,
+				"base": 251100,
+				"status": "ok",
+				"source": "data/catalog/quotes/aksu--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Павлодарская область",
+		"toRegion": "Приморский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "ekibastuz",
+				"to": "vladivostok",
+				"km": 6645,
+				"kmRounded": 6700,
+				"rate": 92,
+				"base": 616400,
+				"status": "ok",
+				"source": "data/catalog/quotes/ekibastuz--vladivostok--20000.json"
+			},
+			{
+				"from": "pavlodar",
+				"to": "vladivostok",
+				"km": 6280,
+				"kmRounded": 6300,
+				"rate": 92,
+				"base": 579600,
+				"status": "ok",
+				"source": "data/catalog/quotes/pavlodar--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Приморский край",
+		"toRegion": "Московская область",
+		"rate": 84,
+		"evidence": [
+			{
+				"from": "nahodka",
+				"to": "moskva",
+				"km": 9287,
+				"kmRounded": 9300,
+				"rate": 84,
+				"base": 781200,
+				"status": "ok",
+				"source": "data/catalog/quotes/nahodka--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Приморский край",
+		"toRegion": "Хабаровский край",
+		"rate": 225,
+		"evidence": [
+			{
+				"from": "ussuriysk",
+				"to": "habarovsk",
+				"km": 661,
+				"kmRounded": 700,
+				"rate": 225,
+				"base": 157500,
+				"status": "ok",
+				"source": "data/catalog/quotes/ussuriysk--habarovsk--20000.json"
+			},
+			{
+				"from": "vladivostok",
+				"to": "habarovsk",
+				"km": 755,
+				"kmRounded": 800,
+				"rate": 225,
+				"base": 180000,
+				"status": "ok",
+				"source": "data/catalog/quotes/vladivostok--habarovsk--20000.json"
+			},
+			{
+				"from": "vladivostok",
+				"to": "komsomolsk-na-amure",
+				"km": 1150,
+				"kmRounded": 1200,
+				"rate": 225,
+				"base": 270000,
+				"status": "ok",
+				"source": "data/catalog/quotes/vladivostok--komsomolsk-na-amure--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Псковская область",
+		"toRegion": "Приморский край",
+		"rate": 137,
+		"evidence": [
+			{
+				"from": "pskov",
+				"to": "vladivostok",
+				"km": 9793,
+				"kmRounded": 9800,
+				"rate": 137,
+				"base": 1342600,
+				"status": "ok",
+				"source": "data/catalog/quotes/pskov--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Башкортостан",
+		"toRegion": "Приморский край",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "salavat",
+				"to": "vladivostok",
+				"km": 7925,
+				"kmRounded": 8000,
+				"rate": 147,
+				"base": 1176000,
+				"status": "ok",
+				"source": "data/catalog/quotes/salavat--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Башкортостан",
+		"toRegion": "Самарская область",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "ufa",
+				"to": "tolyatti",
+				"km": 501,
+				"kmRounded": 600,
+				"rate": 147,
+				"base": 88200,
+				"status": "ok",
+				"source": "data/catalog/quotes/ufa--tolyatti--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Башкортостан",
+		"toRegion": "Челябинская область",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "ufa",
+				"to": "chelyabinsk",
+				"km": 418,
+				"kmRounded": 500,
+				"rate": 147,
+				"base": 73500,
+				"status": "ok",
+				"source": "data/catalog/quotes/ufa--chelyabinsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Казахстан",
+		"toRegion": "Московская область",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "astana",
+				"to": "moskva",
+				"km": 2801,
+				"kmRounded": 2900,
+				"rate": 92,
+				"base": 266800,
+				"status": "ok",
+				"source": "data/catalog/quotes/astana--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Казахстан",
+		"toRegion": "Приморский край",
+		"rate": 92,
+		"evidence": [
+			{
+				"from": "shimkent",
+				"to": "vladivostok",
+				"km": 8161,
+				"kmRounded": 8200,
+				"rate": 92,
+				"base": 754400,
+				"status": "ok",
+				"source": "data/catalog/quotes/shimkent--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Коми",
+		"toRegion": "Приморский край",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "syktyvkar",
+				"to": "vladivostok",
+				"km": 8640,
+				"kmRounded": 8700,
+				"rate": 147,
+				"base": 1278900,
+				"status": "ok",
+				"source": "data/catalog/quotes/syktyvkar--vladivostok--20000.json"
+			},
+			{
+				"from": "uhta",
+				"to": "vladivostok",
+				"km": 8956,
+				"kmRounded": 9000,
+				"rate": 147,
+				"base": 1323000,
+				"status": "ok",
+				"source": "data/catalog/quotes/uhta--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Марий Эл",
+		"toRegion": "Приморский край",
+		"rate": 133,
+		"evidence": [
+			{
+				"from": "yoshkar-ola",
+				"to": "vladivostok",
+				"km": 8448,
+				"kmRounded": 8500,
+				"rate": 133,
+				"base": 1130500,
+				"status": "ok",
+				"source": "data/catalog/quotes/yoshkar-ola--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Татарстан",
+		"toRegion": "Ленинградская область",
+		"rate": 120,
+		"evidence": [
+			{
+				"from": "kazan",
+				"to": "sankt-peterburg",
+				"km": 1524,
+				"kmRounded": 1600,
+				"rate": 120,
+				"base": 192000,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--sankt-peterburg--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Татарстан",
+		"toRegion": "Нижегородская область",
+		"rate": 93,
+		"evidence": [
+			{
+				"from": "kazan",
+				"to": "dzerzhinsk",
+				"km": 427,
+				"kmRounded": 500,
+				"rate": 93,
+				"base": 46500,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--dzerzhinsk--20000.json"
+			},
+			{
+				"from": "kazan",
+				"to": "nizhniy-novgorod",
+				"km": 397,
+				"kmRounded": 400,
+				"rate": 93,
+				"base": 37200,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--nizhniy-novgorod--20000.json"
+			},
+			{
+				"from": "naberezhnye-chelny",
+				"to": "nizhniy-novgorod",
+				"km": 639,
+				"kmRounded": 700,
+				"rate": 93,
+				"base": 65100,
+				"status": "ok",
+				"source": "data/catalog/quotes/naberezhnye-chelny--nizhniy-novgorod--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Татарстан",
+		"toRegion": "Новосибирская область",
+		"rate": 137,
+		"evidence": [
+			{
+				"from": "kazan",
+				"to": "berdsk",
+				"km": 2569,
+				"kmRounded": 2600,
+				"rate": 137,
+				"base": 356200,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--berdsk--20000.json"
+			},
+			{
+				"from": "kazan",
+				"to": "novosibirsk",
+				"km": 2534,
+				"kmRounded": 2600,
+				"rate": 137,
+				"base": 356200,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--novosibirsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Татарстан",
+		"toRegion": "Республика Башкортостан",
+		"rate": 137,
+		"evidence": [
+			{
+				"from": "kazan",
+				"to": "neftekamsk",
+				"km": 480,
+				"kmRounded": 500,
+				"rate": 137,
+				"base": 68500,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--neftekamsk--20000.json"
+			},
+			{
+				"from": "kazan",
+				"to": "sterlitamak",
+				"km": 658,
+				"kmRounded": 700,
+				"rate": 137,
+				"base": 95900,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--sterlitamak--20000.json"
+			},
+			{
+				"from": "kazan",
+				"to": "ufa",
+				"km": 527,
+				"kmRounded": 600,
+				"rate": 137,
+				"base": 82200,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--ufa--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Татарстан",
+		"toRegion": "Самарская область",
+		"rate": 79,
+		"evidence": [
+			{
+				"from": "kazan",
+				"to": "samara",
+				"km": 374,
+				"kmRounded": 400,
+				"rate": 79,
+				"base": 35000,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--samara--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Татарстан",
+		"toRegion": "Свердловская область",
+		"rate": 137,
+		"evidence": [
+			{
+				"from": "kazan",
+				"to": "ekaterinburg",
+				"km": 1015,
+				"kmRounded": 1100,
+				"rate": 137,
+				"base": 150700,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--ekaterinburg--20000.json"
+			},
+			{
+				"from": "kazan",
+				"to": "nizhniy-tagil",
+				"km": 1010,
+				"kmRounded": 1100,
+				"rate": 137,
+				"base": 150700,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--nizhniy-tagil--20000.json"
+			},
+			{
+				"from": "kazan",
+				"to": "pervouralsk",
+				"km": 982,
+				"kmRounded": 1000,
+				"rate": 137,
+				"base": 137000,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--pervouralsk--20000.json"
+			},
+			{
+				"from": "naberezhnye-chelny",
+				"to": "ekaterinburg",
+				"km": 767,
+				"kmRounded": 800,
+				"rate": 137,
+				"base": 109600,
+				"status": "ok",
+				"source": "data/catalog/quotes/naberezhnye-chelny--ekaterinburg--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Республика Татарстан",
+		"toRegion": "Челябинская область",
+		"rate": 137,
+		"evidence": [
+			{
+				"from": "kazan",
+				"to": "miass",
+				"km": 870,
+				"kmRounded": 900,
+				"rate": 137,
+				"base": 123300,
+				"status": "ok",
+				"source": "data/catalog/quotes/kazan--miass--20000.json"
+			},
+			{
+				"from": "naberezhnye-chelny",
+				"to": "chelyabinsk",
+				"km": 703,
+				"kmRounded": 800,
+				"rate": 137,
+				"base": 109600,
+				"status": "ok",
+				"source": "data/catalog/quotes/naberezhnye-chelny--chelyabinsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Ростовская область",
+		"toRegion": "Краснодарский край",
+		"rate": 158,
+		"evidence": [
+			{
+				"from": "rostov-na-donu",
+				"to": "anapa",
+				"km": 406,
+				"kmRounded": 500,
+				"rate": 158,
+				"base": 79000,
+				"status": "ok",
+				"source": "data/catalog/quotes/rostov-na-donu--anapa--20000.json"
+			},
+			{
+				"from": "rostov-na-donu",
+				"to": "sochi",
+				"km": 551,
+				"kmRounded": 600,
+				"rate": 158,
+				"base": 94800,
+				"status": "ok",
+				"source": "data/catalog/quotes/rostov-na-donu--sochi--20000.json"
+			},
+			{
+				"from": "taganrog",
+				"to": "anapa",
+				"km": 479,
+				"kmRounded": 500,
+				"rate": 158,
+				"base": 79000,
+				"status": "ok",
+				"source": "data/catalog/quotes/taganrog--anapa--20000.json"
+			},
+			{
+				"from": "taganrog",
+				"to": "sochi",
+				"km": 623,
+				"kmRounded": 700,
+				"rate": 158,
+				"base": 110600,
+				"status": "ok",
+				"source": "data/catalog/quotes/taganrog--sochi--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Ростовская область",
+		"toRegion": "Приморский край",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "azov",
+				"to": "vladivostok",
+				"km": 9528,
+				"kmRounded": 9600,
+				"rate": 147,
+				"base": 1411200,
+				"status": "ok",
+				"source": "data/catalog/quotes/azov--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Самарская область",
+		"toRegion": "Краснодарский край",
+		"rate": 105,
+		"evidence": [
+			{
+				"from": "samara",
+				"to": "krymsk",
+				"km": 1625,
+				"kmRounded": 1700,
+				"rate": 105,
+				"base": 178500,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--krymsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Самарская область",
+		"toRegion": "Ленинградская область",
+		"rate": 106,
+		"evidence": [
+			{
+				"from": "samara",
+				"to": "sankt-peterburg",
+				"km": 1761,
+				"kmRounded": 1800,
+				"rate": 106,
+				"base": 190000,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--sankt-peterburg--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Самарская область",
+		"toRegion": "Новосибирская область",
+		"rate": 137,
+		"evidence": [
+			{
+				"from": "samara",
+				"to": "berdsk",
+				"km": 2479,
+				"kmRounded": 2500,
+				"rate": 137,
+				"base": 342500,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--berdsk--20000.json"
+			},
+			{
+				"from": "samara",
+				"to": "novosibirsk",
+				"km": 2446,
+				"kmRounded": 2500,
+				"rate": 137,
+				"base": 342500,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--novosibirsk--20000.json"
+			},
+			{
+				"from": "tolyatti",
+				"to": "novosibirsk",
+				"km": 2486,
+				"kmRounded": 2500,
+				"rate": 137,
+				"base": 342500,
+				"status": "ok",
+				"source": "data/catalog/quotes/tolyatti--novosibirsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Самарская область",
+		"toRegion": "Республика Башкортостан",
+		"rate": 133,
+		"evidence": [
+			{
+				"from": "samara",
+				"to": "sterlitamak",
+				"km": 570,
+				"kmRounded": 600,
+				"rate": 133,
+				"base": 79800,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--sterlitamak--20000.json"
+			},
+			{
+				"from": "samara",
+				"to": "ufa",
+				"km": 464,
+				"kmRounded": 500,
+				"rate": 133,
+				"base": 66500,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--ufa--20000.json"
+			},
+			{
+				"from": "tolyatti",
+				"to": "neftekamsk",
+				"km": 587,
+				"kmRounded": 600,
+				"rate": 133,
+				"base": 79800,
+				"status": "ok",
+				"source": "data/catalog/quotes/tolyatti--neftekamsk--20000.json"
+			},
+			{
+				"from": "tolyatti",
+				"to": "ufa",
+				"km": 504,
+				"kmRounded": 600,
+				"rate": 133,
+				"base": 79800,
+				"status": "ok",
+				"source": "data/catalog/quotes/tolyatti--ufa--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Самарская область",
+		"toRegion": "Республика Татарстан",
+		"rate": 133,
+		"evidence": [
+			{
+				"from": "samara",
+				"to": "kazan",
+				"km": 358,
+				"kmRounded": 400,
+				"rate": 133,
+				"base": 53200,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--kazan--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Самарская область",
+		"toRegion": "Саратовская область",
+		"rate": 99,
+		"evidence": [
+			{
+				"from": "samara",
+				"to": "saratov",
+				"km": 418,
+				"kmRounded": 500,
+				"rate": 99,
+				"base": 49500,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--saratov--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Самарская область",
+		"toRegion": "Свердловская область",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "samara",
+				"to": "ekaterinburg",
+				"km": 993,
+				"kmRounded": 1000,
+				"rate": 147,
+				"base": 147000,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--ekaterinburg--20000.json"
+			},
+			{
+				"from": "samara",
+				"to": "nizhniy-tagil",
+				"km": 1137,
+				"kmRounded": 1200,
+				"rate": 147,
+				"base": 176400,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--nizhniy-tagil--20000.json"
+			},
+			{
+				"from": "samara",
+				"to": "pervouralsk",
+				"km": 992,
+				"kmRounded": 1000,
+				"rate": 147,
+				"base": 147000,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--pervouralsk--20000.json"
+			},
+			{
+				"from": "syzran",
+				"to": "ekaterinburg",
+				"km": 1113,
+				"kmRounded": 1200,
+				"rate": 147,
+				"base": 176400,
+				"status": "ok",
+				"source": "data/catalog/quotes/syzran--ekaterinburg--20000.json"
+			},
+			{
+				"from": "tolyatti",
+				"to": "ekaterinburg",
+				"km": 1033,
+				"kmRounded": 1100,
+				"rate": 147,
+				"base": 161700,
+				"status": "ok",
+				"source": "data/catalog/quotes/tolyatti--ekaterinburg--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Самарская область",
+		"toRegion": "Челябинская область",
+		"rate": 133,
+		"evidence": [
+			{
+				"from": "samara",
+				"to": "miass",
+				"km": 773,
+				"kmRounded": 800,
+				"rate": 133,
+				"base": 106400,
+				"status": "ok",
+				"source": "data/catalog/quotes/samara--miass--20000.json"
+			},
+			{
+				"from": "tolyatti",
+				"to": "chelyabinsk",
+				"km": 906,
+				"kmRounded": 1000,
+				"rate": 133,
+				"base": 133000,
+				"status": "ok",
+				"source": "data/catalog/quotes/tolyatti--chelyabinsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Саратовская область",
+		"toRegion": "Самарская область",
+		"rate": 133,
+		"evidence": [
+			{
+				"from": "saratov",
+				"to": "samara",
+				"km": 413,
+				"kmRounded": 500,
+				"rate": 133,
+				"base": 66500,
+				"status": "ok",
+				"source": "data/catalog/quotes/saratov--samara--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Свердловская область",
+		"toRegion": "Ленинградская область",
+		"rate": 91,
+		"evidence": [
+			{
+				"from": "ekaterinburg",
+				"to": "sankt-peterburg",
+				"km": 2294,
+				"kmRounded": 2300,
+				"rate": 91,
+				"base": 210000,
+				"status": "ok",
+				"source": "data/catalog/quotes/ekaterinburg--sankt-peterburg--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Свердловская область",
+		"toRegion": "Новосибирская область",
+		"rate": 125,
+		"evidence": [
+			{
+				"from": "ekaterinburg",
+				"to": "berdsk",
+				"km": 1631,
+				"kmRounded": 1700,
+				"rate": 125,
+				"base": 212500,
+				"status": "ok",
+				"source": "data/catalog/quotes/ekaterinburg--berdsk--20000.json"
+			},
+			{
+				"from": "ekaterinburg",
+				"to": "novosibirsk",
+				"km": 1598,
+				"kmRounded": 1600,
+				"rate": 125,
+				"base": 200000,
+				"status": "ok",
+				"source": "data/catalog/quotes/ekaterinburg--novosibirsk--20000.json"
+			},
+			{
+				"from": "nizhniy-tagil",
+				"to": "novosibirsk",
+				"km": 1739,
+				"kmRounded": 1800,
+				"rate": 125,
+				"base": 225000,
+				"status": "ok",
+				"source": "data/catalog/quotes/nizhniy-tagil--novosibirsk--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Свердловская область",
+		"toRegion": "Республика Татарстан",
+		"rate": 99,
+		"evidence": [
+			{
+				"from": "ekaterinburg",
+				"to": "kazan",
+				"km": 1015,
+				"kmRounded": 1100,
+				"rate": 99,
+				"base": 108900,
+				"status": "ok",
+				"source": "data/catalog/quotes/ekaterinburg--kazan--20000.json"
+			},
+			{
+				"from": "ekaterinburg",
+				"to": "naberezhnye-chelny",
+				"km": 767,
+				"kmRounded": 800,
+				"rate": 99,
+				"base": 79200,
+				"status": "ok",
+				"source": "data/catalog/quotes/ekaterinburg--naberezhnye-chelny--20000.json"
+			},
+			{
+				"from": "nizhniy-tagil",
+				"to": "kazan",
+				"km": 1010,
+				"kmRounded": 1100,
+				"rate": 99,
+				"base": 108900,
+				"status": "ok",
+				"source": "data/catalog/quotes/nizhniy-tagil--kazan--20000.json"
+			},
+			{
+				"from": "pervouralsk",
+				"to": "kazan",
+				"km": 922,
+				"kmRounded": 1000,
+				"rate": 99,
+				"base": 99000,
+				"status": "ok",
+				"source": "data/catalog/quotes/pervouralsk--kazan--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Свердловская область",
+		"toRegion": "Самарская область",
+		"rate": 79,
+		"evidence": [
+			{
+				"from": "ekaterinburg",
+				"to": "samara",
+				"km": 993,
+				"kmRounded": 1000,
+				"rate": 79,
+				"base": 79000,
+				"status": "ok",
+				"source": "data/catalog/quotes/ekaterinburg--samara--20000.json"
+			},
+			{
+				"from": "ekaterinburg",
+				"to": "syzran",
+				"km": 1112,
+				"kmRounded": 1200,
+				"rate": 79,
+				"base": 94800,
+				"status": "ok",
+				"source": "data/catalog/quotes/ekaterinburg--syzran--20000.json"
+			},
+			{
+				"from": "ekaterinburg",
+				"to": "tolyatti",
+				"km": 1030,
+				"kmRounded": 1100,
+				"rate": 79,
+				"base": 86900,
+				"status": "ok",
+				"source": "data/catalog/quotes/ekaterinburg--tolyatti--20000.json"
+			},
+			{
+				"from": "nizhniy-tagil",
+				"to": "samara",
+				"km": 1136,
+				"kmRounded": 1200,
+				"rate": 79,
+				"base": 94800,
+				"status": "ok",
+				"source": "data/catalog/quotes/nizhniy-tagil--samara--20000.json"
+			},
+			{
+				"from": "pervouralsk",
+				"to": "samara",
+				"km": 992,
+				"kmRounded": 1000,
+				"rate": 79,
+				"base": 79000,
+				"status": "ok",
+				"source": "data/catalog/quotes/pervouralsk--samara--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Северо-Казахстанская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "bulaevo",
+				"to": "moskva",
+				"km": 2604,
+				"kmRounded": 2700,
+				"rate": 81,
+				"base": 218700,
+				"status": "ok",
+				"source": "data/catalog/quotes/bulaevo--moskva--20000.json"
+			},
+			{
+				"from": "mamlutka",
+				"to": "moskva",
+				"km": 2286,
+				"kmRounded": 2300,
+				"rate": 81,
+				"base": 186300,
+				"status": "ok",
+				"source": "data/catalog/quotes/mamlutka--moskva--20000.json"
+			},
+			{
+				"from": "petropavlovsk",
+				"to": "moskva",
+				"km": 2556,
+				"kmRounded": 2600,
+				"rate": 81,
+				"base": 210600,
+				"status": "ok",
+				"source": "data/catalog/quotes/petropavlovsk--moskva--20000.json"
+			},
+			{
+				"from": "sergeevka",
+				"to": "moskva",
+				"km": 2286,
+				"kmRounded": 2300,
+				"rate": 81,
+				"base": 186300,
+				"status": "ok",
+				"source": "data/catalog/quotes/sergeevka--moskva--20000.json"
+			},
+			{
+				"from": "tayinsha",
+				"to": "moskva",
+				"km": 2492,
+				"kmRounded": 2500,
+				"rate": 81,
+				"base": 202500,
+				"status": "ok",
+				"source": "data/catalog/quotes/tayinsha--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Смоленская область",
+		"toRegion": "Приморский край",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "smolensk",
+				"to": "vladivostok",
+				"km": 9584,
+				"kmRounded": 9600,
+				"rate": 147,
+				"base": 1411200,
+				"status": "ok",
+				"source": "data/catalog/quotes/smolensk--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Ставропольский край",
+		"toRegion": "Еврейская Аобл",
+		"rate": 184,
+		"evidence": [
+			{
+				"from": "mineralnye-vody",
+				"to": "birobidzhan",
+				"km": 8713,
+				"kmRounded": 8800,
+				"rate": 184,
+				"base": 1619200,
+				"status": "ok",
+				"source": "data/catalog/quotes/mineralnye-vody--birobidzhan--20000.json"
+			},
+			{
+				"from": "pyatigorsk",
+				"to": "birobidzhan",
+				"km": 8728,
+				"kmRounded": 8800,
+				"rate": 184,
+				"base": 1619200,
+				"status": "ok",
+				"source": "data/catalog/quotes/pyatigorsk--birobidzhan--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Тверская область",
+		"toRegion": "Приморский край",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "tver",
+				"to": "vladivostok",
+				"km": 9248,
+				"kmRounded": 9300,
+				"rate": 147,
+				"base": 1367100,
+				"status": "ok",
+				"source": "data/catalog/quotes/tver--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Туркестанская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "aris",
+				"to": "moskva",
+				"km": 4829,
+				"kmRounded": 4900,
+				"rate": 81,
+				"base": 396900,
+				"status": "ok",
+				"source": "data/catalog/quotes/aris--moskva--20000.json"
+			},
+			{
+				"from": "kentau",
+				"to": "moskva",
+				"km": 3079,
+				"kmRounded": 3100,
+				"rate": 81,
+				"base": 251100,
+				"status": "ok",
+				"source": "data/catalog/quotes/kentau--moskva--20000.json"
+			},
+			{
+				"from": "sariagash",
+				"to": "moskva",
+				"km": 3331,
+				"kmRounded": 3400,
+				"rate": 81,
+				"base": 275400,
+				"status": "ok",
+				"source": "data/catalog/quotes/sariagash--moskva--20000.json"
+			},
+			{
+				"from": "shardara",
+				"to": "moskva",
+				"km": 3468,
+				"kmRounded": 3500,
+				"rate": 81,
+				"base": 283500,
+				"status": "ok",
+				"source": "data/catalog/quotes/shardara--moskva--20000.json"
+			},
+			{
+				"from": "turkestan",
+				"to": "moskva",
+				"km": 3093,
+				"kmRounded": 3100,
+				"rate": 81,
+				"base": 251100,
+				"status": "ok",
+				"source": "data/catalog/quotes/turkestan--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Тюменская область",
+		"toRegion": "Приморский край",
+		"rate": 133,
+		"evidence": [
+			{
+				"from": "tyumen",
+				"to": "vladivostok",
+				"km": 7059,
+				"kmRounded": 7100,
+				"rate": 133,
+				"base": 944300,
+				"status": "ok",
+				"source": "data/catalog/quotes/tyumen--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Улытауская область",
+		"toRegion": "Московская область",
+		"rate": 81,
+		"evidence": [
+			{
+				"from": "karazhal",
+				"to": "moskva",
+				"km": 3374,
+				"kmRounded": 3400,
+				"rate": 81,
+				"base": 275400,
+				"status": "ok",
+				"source": "data/catalog/quotes/karazhal--moskva--20000.json"
+			},
+			{
+				"from": "satpaev",
+				"to": "moskva",
+				"km": 3220,
+				"kmRounded": 3300,
+				"rate": 81,
+				"base": 267300,
+				"status": "ok",
+				"source": "data/catalog/quotes/satpaev--moskva--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Ульяновская область",
+		"toRegion": "Приморский край",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "dimitrovgrad",
+				"to": "vladivostok",
+				"km": 8260,
+				"kmRounded": 8300,
+				"rate": 147,
+				"base": 1220100,
+				"status": "ok",
+				"source": "data/catalog/quotes/dimitrovgrad--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Хабаровский край",
+		"toRegion": "Приморский край",
+		"rate": 200,
+		"evidence": [
+			{
+				"from": "habarovsk",
+				"to": "ussuriysk",
+				"km": 661,
+				"kmRounded": 700,
+				"rate": 200,
+				"base": 140000,
+				"status": "ok",
+				"source": "data/catalog/quotes/habarovsk--ussuriysk--20000.json"
+			},
+			{
+				"from": "habarovsk",
+				"to": "vladivostok",
+				"km": 755,
+				"kmRounded": 800,
+				"rate": 200,
+				"base": 160000,
+				"status": "ok",
+				"source": "data/catalog/quotes/habarovsk--vladivostok--20000.json"
+			},
+			{
+				"from": "komsomolsk-na-amure",
+				"to": "vladivostok",
+				"km": 1151,
+				"kmRounded": 1200,
+				"rate": 200,
+				"base": 240000,
+				"status": "ok",
+				"source": "data/catalog/quotes/komsomolsk-na-amure--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Челябинская область",
+		"toRegion": "Республика Башкортостан",
+		"rate": 199,
+		"evidence": [
+			{
+				"from": "chelyabinsk",
+				"to": "ufa",
+				"km": 416,
+				"kmRounded": 500,
+				"rate": 199,
+				"base": 99500,
+				"status": "ok",
+				"source": "data/catalog/quotes/chelyabinsk--ufa--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Челябинская область",
+		"toRegion": "Республика Татарстан",
+		"rate": 121,
+		"evidence": [
+			{
+				"from": "chelyabinsk",
+				"to": "naberezhnye-chelny",
+				"km": 703,
+				"kmRounded": 800,
+				"rate": 121,
+				"base": 96800,
+				"status": "ok",
+				"source": "data/catalog/quotes/chelyabinsk--naberezhnye-chelny--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Челябинская область",
+		"toRegion": "Самарская область",
+		"rate": 93,
+		"evidence": [
+			{
+				"from": "chelyabinsk",
+				"to": "tolyatti",
+				"km": 903,
+				"kmRounded": 1000,
+				"rate": 93,
+				"base": 93000,
+				"status": "ok",
+				"source": "data/catalog/quotes/chelyabinsk--tolyatti--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Ямало-Ненецкий АО",
+		"toRegion": "Приморский край",
+		"rate": 144,
+		"evidence": [
+			{
+				"from": "salehard",
+				"to": "vladivostok",
+				"km": 8504,
+				"kmRounded": 8600,
+				"rate": 144,
+				"base": 1238400,
+				"status": "ok",
+				"source": "data/catalog/quotes/salehard--vladivostok--20000.json"
+			}
+		]
+	},
+	{
+		"fromRegion": "Ярославская область",
+		"toRegion": "Хабаровский край",
+		"rate": 147,
+		"evidence": [
+			{
+				"from": "yaroslavl",
+				"to": "komsomolsk-na-amure",
+				"km": 8561,
+				"kmRounded": 8600,
+				"rate": 147,
+				"base": 1264200,
+				"status": "ok",
+				"source": "data/catalog/quotes/yaroslavl--komsomolsk-na-amure--20000.json"
+			}
+		]
+	}
+]

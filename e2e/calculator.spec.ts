@@ -21,7 +21,7 @@ test('расчёт, НДС и смена направления', async ({ page 
 
 test('город выбирается клавиатурой, неверный вес не рассчитывается', async ({ page }) => {
 	await page.goto('/')
-	const city = page.getByRole('combobox')
+	const city = page.getByRole('combobox', { name: 'Куда', exact: true })
 
 	await city.fill('Казань')
 	await city.press('ArrowDown')
@@ -73,7 +73,7 @@ test('срок контейнера указан в его карточке', as
 
 test('начало касания списка не выбирает город', async ({ page }) => {
 	await page.goto('/')
-	const city = page.getByRole('combobox')
+	const city = page.getByRole('combobox', { name: 'Куда', exact: true })
 
 	await city.fill('')
 	await page.getByRole('option').nth(5).dispatchEvent('pointerdown', { pointerType: 'touch' })
@@ -81,4 +81,75 @@ test('начало касания списка не выбирает город'
 	await expect(city).toHaveValue('')
 	await page.getByRole('option', { name: 'Самара', exact: true }).click()
 	await expect(city).toHaveValue('Самара')
+})
+
+test('оба города доступны для выбора, совпадающие города не рассчитываются', async ({ page }) => {
+	await page.goto('/')
+	await expect(page.getByRole('combobox')).toHaveCount(2)
+	const from = page.getByRole('combobox', { name: 'Откуда' })
+	const to = page.getByRole('combobox', { name: 'Куда', exact: true })
+
+	await from.fill('Казань')
+	await from.press('ArrowDown')
+	await from.press('Enter')
+	await to.fill('Казань')
+	await to.press('ArrowDown')
+	await to.press('Enter')
+	await page.getByRole('button', { name: 'Рассчитать стоимость' }).click()
+	await expect(page.getByRole('alert')).toContainText('должны отличаться')
+	await expect(page.locator('.price')).toHaveCount(0)
+})
+
+test('пара без Москвы восстанавливается по ссылке и учитывает направление тарифа', async ({ page }) => {
+	await page.setViewportSize({ width: 320, height: 780 })
+	await page.goto('/?from=samara&to=kazan&weight=20000')
+	await expect(page.getByRole('combobox', { name: 'Откуда', exact: true })).toHaveValue('Самара')
+	await expect(page.getByRole('combobox', { name: 'Куда', exact: true })).toHaveValue('Казань')
+	await expect(page.getByRole('heading', { name: 'Самара → Казань' })).toBeVisible()
+
+	await expect(
+		page
+			.locator('.quote-option')
+			.filter({ has: page.getByRole('heading', { name: 'Отдельная машина' }) })
+			.locator('.price'),
+	).toHaveText(/53\s200\s₽/)
+
+	expect((await new AxeBuilder({ page }).analyze()).violations).toEqual([])
+	expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true)
+	await page.screenshot({ path: '/tmp/transcalc-non-moscow-mobile.png', fullPage: true })
+	await page.getByRole('button', { name: 'Поменять направление' }).click()
+	await expect(page.getByRole('combobox', { name: 'Откуда', exact: true })).toHaveValue('Казань')
+	await expect(page.getByRole('combobox', { name: 'Куда', exact: true })).toHaveValue('Самара')
+	await expect(page.locator('.price')).toHaveCount(0)
+	await page.getByRole('button', { name: 'Рассчитать стоимость' }).click()
+	await expect(page.getByRole('heading', { name: 'Казань → Самара' })).toBeVisible()
+
+	await expect(
+		page
+			.locator('.quote-option')
+			.filter({ has: page.getByRole('heading', { name: 'Отдельная машина' }) })
+			.locator('.price'),
+	).toHaveText(/35\s000\s₽/)
+
+	await expect(page).toHaveURL(/from=kazan&to=samara&weight=20000/)
+	await page.reload()
+	await expect(page.getByRole('heading', { name: 'Казань → Самара' })).toBeVisible()
+})
+
+test('обмен направления очищает недовыбранный город без старой подписи', async ({ page }) => {
+	await page.goto('/')
+	const from = page.getByRole('combobox', { name: 'Откуда', exact: true })
+	const to = page.getByRole('combobox', { name: 'Куда', exact: true })
+
+	await to.fill('Каз')
+	await expect(to).toHaveValue('Каз')
+	await page.getByRole('button', { name: 'Поменять направление' }).click()
+	await expect(from).toHaveValue('')
+	await expect(to).toHaveValue('Москва')
+	await from.fill('Сам')
+	await expect(from).toHaveValue('Сам')
+	await from.fill('Самара')
+	await from.press('ArrowDown')
+	await from.press('Enter')
+	await expect(from).toHaveValue('Самара')
 })

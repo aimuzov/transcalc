@@ -14,6 +14,7 @@
 		"check": "astro check && svelte-check",
 		"test": "node --test 'src/**/*.test.ts' && node scripts/verify-quotes.mjs",
 		"test:collector": "python3 -m unittest discover -s scripts -p 'test_*.py'",
+		"test:catalog": "npm run test:collector && node scripts/verify-catalog.mjs",
 		"test:routes": "python3 -m unittest discover -s scripts -p 'test_route_formula.py' && python3 scripts/route_formula.py --check && node scripts/verify-regional-quotes.mjs",
 		"test:e2e": "playwright test",
 		"astro": "astro",

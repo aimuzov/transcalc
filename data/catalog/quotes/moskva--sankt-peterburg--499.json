@@ -1,0 +1,41 @@
+{
+	"status": "light",
+	"route": {
+		"from": "Москва",
+		"to": "Санкт-Петербург",
+		"from_case": "Москвы",
+		"to_case": "Санкт-Петербург",
+		"from_slug": "moskva",
+		"to_slug": "sankt-peterburg",
+		"from_region": "Москва, Московская область",
+		"to_region": "Санкт-Петербург, Ленинградская область",
+		"km": 704,
+		"days": "1-2"
+	},
+	"cargo": {
+		"weight_kg": 499,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [],
+	"message": "Для грузов до 500 кг предлагаем экспресс- и авиадоставку — оставьте заявку, менеджер подберёт вариант",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "ok",
+		"calc_reason": "",
+		"days_source": "estimate_by_km",
+		"container_source": "none",
+		"container_kind": "",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 162,
+			"km_rounded": 800,
+			"auto": 57200,
+			"modular": 12000,
+			"volume_car_m3": "16"
+		}
+	}
+}

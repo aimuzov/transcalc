@@ -6,14 +6,13 @@
 	import CityPicker from './city-picker.svelte'
 	import { calculate, cities, checkedAt, routeInfo, sourceUrl } from '#frontend/lib/calculator.ts'
 	import type { Quote } from '#frontend/lib/pricing.ts'
-	let city = $state('sankt-peterburg')
-	let reverse = $state(false)
+	let from = $state('moskva')
+	let to = $state('sankt-peterburg')
 	let weight = $state('1000')
 	let vat = $state(true)
 	let quote = $state<Quote | null>(null)
 	let error = $state('')
-	const from = $derived(reverse ? city : 'moskva')
-	const to = $derived(reverse ? 'moskva' : city)
+	let ready = $state(false)
 	const name = (id: string) => cities.find((city) => city.id === id)?.name ?? ''
 	const money = (price: number) => new Intl.NumberFormat('ru-RU', { maximumFractionDigits: 0 }).format(price)
 	const duration = (days: string) => (/^\d[\d\s-]*$/.test(days) ? `${days} дн.` : days)
@@ -41,8 +40,15 @@
 	function submit() {
 		error = ''
 
-		if (!city) {
-			error = 'Выберите город из списка.'
+		if (!from || !to) {
+			error = 'Выберите город отправления и город назначения из списка.'
+
+			return
+		}
+
+		if (from === to) {
+			quote = null
+			error = 'Город отправления и город назначения должны отличаться.'
 
 			return
 		}
@@ -71,19 +77,18 @@
 	}
 
 	onMount(() => {
+		ready = true
 		const query = new URLSearchParams(location.search)
 		const source = query.get('from')
 		const target = query.get('to')
 		const amount = query.get('weight')
 
-		if (!source || !target || !amount || source === target || (source !== 'moskva' && target !== 'moskva')) return
+		if (!source || !target || !amount) return
 
-		const other = source === 'moskva' ? target : source
+		if (!cities.some((city) => city.id === source) || !cities.some((city) => city.id === target)) return
 
-		if (!cities.some((city) => city.id === other)) return
-
-		city = other
-		reverse = target === 'moskva'
+		from = source
+		to = target
 		weight = amount
 		submit()
 	})
@@ -98,70 +103,68 @@
 		}}
 		novalidate
 	>
-		<div class="form-heading">
-			<h2>Рассчитать перевозку</h2>
-			<span>От 500 кг до 20 т</span>
-		</div>
-		<div class="route-fields">
-			<Field label="Откуда" for="from-city">
-				{#if reverse}<CityPicker id="from-city" bind:value={city} onchange={clear} />{:else}<Input
-						id="from-city"
-						value="Москва"
-						readonly
-					/>{/if}
-			</Field>
-			<div class="swap">
-				<Button
-					variant="outline"
-					aria-label="Поменять направление"
-					onclick={() => {
-						reverse = !reverse
-						clear()
-					}}
-					><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"
-						><path d="M4 7h16m-4-4 4 4-4 4M20 17H4m4-4-4 4 4 4" /></svg
-					></Button
+		<fieldset disabled={!ready}>
+			<div class="form-heading">
+				<h2>Рассчитать перевозку</h2>
+				<span>От 500 кг до 20 т</span>
+			</div>
+			<div class="route-fields">
+				<Field label="Откуда" for="from-city">
+					<CityPicker id="from-city" bind:value={from} onchange={clear} />
+				</Field>
+				<div class="swap">
+					<Button
+						variant="outline"
+						aria-label="Поменять направление"
+						onclick={() => {
+							;[from, to] = [to, from]
+							clear()
+						}}
+						><svg
+							viewBox="0 0 24 24"
+							fill="none"
+							stroke="currentColor"
+							stroke-width="1.7"
+							aria-hidden="true"><path d="M4 7h16m-4-4 4 4-4 4M20 17H4m4-4-4 4 4 4" /></svg
+						></Button
+					>
+				</div>
+				<Field label="Куда" for="to-city">
+					<CityPicker id="to-city" bind:value={to} onchange={clear} />
+				</Field>
+			</div>
+			<p class="field-note">Начните вводить названия городов. Рассчитываем только опубликованные направления.</p>
+			<div class="weight-section">
+				<Field label="Вес груза, кг" for="weight"
+					><Input
+						id="weight"
+						inputmode="numeric"
+						bind:value={weight}
+						oninput={clear}
+						aria-describedby="weight-hint"
+						aria-invalid={error ? 'true' : undefined}
+					/></Field
+				>
+				<p id="weight-hint" class="field-note">Общий вес всей отправки в килограммах.</p>
+				<div class="presets" aria-label="Быстрый выбор веса">
+					{#each [500, 1000, 3000, 5000, 10000, 20000] as amount}<Button
+							size="sm"
+							variant="ghost"
+							aria-pressed={weight === String(amount)}
+							onclick={() => {
+								weight = String(amount)
+								clear()
+							}}>{money(amount)}</Button
+						>{/each}
+				</div>
+			</div>
+			{#if error}<p class="form-error" role="alert">{error}</p>{/if}
+			<div class="submit-row">
+				<Button type="submit" size="xl">Рассчитать стоимость <span aria-hidden="true">→</span></Button><span
+					>Без заявки и звонка</span
 				>
 			</div>
-			<Field label="Куда" for="to-city">
-				{#if reverse}<Input id="to-city" value="Москва" readonly />{:else}<CityPicker
-						id="to-city"
-						bind:value={city}
-						onchange={clear}
-					/>{/if}
-			</Field>
-		</div>
-		<p class="field-note">Маршруты из Москвы и обратно. Начните вводить название города.</p>
-		<div class="weight-section">
-			<Field label="Вес груза, кг" for="weight"
-				><Input
-					id="weight"
-					inputmode="numeric"
-					bind:value={weight}
-					oninput={clear}
-					aria-describedby="weight-hint"
-					aria-invalid={error ? 'true' : undefined}
-				/></Field
-			>
-			<p id="weight-hint" class="field-note">Общий вес всей отправки в килограммах.</p>
-			<div class="presets" aria-label="Быстрый выбор веса">
-				{#each [500, 1000, 3000, 5000, 10000, 20000] as amount}<Button
-						size="sm"
-						variant="ghost"
-						aria-pressed={weight === String(amount)}
-						onclick={() => {
-							weight = String(amount)
-							clear()
-						}}>{money(amount)}</Button
-					>{/each}
-			</div>
-		</div>
-		{#if error}<p class="form-error" role="alert">{error}</p>{/if}
-		<div class="submit-row">
-			<Button type="submit" size="xl">Рассчитать стоимость <span aria-hidden="true">→</span></Button><span
-				>Без заявки и звонка</span
-			>
-		</div>
+		</fieldset>
 	</form>
 	<section class="results" aria-label="Результат расчёта" aria-live="polite" aria-atomic="true">
 		{#if quote?.status === 'ok'}
@@ -236,6 +239,6 @@
 		Тарифы: <a href={sourceUrl} target="_blank" rel="noreferrer">datrans.ru</a>. Проверены {new Intl.DateTimeFormat(
 			'ru-RU',
 			{ day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' },
-		).format(new Date(checkedAt))}.
+		).format(new Date(checkedAt))}
 	</p>
 </div>
