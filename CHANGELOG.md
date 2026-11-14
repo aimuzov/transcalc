@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/aimuzov/transcalc/compare/v1.1.0...v1.2.0) (2026-11-14)
+
+
+### Features
+
+* add release history and theme switching ([#13](https://github.com/aimuzov/transcalc/issues/13)) ([e977526](https://github.com/aimuzov/transcalc/commit/e9775262e03c866dc4cddc4107bef77759cb7a49))
+
 ## [1.1.0](https://github.com/aimuzov/transcalc/compare/v1.0.0...v1.1.0) (2026-11-14)
 
 
