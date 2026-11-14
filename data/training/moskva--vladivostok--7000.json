@@ -1,0 +1,106 @@
+{
+	"status": "ok",
+	"route": {
+		"from": "Москва",
+		"to": "Владивосток",
+		"from_case": "Москвы",
+		"to_case": "Владивосток",
+		"from_slug": "moskva",
+		"to_slug": "vladivostok",
+		"from_region": "Москва, Московская область",
+		"to_region": "Владивосток, Приморский край",
+		"km": 9186,
+		"days": "15-16"
+	},
+	"cargo": {
+		"weight_kg": 7000,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [
+		{
+			"type": "auto",
+			"title": "Отдельная машина",
+			"price_vat": 562500,
+			"price_novat": 461066,
+			"days": "15-16",
+			"available": true,
+			"is_recommended": false,
+			"unavailable_reason": null,
+			"vehicle": {
+				"name": "7-тонник",
+				"l": 7.5,
+				"w": 2.45,
+				"h": 2.5,
+				"volume_m3": 46,
+				"max_kg": 7000
+			},
+			"badge": "Экспресс-доставка",
+			"slogan": "Быстрее, без перегрузки. Груз едет напрямую от двери до двери",
+			"fits": "Средние и крупные партии, когда важна скорость",
+			"risk": "Зависимость от дорожной ситуации"
+		},
+		{
+			"type": "modular",
+			"title": "Сборный груз",
+			"price_vat": 367500,
+			"price_novat": 301230,
+			"days": "17-18",
+			"available": true,
+			"is_recommended": false,
+			"unavailable_reason": null,
+			"vehicle": null,
+			"badge": "Экономия",
+			"slogan": "Выгоднее по цене, но может быть дольше из-за консолидации",
+			"fits": "Небольшие партии, оптимизация затрат",
+			"risk": "Возможна консолидация, срок может увеличиться"
+		},
+		{
+			"type": "container",
+			"title": "Контейнерная перевозка",
+			"container_size_ft": 40,
+			"price_vat": 194600,
+			"price_novat": null,
+			"days": "23",
+			"days_approx": true,
+			"available": true,
+			"is_recommended": true,
+			"unavailable_reason": null,
+			"vehicle": {
+				"name": "Контейнер 40 футов (40HC)",
+				"l": 12,
+				"w": 2.33,
+				"h": 2.59,
+				"volume_m3": 76,
+				"max_kg": 28000,
+				"note": "Для расчёта используются допустимые габариты груза с учётом дверного проёма контейнера. Внутренняя высота контейнера может быть больше."
+			},
+			"badge": "Для дальних отправок",
+			"slogan": "Для крупных партий и дальних направлений. Отправка по расписанию",
+			"fits": "Крупные партии и регулярные поставки",
+			"risk": "Требуется время на подачу и возврат контейнера"
+		}
+	],
+	"message": "",
+	"insurance_note": "Страхование груза рассчитывается менеджером при оформлении заявки",
+	"phone": "8 (800) 250-06-60",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "ok",
+		"calc_reason": "",
+		"days_source": "estimate_by_km",
+		"container_source": "прайс оператора, наценка в result.php",
+		"container_kind": "formula",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 82,
+			"km_rounded": 9200,
+			"auto": 562500,
+			"modular": 367500,
+			"volume_car_m3": "80"
+		}
+	}
+}

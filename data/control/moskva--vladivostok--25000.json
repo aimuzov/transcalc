@@ -1,0 +1,41 @@
+{
+	"status": "heavy",
+	"route": {
+		"from": "Москва",
+		"to": "Владивосток",
+		"from_case": "Москвы",
+		"to_case": "Владивосток",
+		"from_slug": "moskva",
+		"to_slug": "vladivostok",
+		"from_region": "Москва, Московская область",
+		"to_region": "Владивосток, Приморский край",
+		"km": 9186,
+		"days": "15-16"
+	},
+	"cargo": {
+		"weight_kg": 25000,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [],
+	"message": "Грузы свыше 20 т считаем индивидуально: несколько машин, негабарит, спецтехника",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "ok",
+		"calc_reason": "",
+		"days_source": "estimate_by_km",
+		"container_source": "прайс оператора, наценка в result.php",
+		"container_kind": "formula",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 82,
+			"km_rounded": 9200,
+			"auto": 750000,
+			"modular": 0,
+			"volume_car_m3": "80"
+		}
+	}
+}

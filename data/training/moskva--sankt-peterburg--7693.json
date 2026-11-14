@@ -1,0 +1,81 @@
+{
+	"status": "ok",
+	"route": {
+		"from": "Москва",
+		"to": "Санкт-Петербург",
+		"from_case": "Москвы",
+		"to_case": "Санкт-Петербург",
+		"from_slug": "moskva",
+		"to_slug": "sankt-peterburg",
+		"from_region": "Москва, Московская область",
+		"to_region": "Санкт-Петербург, Ленинградская область",
+		"km": 704,
+		"days": "1-2"
+	},
+	"cargo": {
+		"weight_kg": 7693,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [
+		{
+			"type": "auto",
+			"title": "Отдельная машина",
+			"price_vat": 114400,
+			"price_novat": 93770,
+			"days": "1-2",
+			"available": true,
+			"is_recommended": false,
+			"unavailable_reason": null,
+			"vehicle": {
+				"name": "10-тонник",
+				"l": 8,
+				"w": 2.45,
+				"h": 2.75,
+				"volume_m3": 54,
+				"max_kg": 11000
+			},
+			"badge": "Экспресс-доставка",
+			"slogan": "Быстрее, без перегрузки. Груз едет напрямую от двери до двери",
+			"fits": "Средние и крупные партии, когда важна скорость",
+			"risk": "Зависимость от дорожной ситуации"
+		},
+		{
+			"type": "modular",
+			"title": "Сборный груз",
+			"price_vat": 97200,
+			"price_novat": 79672,
+			"days": "2-3",
+			"available": true,
+			"is_recommended": true,
+			"unavailable_reason": null,
+			"vehicle": null,
+			"badge": "Экономия",
+			"slogan": "Выгоднее по цене, но может быть дольше из-за консолидации",
+			"fits": "Небольшие партии, оптимизация затрат",
+			"risk": "Возможна консолидация, срок может увеличиться"
+		}
+	],
+	"message": "",
+	"insurance_note": "Страхование груза рассчитывается менеджером при оформлении заявки",
+	"phone": "8 (800) 250-06-60",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "ok",
+		"calc_reason": "",
+		"days_source": "estimate_by_km",
+		"container_source": "none",
+		"container_kind": "",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 162,
+			"km_rounded": 800,
+			"auto": 114400,
+			"modular": 98100,
+			"volume_car_m3": "40"
+		}
+	}
+}

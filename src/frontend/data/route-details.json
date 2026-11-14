@@ -1,0 +1,150 @@
+{
+	"containers": {
+		"moskva--vladivostok": {
+			"priceVat": 194600,
+			"priceNoVat": null,
+			"days": "23"
+		},
+		"moskva--habarovsk": {
+			"priceVat": 310200,
+			"priceNoVat": null,
+			"days": "21"
+		},
+		"moskva--irkutsk": {
+			"priceVat": 167000,
+			"priceNoVat": null,
+			"days": "18"
+		}
+	},
+	"routes": {
+		"moskva--anapa": {
+			"km": 1477,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3",
+				"modular": "3-4"
+			}
+		},
+		"moskva--ekaterinburg": {
+			"km": 1812,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4",
+				"modular": "4-5"
+			}
+		},
+		"moskva--kazan": {
+			"km": 820,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2",
+				"modular": "2-3"
+			}
+		},
+		"moskva--samara": {
+			"km": 1060,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2",
+				"modular": "2-3"
+			}
+		},
+		"moskva--sankt-peterburg": {
+			"km": 704,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2",
+				"modular": "2-3"
+			}
+		},
+		"moskva--vladivostok": {
+			"km": 9186,
+			"days": "15-16",
+			"optionDays": {
+				"auto": "15-16",
+				"modular": "17-18",
+				"container": "23"
+			}
+		},
+		"samara--moskva": {
+			"km": 1054,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2",
+				"modular": "2-3"
+			}
+		},
+		"sankt-peterburg--moskva": {
+			"km": 710,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2",
+				"modular": "2-3"
+			}
+		},
+		"abay--moskva": {
+			"km": 2929,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"moskva--abakan": {
+			"km": 4312,
+			"days": "7-8",
+			"optionDays": {
+				"auto": "7-8",
+				"modular": "9-10"
+			}
+		},
+		"moskva--almaty": {
+			"km": 3729,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7",
+				"modular": "8-9"
+			}
+		},
+		"moskva--habarovsk": {
+			"km": 8428,
+			"days": "14-15",
+			"optionDays": {
+				"auto": "14-15",
+				"modular": "16-17",
+				"container": "21"
+			}
+		},
+		"moskva--irkutsk": {
+			"km": 5240,
+			"days": "8-9",
+			"optionDays": {
+				"auto": "8-9",
+				"container": "18"
+			}
+		},
+		"moskva--krasnodar": {
+			"km": 1346,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3",
+				"modular": "3-4"
+			}
+		},
+		"murmansk--moskva": {
+			"km": 1941,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4",
+				"modular": "4-5"
+			}
+		},
+		"novosibirsk--moskva": {
+			"km": 3396,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6",
+				"modular": "7-8"
+			}
+		}
+	}
+}

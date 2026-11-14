@@ -1,0 +1,81 @@
+{
+	"status": "ok",
+	"route": {
+		"from": "Москва",
+		"to": "Краснодар",
+		"from_case": "Москвы",
+		"to_case": "Краснодар",
+		"from_slug": "moskva",
+		"to_slug": "krasnodar",
+		"from_region": "Москва, Московская область",
+		"to_region": "Краснодар, Краснодарский край",
+		"km": 1346,
+		"days": "2-3"
+	},
+	"cargo": {
+		"weight_kg": 7500,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [
+		{
+			"type": "auto",
+			"title": "Отдельная машина",
+			"price_vat": 167200,
+			"price_novat": 137049,
+			"days": "2-3",
+			"available": true,
+			"is_recommended": false,
+			"unavailable_reason": null,
+			"vehicle": {
+				"name": "10-тонник",
+				"l": 8,
+				"w": 2.45,
+				"h": 2.75,
+				"volume_m3": 54,
+				"max_kg": 11000
+			},
+			"badge": "Экспресс-доставка",
+			"slogan": "Быстрее, без перегрузки. Груз едет напрямую от двери до двери",
+			"fits": "Средние и крупные партии, когда важна скорость",
+			"risk": "Зависимость от дорожной ситуации"
+		},
+		{
+			"type": "modular",
+			"title": "Сборный груз",
+			"price_vat": 99800,
+			"price_novat": 81803,
+			"days": "3-4",
+			"available": true,
+			"is_recommended": true,
+			"unavailable_reason": null,
+			"vehicle": null,
+			"badge": "Экономия",
+			"slogan": "Выгоднее по цене, но может быть дольше из-за консолидации",
+			"fits": "Небольшие партии, оптимизация затрат",
+			"risk": "Возможна консолидация, срок может увеличиться"
+		}
+	],
+	"message": "",
+	"insurance_note": "Страхование груза рассчитывается менеджером при оформлении заявки",
+	"phone": "8 (800) 250-06-60",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "ok",
+		"calc_reason": "",
+		"days_source": "estimate_by_km",
+		"container_source": "none",
+		"container_kind": "",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 139,
+			"km_rounded": 1400,
+			"auto": 167200,
+			"modular": 99800,
+			"volume_car_m3": "40"
+		}
+	}
+}

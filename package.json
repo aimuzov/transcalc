@@ -12,7 +12,8 @@
 		"build": "astro build",
 		"preview": "astro preview",
 		"check": "astro check && svelte-check",
-		"test": "node --test 'src/**/*.test.ts'",
+		"test": "node --test 'src/**/*.test.ts' && node scripts/verify-quotes.mjs",
+		"test:collector": "python3 -m unittest discover -s scripts -p 'test_*.py'",
 		"test:e2e": "playwright test",
 		"astro": "astro",
 		"format": "oxlint --fix && prettier --write .",
@@ -24,15 +25,18 @@
 	"dependencies": {
 		"@astrojs/sitemap": "3.7.4",
 		"@astrojs/svelte": "9.0.1",
+		"@lucide/svelte": "1.73.0",
 		"astro": "7.3.7",
 		"svelte": "5.57.2"
 	},
 	"devDependencies": {
 		"@aimuzov/infra-site-kit": "github:aimuzov/infra-site-kit#661bf5760d9fda3c0ba6bd35ddb4cbb4537aa929",
 		"@astrojs/check": "0.9.10",
+		"@axe-core/playwright": "4.13.0",
 		"@playwright/test": "1.64.0",
 		"@types/node": "26.6.5",
 		"oxlint": "1.87.0",
+		"playwright-core": "1.64.0",
 		"prettier": "3.9.9",
 		"stylelint": "17.16.0",
 		"svelte-check": "4.7.6",
