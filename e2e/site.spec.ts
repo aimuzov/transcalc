@@ -1,3 +1,3 @@
 import { siteChecks } from '@aimuzov/infra-site-kit/playwright/checks'
 
-siteChecks({ notFound: { suggest: false } })
+siteChecks({ notFound: { suggest: false }, theme: { button: (page) => page.getByRole('button', { name: /^Тема:/ }) } })

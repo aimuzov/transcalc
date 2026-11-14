@@ -30,6 +30,8 @@ Tariffs come from a versioned datrans.ru snapshot. Calculations make no requests
 
 The research records the formula and its limits in docs/research.md. Tests check 90 training quotes, 14 control quotes and the scrapers. The [route catalog](docs/catalog.md) records sources and coverage gaps. `npm run test:catalog` checks every published price.
 
+The [changelog](https://transcalc.aimuzov.online/changelog/) records site updates. The header switches between light and dark themes and remembers the choice.
+
 Buttons, inputs and fields come from infra-site-kit.
 
 - **404**: the shared not-found page from [infra-site-kit](https://github.com/aimuzov/infra-site-kit) inside the site layout: a link home, "back" for visitors who came from the site and suggestions from the sitemap.

@@ -1,0 +1,16 @@
+---
+import Changelog from '@aimuzov/infra-site-kit/changelog.astro'
+import { Calculator, History, Truck } from 'lucide-static'
+import releases from '#frontend/data/changelog.json'
+import Base from '#frontend/layouts/base.astro'
+---
+
+<Base title="Что нового" description="Новые возможности калькулятора грузоперевозок и история обновлений.">
+	<main class="container main-content changelog-page">
+		<Changelog
+			{releases}
+			icons={{ Calculator, History, Truck }}
+			lead="Новые возможности и обновления калькулятора."
+		/>
+	</main>
+</Base>
