@@ -175,8 +175,8 @@ h1 {
 }
 .calculator-form > fieldset {
 	min-width: 0;
-	padding: 0;
 	margin: 0;
+	padding: 0;
 	border: 0;
 }
 .form-heading {
