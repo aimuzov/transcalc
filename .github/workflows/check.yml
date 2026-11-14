@@ -1,0 +1,55 @@
+name: Check
+
+# На main эти проверки вызывает workflow деплоя перед выкаткой, а ветки
+# проверяются через PR. Отдельный прогон на push дал бы дубль на тот же коммит.
+on:
+  pull_request:
+  workflow_call:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: read
+  id-token: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Reuse verified CI
+        id: verified
+        uses: aimuzov/infra-ci/reuse-check@v1
+        continue-on-error: true
+        with:
+          workflow: .github/workflows/check.yml
+      - uses: aimuzov/infra-site-kit/check@v5
+        if: steps.verified.outputs.reused != 'true'
+      # e2e из infra-site-kit: сборка в Chromium. Браузер кэшируется по версии Playwright,
+      # его системные библиотеки ставятся из apt каждый прогон.
+      - id: playwright
+        run: echo "version=$(npm ls @playwright/test --json | jq -r '.dependencies["@playwright/test"].version')" >>
+          "$GITHUB_OUTPUT"
+        if: steps.verified.outputs.reused != 'true'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ steps.playwright.outputs.version }}
+        if: steps.verified.outputs.reused != 'true'
+      - run: npx playwright install --with-deps chromium
+        if: steps.verified.outputs.reused != 'true'
+      - run: npm run test:e2e
+        if: steps.verified.outputs.reused != 'true'
+      - name: Check production memory budgets
+        if: steps.verified.outputs.reused != 'true'
+        env:
+          POLICY_REVISION: b7698e98bcb6b1ad274af612b4bf790b62ae424b
+        run: |
+          curl --fail --silent --show-error --retry 2             "https://raw.githubusercontent.com/aimuzov/infra-server/$POLICY_REVISION/deploy/check-memory-limits.py"             -o "$RUNNER_TEMP/check-memory-limits.py"
+          docker compose -p ci-memory -f deploy/docker-compose.yml config --no-env-resolution --format json             | python3 "$RUNNER_TEMP/check-memory-limits.py"
+      - name: Record verified CI
+        if: github.event_name == 'pull_request' && steps.verified.outputs.reused != 'true'
+        uses: aimuzov/infra-ci/record-check@v1
+        continue-on-error: true
+        with:
+          workflow: .github/workflows/check.yml
