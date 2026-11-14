@@ -1,0 +1,81 @@
+{
+	"status": "ok",
+	"route": {
+		"from": "Мурманск",
+		"to": "Москва",
+		"from_case": "Мурманска",
+		"to_case": "Москву",
+		"from_slug": "murmansk",
+		"to_slug": "moskva",
+		"from_region": "Мурманск, Мурманская область",
+		"to_region": "Москва, Московская область",
+		"km": 1941,
+		"days": "3-4"
+	},
+	"cargo": {
+		"weight_kg": 1500,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [
+		{
+			"type": "auto",
+			"title": "Отдельная машина",
+			"price_vat": 70400,
+			"price_novat": 57705,
+			"days": "3-4",
+			"available": true,
+			"is_recommended": false,
+			"unavailable_reason": null,
+			"vehicle": {
+				"name": "Газель",
+				"l": 4.5,
+				"w": 2,
+				"h": 2,
+				"volume_m3": 18,
+				"max_kg": 1500
+			},
+			"badge": "Экспресс-доставка",
+			"slogan": "Быстрее, без перегрузки. Груз едет напрямую от двери до двери",
+			"fits": "Средние и крупные партии, когда важна скорость",
+			"risk": "Зависимость от дорожной ситуации"
+		},
+		{
+			"type": "modular",
+			"title": "Сборный груз",
+			"price_vat": 28600,
+			"price_novat": 23443,
+			"days": "4-5",
+			"available": true,
+			"is_recommended": true,
+			"unavailable_reason": null,
+			"vehicle": null,
+			"badge": "Экономия",
+			"slogan": "Выгоднее по цене, но может быть дольше из-за консолидации",
+			"fits": "Небольшие партии, оптимизация затрат",
+			"risk": "Возможна консолидация, срок может увеличиться"
+		}
+	],
+	"message": "",
+	"insurance_note": "Страхование груза рассчитывается менеджером при оформлении заявки",
+	"phone": "8 (800) 250-06-60",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "ok",
+		"calc_reason": "",
+		"days_source": "estimate_by_km",
+		"container_source": "none",
+		"container_kind": "",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 80,
+			"km_rounded": 2000,
+			"auto": 70400,
+			"modular": 28600,
+			"volume_car_m3": "16"
+		}
+	}
+}

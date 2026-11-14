@@ -35,9 +35,15 @@ The site is in Russian, so the names below are translated.
 
 ## What's inside
 
-- **Home** (`/`): the site name and description from [`src/frontend/data/site.ts`](src/frontend/data/site.ts).
+The calculator supports searchable cities, Moscow routes in both directions, weight presets and VAT. Calculation links preserve the route and weight.
+
+Tariffs come from a versioned datrans.ru snapshot. Calculations make no requests to the source site. Unknown routes show no invented prices.
+
+The research records the formula and its limits in docs/research.md. Tests check 90 training quotes, 14 control quotes and the scraper.
+
+Buttons, inputs and fields come from infra-site-kit.
+
 - **404**: the shared not-found page from [infra-site-kit](https://github.com/aimuzov/infra-site-kit) inside the site layout: a link home, "back" for visitors who came from the site and suggestions from the sitemap.
-- **Footer**: the author credit from [infra-site-kit](https://github.com/aimuzov/infra-site-kit) with a link to the source code, `repo` in [`site.ts`](src/frontend/data/site.ts).
 
 ## How it is built
 
