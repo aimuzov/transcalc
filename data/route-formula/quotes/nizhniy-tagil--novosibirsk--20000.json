@@ -1,0 +1,66 @@
+{
+	"status": "ok",
+	"route": {
+		"from": "Нижний Тагил",
+		"to": "Новосибирск",
+		"from_case": "Нижнего Тагила",
+		"to_case": "Новосибирск",
+		"from_slug": "nizhniy-tagil",
+		"to_slug": "novosibirsk",
+		"from_region": "Нижний Тагил, Свердловская область",
+		"to_region": "Новосибирск, Новосибирская область",
+		"km": 1739,
+		"days": "2-3"
+	},
+	"cargo": {
+		"weight_kg": 20000,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [
+		{
+			"type": "auto",
+			"title": "Отдельная машина",
+			"price_vat": 225000,
+			"price_novat": 184426,
+			"days": "2-3",
+			"available": true,
+			"is_recommended": true,
+			"unavailable_reason": null,
+			"vehicle": {
+				"name": "Фура / 20-тонник",
+				"l": 13.6,
+				"w": 2.47,
+				"h": 2.75,
+				"volume_m3": 82,
+				"max_kg": 20000
+			},
+			"badge": "Экспресс-доставка",
+			"slogan": "Быстрее, без перегрузки. Груз едет напрямую от двери до двери",
+			"fits": "Средние и крупные партии, когда важна скорость",
+			"risk": "Зависимость от дорожной ситуации"
+		}
+	],
+	"message": "",
+	"insurance_note": "Страхование груза рассчитывается менеджером при оформлении заявки",
+	"phone": "8 (800) 250-06-60",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "ok",
+		"calc_reason": "",
+		"days_source": "estimate_by_km",
+		"container_source": "none",
+		"container_kind": "",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 125,
+			"km_rounded": 1800,
+			"auto": 225000,
+			"modular": 0,
+			"volume_car_m3": "80"
+		}
+	}
+}

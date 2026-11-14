@@ -1,0 +1,91 @@
+{
+	"status": "ok",
+	"route": {
+		"from": "Казань",
+		"to": "Новосибирск",
+		"from_case": "Казани",
+		"to_case": "Новосибирск",
+		"from_slug": "kazan",
+		"to_slug": "novosibirsk",
+		"from_region": "Казань, Республика Татарстан",
+		"to_region": "Новосибирск, Новосибирская область",
+		"km": 2534,
+		"days": "4-5"
+	},
+	"cargo": {
+		"weight_kg": 20000,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [
+		{
+			"type": "auto",
+			"title": "Отдельная машина",
+			"price_vat": 356200,
+			"price_novat": 291967,
+			"days": "4-5",
+			"available": true,
+			"is_recommended": false,
+			"unavailable_reason": null,
+			"vehicle": {
+				"name": "Фура / 20-тонник",
+				"l": 13.6,
+				"w": 2.47,
+				"h": 2.75,
+				"volume_m3": 82,
+				"max_kg": 20000
+			},
+			"badge": "Экспресс-доставка",
+			"slogan": "Быстрее, без перегрузки. Груз едет напрямую от двери до двери",
+			"fits": "Средние и крупные партии, когда важна скорость",
+			"risk": "Зависимость от дорожной ситуации"
+		},
+		{
+			"type": "container",
+			"title": "Контейнерная перевозка",
+			"container_size_ft": 40,
+			"price_vat": 351500,
+			"price_novat": null,
+			"days": "9",
+			"days_approx": true,
+			"available": true,
+			"is_recommended": true,
+			"unavailable_reason": null,
+			"vehicle": {
+				"name": "Контейнер 40 футов (40HC)",
+				"l": 12,
+				"w": 2.33,
+				"h": 2.59,
+				"volume_m3": 76,
+				"max_kg": 28000,
+				"note": "Для расчёта используются допустимые габариты груза с учётом дверного проёма контейнера. Внутренняя высота контейнера может быть больше."
+			},
+			"badge": "Для дальних отправок",
+			"slogan": "Для крупных партий и дальних направлений. Отправка по расписанию",
+			"fits": "Крупные партии и регулярные поставки",
+			"risk": "Требуется время на подачу и возврат контейнера"
+		}
+	],
+	"message": "",
+	"insurance_note": "Страхование груза рассчитывается менеджером при оформлении заявки",
+	"phone": "8 (800) 250-06-60",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "ok",
+		"calc_reason": "",
+		"days_source": "estimate_by_km",
+		"container_source": "прайс оператора, наценка в result.php",
+		"container_kind": "formula",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 137,
+			"km_rounded": 2600,
+			"auto": 356200,
+			"modular": 0,
+			"volume_car_m3": "80"
+		}
+	}
+}
