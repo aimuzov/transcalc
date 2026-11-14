@@ -1,0 +1,55 @@
+---
+import '@aimuzov/infra-site-kit/theme-peek.css'
+---
+
+<header class="site-header container">
+	<a class="wordmark" href="/" aria-label="Транскальк, главная">
+		<svg viewBox="0 0 32 32" fill="none" aria-hidden="true">
+			<rect width="32" height="32" rx="8" fill="currentColor" />
+			<path d="M7 12h18M21 8l4 4-4 4M25 21H7m4-4-4 4 4 4" stroke="var(--surface)" stroke-width="2" />
+		</svg>
+		<span>Транскальк</span>
+	</a>
+	<nav class="header-actions" aria-label="Главная навигация">
+		<a
+			class="header-icon"
+			href="/changelog/"
+			aria-label="Что нового"
+			title="Что нового"
+			aria-current={Astro.url.pathname === '/changelog/' ? 'page' : undefined}
+		>
+			<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+				<path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8M3 3v5h5M12 7v5l4 2" />
+			</svg>
+		</a>
+		<button
+			class="theme-toggle"
+			type="button"
+			aria-label="Тема: изменить цветовую схему"
+			data-theme-toggle
+			disabled
+		>
+			<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+				<path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z" />
+			</svg>
+		</button>
+	</nav>
+</header>
+
+<script>
+	import { toggleTheme, watchTheme, schemeOf } from '@aimuzov/infra-site-kit/theme.js'
+	import { themePeek } from '@aimuzov/infra-site-kit/theme-peek.js'
+
+	for (const button of document.querySelectorAll<HTMLButtonElement>('[data-theme-toggle]')) {
+		watchTheme((theme, system) => {
+			const dark = schemeOf(theme, system) === 'dark'
+
+			button.setAttribute('aria-label', `Тема: включить ${dark ? 'светлую' : 'тёмную'}`)
+			button.title = dark ? 'Светлая тема' : 'Тёмная тема'
+		})
+
+		button.addEventListener('click', () => toggleTheme({ key: 'transcalc:theme' }))
+		themePeek(button)
+		button.disabled = false
+	}
+</script>

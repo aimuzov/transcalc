@@ -5,15 +5,15 @@
 	--container: 1120px;
 	--gutter: 24px;
 	--section-y: 48px;
-	--bg: #f5f4f0;
-	--surface: #fffefa;
-	--fg: #242b35;
-	--muted: #626b76;
-	--border: #d9dde1;
-	--accent: #174ec7;
-	--accent-soft: #edf2ff;
-	--danger: #a12626;
-	--danger-soft: #fff0ed;
+	--bg: light-dark(#f5f4f0, #101721);
+	--surface: light-dark(#fffefa, #19232f);
+	--fg: light-dark(#242b35, #eef2f6);
+	--muted: light-dark(#626b76, #b4beca);
+	--border: light-dark(#d9dde1, #4d6074);
+	--accent: light-dark(#174ec7, #a6c1ff);
+	--accent-soft: light-dark(#edf2ff, #223957);
+	--danger: light-dark(#a12626, #ffb2a5);
+	--danger-soft: light-dark(#fff0ed, #3e2427);
 	--space-1: 4px;
 	--space-2: 8px;
 	--space-3: 12px;
@@ -40,8 +40,8 @@
 	--tracking-tight: -0.045em;
 	--control-height: 52px;
 	--menu-height: 280px;
-	--ring: 0 0 0 3px #174ec74d;
-	--shadow-menu: 0 12px 28px #242b351f;
+	--ring: 0 0 0 3px light-dark(#174ec74d, #a6c1ff80);
+	--shadow-menu: 0 12px 28px light-dark(#242b351f, #00000066);
 	--ui-bg: var(--surface);
 	--ui-fg: var(--fg);
 	--ui-muted: var(--muted);
@@ -55,9 +55,63 @@
 	--ui-input-bg: var(--surface);
 	--ui-input-radius: var(--radius-sm);
 	--ui-shadow-sm: none;
-	--ui-ring: #174ec74d;
+	--ui-ring: light-dark(#174ec74d, #a6c1ff80);
 	--ui-radius-sm: var(--radius-sm);
+	color-scheme: light dark;
+}
+
+:root[data-theme='light'] {
 	color-scheme: light;
+}
+:root[data-theme='dark'] {
+	color-scheme: dark;
+}
+
+.header-actions {
+	display: flex;
+	gap: var(--space-3);
+	align-items: center;
+	font-size: var(--text-note);
+}
+.header-actions a[aria-current='page'] {
+	font-weight: 700;
+}
+.theme-toggle,
+.header-icon {
+	display: grid;
+	place-items: center;
+	width: var(--space-10);
+	height: var(--space-10);
+	padding: var(--space-2);
+	border: 0;
+	border-radius: var(--radius-sm);
+	color: var(--fg);
+	background: transparent;
+}
+.theme-toggle:hover,
+.header-icon:hover,
+.header-icon[aria-current='page'] {
+	background: var(--accent-soft);
+}
+.theme-toggle svg,
+.header-icon svg {
+	width: var(--space-6);
+	height: var(--space-6);
+}
+.wordmark span {
+	display: none;
+}
+.changelog-page {
+	--changelog-accent: var(--accent);
+	--changelog-muted: var(--muted);
+	--changelog-padding: 0;
+
+	flex: 1;
+}
+@media (width >= 480px) {
+	.wordmark span {
+		display: inline;
+	}
 }
 
 *,
@@ -65,7 +119,8 @@
 *::after {
 	box-sizing: border-box;
 }
-body {
+body,
+.theme-peek {
 	display: flex;
 	flex-direction: column;
 	min-height: 100dvh;
@@ -178,6 +233,9 @@ h1 {
 	margin: 0;
 	padding: 0;
 	border: 0;
+}
+.calculator .calculator-form fieldset:disabled button {
+	opacity: 1;
 }
 .form-heading {
 	display: flex;
@@ -457,7 +515,7 @@ h3 {
 	}
 }
 @media (min-width: 1000px) {
-	.main-content {
+	.calculator-page {
 		display: grid;
 		grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.3fr);
 		gap: var(--space-12);
