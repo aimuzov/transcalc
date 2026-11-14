@@ -3,11 +3,9 @@
 	<img src="https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-0066cc?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5IDYiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoOXYzSDB6Ii8+PHBhdGggZmlsbD0iIzAwMzlhNiIgZD0iTTAgMmg5djJIMHoiLz48cGF0aCBmaWxsPSIjZDUyYjFlIiBkPSJNMCA0aDl2MkgweiIvPjwvc3ZnPg==" alt="Русский">
 </p>
 
-<!-- Раскомментировать, когда в .github/assets появится banner.jpg.
 <p align="center">
 	<a href="https://transcalc.aimuzov.online"><img src=".github/assets/banner.jpg" alt="Транскальк: Автономный калькулятор стоимости грузоперевозок по России." width="100%"></a>
 </p>
--->
 
 <p align="center">
 	<a href="https://github.com/aimuzov/transcalc/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/aimuzov/transcalc/deploy.yml?branch=main&label=release" alt="Release"></a>
@@ -19,15 +17,6 @@
 </p>
 
 <h3 align="center">Автономный калькулятор стоимости грузоперевозок по России.</h3>
-
-<!-- Раскомментировать, когда в .github/assets появятся скриншоты.
-<table>
-	<tr>
-		<td width="50%" align="center"><img src=".github/assets/home.jpg" alt="Главная"><br><b>Главная</b> для посетителей</td>
-		<td width="50%" align="center"><img src=".github/assets/screen.jpg" alt="Второй экран"><br><b>Экран</b> что на нём</td>
-	</tr>
-</table>
--->
 
 <p>Живёт на <a href="https://transcalc.aimuzov.online">transcalc.aimuzov.online</a>. Статичный сайт на <a href="https://astro.build">Astro</a>, интерактивные островки на <a href="https://svelte.dev">Svelte</a>.</p>
 
