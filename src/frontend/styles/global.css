@@ -173,6 +173,12 @@ h1 {
 	border-radius: var(--radius);
 	background: var(--surface);
 }
+.calculator-form > fieldset {
+	min-width: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
 .form-heading {
 	display: flex;
 	flex-wrap: wrap;

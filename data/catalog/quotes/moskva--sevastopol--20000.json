@@ -1,0 +1,42 @@
+{
+	"status": "not_served",
+	"route": {
+		"from": "Москва",
+		"to": "Севастополь",
+		"from_case": "Москвы",
+		"to_case": "Севастополь",
+		"from_slug": "moskva",
+		"to_slug": "sevastopol",
+		"from_region": "Москва, Московская область",
+		"to_region": "Севастополь, Республика Крым",
+		"km": null,
+		"days": ""
+	},
+	"cargo": {
+		"weight_kg": 20000,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [],
+	"reason": "blocked_region",
+	"message": "Сейчас мы не выполняем перевозки по этому направлению.",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "individual",
+		"calc_reason": "not_served",
+		"days_source": "estimate_by_km",
+		"container_source": "none",
+		"container_kind": "",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 0,
+			"km_rounded": 0,
+			"auto": 0,
+			"modular": 0,
+			"volume_car_m3": ""
+		}
+	}
+}

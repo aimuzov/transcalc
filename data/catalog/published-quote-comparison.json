@@ -1,0 +1,26 @@
+{
+	"checkedPairs": 273,
+	"matchedPairs": 271,
+	"differences": [
+		{
+			"from": "moskva",
+			"to": "sevastopol",
+			"kind": "quote_not_served_with_published_price",
+			"quoteStatus": "not_served",
+			"quoteBase": 0,
+			"publishedBases": [661200],
+			"quoteSource": "data/catalog/quotes/moskva--sevastopol--20000.json",
+			"publishedSources": ["https://sevastopol.datrans.ru/gruzoperevozki-po-rossii/"]
+		},
+		{
+			"from": "moskva",
+			"to": "simferopol",
+			"kind": "quote_not_served_with_published_price",
+			"quoteStatus": "not_served",
+			"quoteBase": 0,
+			"publishedBases": [626400],
+			"quoteSource": "data/catalog/quotes/moskva--simferopol--20000.json",
+			"publishedSources": ["https://simferopol.datrans.ru/gruzoperevozki-po-rossii/"]
+		}
+	]
+}

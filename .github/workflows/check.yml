@@ -28,6 +28,9 @@ jobs:
       - name: Verify recovered regional tariff formula
         if: steps.verified.outputs.reused != 'true'
         run: npm run test:routes
+      - name: Verify published regional catalog
+        if: steps.verified.outputs.reused != 'true'
+        run: npm run test:catalog
       # e2e из infra-site-kit: сборка в Chromium. Браузер кэшируется по версии Playwright,
       # его системные библиотеки ставятся из apt каждый прогон.
       - id: playwright

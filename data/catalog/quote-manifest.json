@@ -1,0 +1,3010 @@
+[
+	{
+		"sourceFile": "data/training/moskva--anapa--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=anapa&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "60de859c8253c1e68d1e2b4c19bd5da4d01304ba9e86fa917900b4216e29fc74",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--anapa--2000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=anapa&weight=2000",
+		"fetchedAt": null,
+		"dataSha256": "6386cd25c25463bc8b2321795c21af50c2a9be3c09c1ff4f7b47a2476bac9695",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--anapa--5000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=anapa&weight=5000",
+		"fetchedAt": null,
+		"dataSha256": "75a57a52d2ff0f760671fb180acd768397f6550a6ea3a498c38a8b55d4268c8b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--anapa--7000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=anapa&weight=7000",
+		"fetchedAt": null,
+		"dataSha256": "abd290228dc334028fee65edd5a66a08ad097132038d766ad1e0f8ebacc1b5d0",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--ekaterinburg--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=ekaterinburg&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "8abdf8e506ea3709a80f73ab01b5d3907871b0448c3055535e606cfc97557a73",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--kazan--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=kazan&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "544c71c9330443f9b6f65ba2a9d1d555324deae35ae0988491dcb840c9d19346",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--samara--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "555bac4a0e80bb7648e95271f7f69513831e127d8dc596500614fede251674dd",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--samara--10000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=10000",
+		"fetchedAt": null,
+		"dataSha256": "d51f6d91335cdaffabe8469b11606f4537a38e70e74b3e4e2634dd4a6a76dc79",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--samara--11000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=11000",
+		"fetchedAt": null,
+		"dataSha256": "a7a5a44dfe6ea38e2433444935964f6a4b5bbd2f62f3d48bbf022c7bdb971aa7",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--samara--1190.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=1190",
+		"fetchedAt": null,
+		"dataSha256": "3368f5796cd964201d59e20e9c465e7d507e6586669ed056cd08dd2bfb4ce914",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--samara--1191.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=1191",
+		"fetchedAt": null,
+		"dataSha256": "2cf9954d74bebfcff418976b603e2ca01af50f29427c40817f59f667187b6781",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--samara--1500.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=1500",
+		"fetchedAt": null,
+		"dataSha256": "af63523cc51a1fee9966b462cb72ac8333d9f060709def6171fb762f8ce3963e",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--samara--2000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=2000",
+		"fetchedAt": null,
+		"dataSha256": "bd4a065f6f5bf19e0ee27a02597ff28ef97e159c99ba2ba837a7c48f58c55fac",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "79c1618134122132d0e239335a46963bb2bd15ff0ac9140d6e5472e6abc04b96",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--samara--2380.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=2380",
+		"fetchedAt": null,
+		"dataSha256": "7a6f2995a4ff71e22688a925722ef2ffd9bb44502e22526716349122998c00ad",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--samara--3000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=3000",
+		"fetchedAt": null,
+		"dataSha256": "23a76019ff6874c1cf85df59c0fa92de127595468e98e97313f3bf175d81e9d9",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--samara--500.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=500",
+		"fetchedAt": null,
+		"dataSha256": "c32764cf6d0d97b50b53c42fdd3eea862f946683308e4c2d3b2b7dc5e009eec2",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--samara--5000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=5000",
+		"fetchedAt": null,
+		"dataSha256": "d5d491c25876c378f950ee3cbfa918d4fabbfdc288bf961f8377f035dc98112f",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--samara--7000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=samara&weight=7000",
+		"fetchedAt": null,
+		"dataSha256": "26aec220210e656748582db11a2498564b27e83fd2c0e924d4ec935ad02417df",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "a2cac410538ffe607ec2fef9b48a30a1a30aa0742e15873cf71d69b166e6880a",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--10000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=10000",
+		"fetchedAt": null,
+		"dataSha256": "d1ec6084be0168dd5e329111385da875b8ea80f066dbbd8e2deb2f51a74e8a41",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--10001.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=10001",
+		"fetchedAt": null,
+		"dataSha256": "5067c21ce672e9c787f24927e085f7491e9a15a706e551f8a5287a472f2f3db7",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--10500.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=10500",
+		"fetchedAt": null,
+		"dataSha256": "635259d04d74e2212e76c61ae68708e599b7551124ec6f68329a07827f33bc88",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--10769.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=10769",
+		"fetchedAt": null,
+		"dataSha256": "2090b1a28726458eb593d157eb2b9fc9151cade8cbcf6519838f03c848d2b5bc",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--10770.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=10770",
+		"fetchedAt": null,
+		"dataSha256": "ca8bd123a2338c43867ba3a9381e5e4a6ac2cd1cd9b83e98f2b1713a3f46e49f",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--10989.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=10989",
+		"fetchedAt": null,
+		"dataSha256": "f0562addf064ad7a64158896258df4e108b87451587a149a5d968d09e12d2218",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--10990.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=10990",
+		"fetchedAt": null,
+		"dataSha256": "2d6d8aae2018d45af0c1aeef1e50f9578d016568a203e650787c0f76ab2b6bbd",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--10999.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=10999",
+		"fetchedAt": null,
+		"dataSha256": "7b3e481741ac2213ae37f32066887f047f3e9d391f37011f212349490e1bd9b9",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--11000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=11000",
+		"fetchedAt": null,
+		"dataSha256": "87c8a303ff7ebd2307905a29dc1971cc567e333f0a24e497987e06d0e11a97fe",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--11001.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=11001",
+		"fetchedAt": null,
+		"dataSha256": "a7939abb71aa14c9020b2e5f659a3d063bb6b13c13dcd06c5e2d8d1281bcc3f3",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--1500.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=1500",
+		"fetchedAt": null,
+		"dataSha256": "e288edeb7e76ccd9186469f71e26716b322e27f6407a4e1bd93ef22071016e3f",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--1501.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=1501",
+		"fetchedAt": null,
+		"dataSha256": "6b1fffde73f5f7c81c55d8ef043af4c3a45ab67b63e31f368064f5a66be12a3c",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--1538.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=1538",
+		"fetchedAt": null,
+		"dataSha256": "a81fe17681396ff7303e852ff6159d5d8dbdb11abcda4bb7b76318a89955a89e",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--1539.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=1539",
+		"fetchedAt": null,
+		"dataSha256": "7d2b910fd69dbb55f6a62b4b560117c766acbe13ceebf22dcf93f6ef6d4295ba",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--1648.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=1648",
+		"fetchedAt": null,
+		"dataSha256": "dede86fcd8e065279e0b136526f66d3cf76e99f7b7d5ee97adb80859f635b0b1",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--1649.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=1649",
+		"fetchedAt": null,
+		"dataSha256": "fc9c927e9a6e07ec9103099d706fdb53c86231e17387c1b3109865acedf26422",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--1999.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=1999",
+		"fetchedAt": null,
+		"dataSha256": "4e5b7a52c3309c9e10b39157c0934687d8ad4f67859f0d1f43303fe53a06341e",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--2000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=2000",
+		"fetchedAt": null,
+		"dataSha256": "b077541d35b631eabbb3d7f409c7470d6e7c97c6ad312c956458325e0e2c45c4",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "47a61adf86c80d60ef3f95bc6bb135b7706b4666f819a87051078bc0ba2fd0c5",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--20001.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=20001",
+		"fetchedAt": null,
+		"dataSha256": "c4011049f5918348a24b253f822f5b625c0d4d10a2bce485dbd4f2f621b87f0b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--2001.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=2001",
+		"fetchedAt": null,
+		"dataSha256": "a76a18ab28ca70e943b1262457124ced8b7526b563d221168440c7bd7a83b3c4",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--3000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=3000",
+		"fetchedAt": null,
+		"dataSha256": "f170715c6188c46e0a623ef0746c69601960b907aca1f1cde084e311320c6d47",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--3001.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=3001",
+		"fetchedAt": null,
+		"dataSha256": "1879a87ae1748b7ed5d319a9c047dfb269f4b0d051a92b1ce7b5de120fd18498",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--3076.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=3076",
+		"fetchedAt": null,
+		"dataSha256": "d38b1b2da82372f85ed4904f4b3f59c01d4849e3f8d69bd5f790ea375ba286e1",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--3077.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=3077",
+		"fetchedAt": null,
+		"dataSha256": "2927b0ce724ffa6d5b7b606d36de1e8e4edd43014b0c8fd94de5978fc82d98c7",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--3296.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=3296",
+		"fetchedAt": null,
+		"dataSha256": "c9fddf8f0cb66c73690d15cc6d0ba08e2d76ea5dc5dddd9e236e5f4db59a9657",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--3297.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=3297",
+		"fetchedAt": null,
+		"dataSha256": "c270099d37628c29efb71c11d971215f11143c37b0b7af56554f7065700aba12",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--3999.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=3999",
+		"fetchedAt": null,
+		"dataSha256": "faf0e5814df3e6f082f85b131988b471325322da2b8ec4eb63bce80ae20c82f9",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--4000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=4000",
+		"fetchedAt": null,
+		"dataSha256": "c229c51e11aa451144673e22231de4b42d1af28f289115a047c8b5e0b437d713",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--4395.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=4395",
+		"fetchedAt": null,
+		"dataSha256": "d892f1689afc23459dfcd49f69f748a53561a11d7f1ecb914dd4e3b4886aa5a2",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--4396.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=4396",
+		"fetchedAt": null,
+		"dataSha256": "9e2c4f4360f4b2f43eb0e574430b0a46a2f5cb7df238fcc4b35de04145fb0707",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--4615.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=4615",
+		"fetchedAt": null,
+		"dataSha256": "8d123ac90a489bc49bd956c61caa205976e51371828fcfa05fe539a1f5b9eb35",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--4616.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=4616",
+		"fetchedAt": null,
+		"dataSha256": "6ddf55a5e621a7277c20ddcc6d7303badc2b3ffbbe43e2591ebd63f3df4eedff",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--499.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=499",
+		"fetchedAt": null,
+		"dataSha256": "607a22614396863418a4431efaf9dd227f93f405cbd20349c67cd60af05fca23",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--4999.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=4999",
+		"fetchedAt": null,
+		"dataSha256": "65593f26f8c2aa154a7763218de343ba6e33f4af52a2ac0385245f806db3a0e4",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--500.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=500",
+		"fetchedAt": null,
+		"dataSha256": "abe10b62f40b61099a58efa1da25c6c3f127af90a479318d8528e2fa5931e249",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--5000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=5000",
+		"fetchedAt": null,
+		"dataSha256": "d9ad08301bb528491002c7ca32633f50d2d2b3eaf2fbef9fcb3f29251755f6c8",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--5001.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=5001",
+		"fetchedAt": null,
+		"dataSha256": "bda87de788d7c9a64d49527d2815a084c41142eeaba752965758454e5064e0b2",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--501.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=501",
+		"fetchedAt": null,
+		"dataSha256": "677740cc04ec0ba219530b148d0e4c1db8792f255f0d902f6c7920767a4704c4",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sankt-peterburg--7000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=7000",
+		"fetchedAt": null,
+		"dataSha256": "272f4816ea35253f01da38353154f6bf79023761615d223154766f906b1aef1f",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--7001.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=7001",
+		"fetchedAt": null,
+		"dataSha256": "14453fe93b0baf2b680e582a33eaa4f62ef77c948d355175ad7a779277f492a8",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--7142.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=7142",
+		"fetchedAt": null,
+		"dataSha256": "c6a1ad3142176b153aaf0ab86d9e87ddd139caa8a670bd6827f91718d43f1a70",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--7143.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=7143",
+		"fetchedAt": null,
+		"dataSha256": "3798e901b9e9996d6e4025d44298dfec8143bea63c05ddef0f8ecb8d0cb3e60b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--7692.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=7692",
+		"fetchedAt": null,
+		"dataSha256": "9f540ae314489bad88dc0182ae50e96ba79d25781f41bb47efd558f4b6f54e9d",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--7693.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=7693",
+		"fetchedAt": null,
+		"dataSha256": "d1d1a4ebfec1abba5122b28be0ff40ea6d85070ac8555cbc54de3ebe960874a4",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--7999.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=7999",
+		"fetchedAt": null,
+		"dataSha256": "deb554e1c6a378ebd7efed17669708376ec64304e01b84238ba7437b73c7846f",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--sankt-peterburg--8000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sankt-peterburg&weight=8000",
+		"fetchedAt": null,
+		"dataSha256": "3654d2fccd1400e08fb91d68c58f47f32f96540da6c2599a83bcf326f5fe54ed",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--vladivostok--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=vladivostok&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "3422db15faee93fc3811e97766aaa962eac9fb949dfc0b6bbe2fe316513ff375",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--vladivostok--11000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=vladivostok&weight=11000",
+		"fetchedAt": null,
+		"dataSha256": "fc6ccc417e791e5bddf2cb25b62846c3ade1c37b2ddb7e57425f9f506d476ef2",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/moskva--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=vladivostok&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "89e29a205efd817540a4cb7f942aec65967501525ef45255201683296f325084",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--vladivostok--3000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=vladivostok&weight=3000",
+		"fetchedAt": null,
+		"dataSha256": "0685dffc876acc682c3ea5528230234b255002145bf4464fc88520b8a1b42be9",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--vladivostok--7000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=vladivostok&weight=7000",
+		"fetchedAt": null,
+		"dataSha256": "c591ebc24d583e48359d47526c3bc6a562f5b2f48c5dbfe038798ea161e44426",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--vladivostok--800.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=vladivostok&weight=800",
+		"fetchedAt": null,
+		"dataSha256": "72bf78331b602f1d0ecea61f3597f43b32b52120c555dc16fbb027cc003ce220",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/moskva--vladivostok--801.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=vladivostok&weight=801",
+		"fetchedAt": null,
+		"dataSha256": "fd2ef421c4c8dc5646d750ada798b9fe82cc0e5f49b7a002cfb8573cdc1920cb",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--kazan--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=kazan&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "cb8dfcfcad4c8139c9ffd1d53b0fc0b1ef9735abd47666fb9c07df616b24651d",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/samara--kazan--10000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=kazan&weight=10000",
+		"fetchedAt": null,
+		"dataSha256": "d212d9f586fb6d279f7d14f3cc6546c4a219cdf9028d2bd271ab0763fa2b4393",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--kazan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=kazan&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "d4f0b5dae2c7e5c06744e78a15153385556cda91ff770f5c7c10fbeeb42f2c5f",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/samara--kazan--3000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=kazan&weight=3000",
+		"fetchedAt": null,
+		"dataSha256": "cac2df7b766492e6c3b8b165a30dbbe5e971c5d0c080614d2d1c061dd656de1c",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/samara--kazan--500.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=kazan&weight=500",
+		"fetchedAt": null,
+		"dataSha256": "be6dbae5c86e2eb4f453bfbe551f88bfcf44dd4ce641a3628176ddaa846cddd8",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/samara--kazan--7000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=kazan&weight=7000",
+		"fetchedAt": null,
+		"dataSha256": "6e32cd3de989b48d58c570c61a2a855adb68296992f93553f5c7df4ce0f59875",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--moskva--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=moskva&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "64dfd5b1736e1d19538d58ea5ebb8b4e5094faeec0a0de907e9d323d3b322a36",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/samara--moskva--4999.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=moskva&weight=4999",
+		"fetchedAt": null,
+		"dataSha256": "eb340d92783a774434d585f1168888435b9648194ed6c89402999b9f99203dbc",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/samara--moskva--5000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=moskva&weight=5000",
+		"fetchedAt": null,
+		"dataSha256": "c9ac599d3882bfd47f92d2f68a31707aa31118f1ed791427bc621c5ae34bec7c",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/training/samara--moskva--5001.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=moskva&weight=5001",
+		"fetchedAt": null,
+		"dataSha256": "14bdf33b4cab2bd2820fccbd229e848b6954bcce1f2939cad8ecdd157dcd8f80",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sankt-peterburg--moskva--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sankt-peterburg&to=moskva&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "c930877208ab6b63949cf1384de2bbfdec1fe340dcb302bbf95b3c44ce4314c9",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/abay--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=abay&to=moskva&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "be091623d6088c4c7949966bec7305f3c20a6e60aa60e787f73a295737be1bc7",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/moskva--abakan--5000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=abakan&weight=5000",
+		"fetchedAt": null,
+		"dataSha256": "845b4f3ad9d1c1ab0c42a43d2c8c779bfa6441ce72ef45a50ebcd1add4cbd6c3",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/moskva--almaty--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=almaty&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "0ddb278eacdeca250855c73caf2966a8f7305ce965129cc82e95509b89dac86a",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/moskva--habarovsk--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=habarovsk&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "8aa0e844d7a2867e4c6fa9462ec95d8b5d28a298f185365257428f008bda1f8b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/moskva--habarovsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=habarovsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "1e81d38fe9b16f358b8bbef9f364a1ab259434d4219db2bc6c654c36f6f20ed5",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/moskva--irkutsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=irkutsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "c95ca3fe33fd3f81d6a3a4502fffacd923fe69fd53a191a0a5ff819f8face4cb",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/moskva--kazan--4321.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=kazan&weight=4321",
+		"fetchedAt": null,
+		"dataSha256": "8b1b8b55aacd9daf06edd28cfd041696b8275d825acd05196f4862382d2256cc",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/moskva--krasnodar--7500.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=krasnodar&weight=7500",
+		"fetchedAt": null,
+		"dataSha256": "459074eafb056aee3e93cb34a969e319a20ad429127d4686339a532711a740c6",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/moskva--vladivostok--25000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=vladivostok&weight=25000",
+		"fetchedAt": null,
+		"dataSha256": "fef068e5b456ea2aa2cfe5a09537f7cc85ab9217a6bc85e2775fa0e690f79b5d",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/moskva--vladivostok--28001.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=vladivostok&weight=28001",
+		"fetchedAt": null,
+		"dataSha256": "083583625c0ba609803ba302da3ce5dd803e1fef45022ad84a12e9aaaf8ff173",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/murmansk--moskva--1500.json",
+		"requestUrl": "https://datrans.ru/calc/?from=murmansk&to=moskva&weight=1500",
+		"fetchedAt": null,
+		"dataSha256": "f05cca4d6befb97836f44d28eec5430c4c6cbd7bc4040423940cd6f6aec4840e",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/control/novosibirsk--moskva--6789.json",
+		"requestUrl": "https://datrans.ru/calc/?from=novosibirsk&to=moskva&weight=6789",
+		"fetchedAt": null,
+		"dataSha256": "a3270bb6967f261ff48c26d86f403a054f4950a9a21e63d03cdbe5ef375bd6ac",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/anapa--taganrog--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=anapa&to=taganrog&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "be0ed8bb5c011aef3bc3172c836f467c002fd262cd50eaaf2367c7e4877a21a4",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/berdsk--ekaterinburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=berdsk&to=ekaterinburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "6fe49bbb06140d58914ca1998852f226748fa3c3e45fead9b3086aab3d8a9844",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/berdsk--kazan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=berdsk&to=kazan&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "8b8f5eee8803d23d521875fa7b4a8269e1883b805cc00354c09a6d69e32fb898",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/berdsk--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=berdsk&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "908f8fa6c1edca78c486a4709b3ee3a7d2bac487fcf8a8c7f0340f285faf3eed",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/chelyabinsk--naberezhnye-chelny--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=chelyabinsk&to=naberezhnye-chelny&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "aa3bc8cd46d5845f3d61057fac3071d184a7eae58eb5fcfad89c0aaa7db92d9b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/chelyabinsk--tolyatti--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=chelyabinsk&to=tolyatti&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "d18467bc610407f496eb10b44a4ddfdda729358d7da46d8d6d29c4b940798927",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/chelyabinsk--ufa--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=chelyabinsk&to=ufa&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "a3608e3233145e3f21c7a0857ab4e83d60335da8e037cbd771c668e86a458662",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/dzerzhinsk--kazan--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=dzerzhinsk&to=kazan&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "c08adc9b197f6350aa86e8130d0eea1531d880508015f773624327154922c0d0",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/dzerzhinsk--kazan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=dzerzhinsk&to=kazan&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "7c15cd4b3c9484854d510a21b1120d46be4b5cb44932ca2df9f9e8c8529866a9",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ekaterinburg--berdsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ekaterinburg&to=berdsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "e713daa72d9f09661b428fd3394a0dbd56dfe5795c5d1df962b34d6f452f6002",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ekaterinburg--kazan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ekaterinburg&to=kazan&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "407db21becd1bb95eb3eda88dd6c276f35469a67439130d934022e97313d26ab",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ekaterinburg--naberezhnye-chelny--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ekaterinburg&to=naberezhnye-chelny&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "d4e8d0e23ed5ff6764b32a9b8bffdd403583f217450af9dff721352ae119f2a9",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ekaterinburg--novosibirsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ekaterinburg&to=novosibirsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "6c16b72c69f37d3c9058e0fb937156dc9d7e891555c63eecde16a5f2103e01ba",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ekaterinburg--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ekaterinburg&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "c8bc6130d1b5bb791e1653f1efe8f46f0e1a78d5d6b45a43e1e0e47e4b622da9",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ekaterinburg--sankt-peterburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ekaterinburg&to=sankt-peterburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "dcb95f5c0f3d92987876e35777b9808c265549dfe28e4dcf8988b0d96d0e550b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ekaterinburg--syzran--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ekaterinburg&to=syzran&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "f55d482b1aedeca7a69c9375b93a8d6e8fb86e946ee977449e6feef00e54b9ba",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ekaterinburg--tolyatti--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ekaterinburg&to=tolyatti&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "3b7ded251165ac7ba17b34003c84379a27239ad273fca732816788e77dbf8c07",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/habarovsk--ussuriysk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=habarovsk&to=ussuriysk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "f19dd67eb3dc20056299f73f711f7fe3eb9f7efacc329e6add1644db464c5897",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/habarovsk--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=habarovsk&to=vladivostok&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "2cdaf288f6c585ca91d1b7f4c2918f95d521ff0fb4a4005d428ddb58f9e5f514",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--berdsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=berdsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "ddc05868c94daf5690562b7d6b4ab86d91d5a64641af38eef76e520b613012dd",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--dzerzhinsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=dzerzhinsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "e62ea7359403eefc02b71dead3257f7025b97cbde1c85dd37be434ad4b3066d4",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--ekaterinburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=ekaterinburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "5f20d4c88b3d8df2fc1dbaea1a89af6bef9b736b55b676483ba2a2bebefc87f7",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--miass--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=miass&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "60f10ccfd79aa3eb7f54242badfc42e604905b9c3e3c50025bdffc9eaf73b4a0",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--neftekamsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=neftekamsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "974e0b9030fb61c71febd861cbb9afcd571a945465ba0f50b498346cb36c1d6e",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--nizhniy-novgorod--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=nizhniy-novgorod&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "13f5bef833787c9efe15c682a815c794dd58d2322db22a3818e477066b8ce559",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--nizhniy-tagil--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=nizhniy-tagil&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "3be3ea9bb9c4569466d5b8c7212db330a3110fd10393dce26b1dbcbeaeeb9f22",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--novosibirsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=novosibirsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "908534257f9ef32a79846b8bd3ba2848cbf0bf5f8c5263a1e60252fd1c833f01",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--pervouralsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=pervouralsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "6d4239a21bdcf1c5c9d6c23462cde2aacb528353c656d1cf8234ac79dc3c2e34",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--samara--1000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=samara&weight=1000",
+		"fetchedAt": null,
+		"dataSha256": "56cf3bc299f78275f36814f803ab2d78ab319695597a5e0cb20ca254f0c44988",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "dc3546677b9e70b4eaa1aac297fb55f9a141c4a607ea28803fc2195481bd6801",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--sankt-peterburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=sankt-peterburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "2670874b810dc696327adf41af9010263caf5cad21649e2a82981439ea0026dc",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--sterlitamak--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=sterlitamak&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "064140e14ebe08644799c7e183991fa1a9a8b6f1f4ccbeaa0a088d2a3be386c0",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazan--ufa--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazan&to=ufa&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "7234fc905eabd3e940e02b3a3fc49f2db4ab677ec9702c535eccc06c23acb299",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/komsomolsk-na-amure--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=komsomolsk-na-amure&to=vladivostok&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "2270c83aadeedf64bee9cb3bb60c93f96cc849aa166c334698d570292e40994b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/krasnodar--rostov-na-donu--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=krasnodar&to=rostov-na-donu&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "06d07bc86396fce8a37c3244d014c7a623a22152e79e4b24a21ee44e3934afa5",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/krasnoyarsk--novosibirsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=krasnoyarsk&to=novosibirsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "baefe81b0acf8a11a6da7c5af9c878fbc29cda4a9cbef96e39665a8709e54206",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/krymsk--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=krymsk&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "b99fbfe30d1b3b55c31d926ec8ed6755aab3a53e43cf108074e706d50e267c46",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--angarsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=angarsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "3664704100a87991d6b40ead860c615eef03d959951d7ea6ad6ab7105db2a23b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--bratsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=bratsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "734652859980b70cdb0fea23b423072f31847f8d9f5e7e70f54ee0a781c52126",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--obninsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=obninsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "f4a0494767ad6f6ee64ce3084823f412185f767aa2ee9737d290960391125610",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--ryazan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=ryazan&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "2124f17ece6246f56f79de8b7e813e0ba8805de9d4dc1f12137c32459a2c0263",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/naberezhnye-chelny--chelyabinsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=naberezhnye-chelny&to=chelyabinsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "248d9588a62fac3faf2e3fe5881d119285608d90f74649ccbd96a19147d5d928",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/naberezhnye-chelny--ekaterinburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=naberezhnye-chelny&to=ekaterinburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "7a8f35de91e07429165377c38bb2eafb2ec57e00768a527e9a95bc2426918c10",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/naberezhnye-chelny--nizhniy-novgorod--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=naberezhnye-chelny&to=nizhniy-novgorod&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "a8cf1a08baf6cdcea27a7f0402861c5da7fcbb667259f0199c4cfdb44ed42c94",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/naberezhnye-chelny--ufa--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=naberezhnye-chelny&to=ufa&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "cebf8de456d65eea199184abd03dd5c4d2fcc59f84b91713a3536d3cd696dd76",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/nizhniy-novgorod--kazan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=nizhniy-novgorod&to=kazan&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "3689877cf62287ec23967b422a3b98f86e39bd02ea730915bc29ef9542e55d42",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/nizhniy-novgorod--naberezhnye-chelny--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=nizhniy-novgorod&to=naberezhnye-chelny&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "43f8a920d782fdb32aad4c27ce75c3bff554e6e92ed6dc6e55e1ccc6942f31c6",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/nizhniy-tagil--kazan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=nizhniy-tagil&to=kazan&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "80a42ab5315360f9883fac8db4546ba4bb863a1d987dfc239aa75045df23a77e",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/nizhniy-tagil--novosibirsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=nizhniy-tagil&to=novosibirsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "604a572e0deeb308c56733d5477c89ba8575a1e4f9d976e1cca0c835ede30e22",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/nizhniy-tagil--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=nizhniy-tagil&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "5f0f8f4344c9f02ac7db2476cb694ee8f4e0628368374ac83c621d1b68d6f4fa",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/novosibirsk--ekaterinburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=novosibirsk&to=ekaterinburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "fa17d34c0defd3e53cf4c1e77d6aedc758f3cd007a034bb177c3f35bf97c54df",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/novosibirsk--kazan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=novosibirsk&to=kazan&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "f6d23b4f574f9c1594a4512f70015541f5d75ba5a585003c4493e83bc17682d2",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/novosibirsk--krasnoyarsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=novosibirsk&to=krasnoyarsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "e42eb9a1861050bfbbb9e081fc3318192340b8313d08c9f67a459dd6695d3d70",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/novosibirsk--nizhniy-tagil--11000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=novosibirsk&to=nizhniy-tagil&weight=11000",
+		"fetchedAt": null,
+		"dataSha256": "7bf6184aec43205b0b54887edf93d915dc81617a49994e6ff08db703f1908907",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/novosibirsk--nizhniy-tagil--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=novosibirsk&to=nizhniy-tagil&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "b75a7272b40dbe92d1c89612fc5a26125a23771411fa3d845824fc570e088555",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/novosibirsk--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=novosibirsk&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "9cd20068fb6c9968fd76e070ab5c572e0edad7eca5fbb692539d7ed36f583d0d",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/novosibirsk--sankt-peterburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=novosibirsk&to=sankt-peterburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "0fa4a4e01dc1c1348be056cc61b29121837b752af36a7d22970114c7c1bbd1c8",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/novosibirsk--vsevolozhsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=novosibirsk&to=vsevolozhsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "8425b25a4d2b7ee3dd330132d499d9ebb7417d692eed17418de6cf4243e181f7",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/pervouralsk--kazan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=pervouralsk&to=kazan&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "ed62236dfa79ad31d9789797df8069a11f33da3ad16223335409b73a7846d8c5",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/pervouralsk--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=pervouralsk&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "ea514848d82cc93a74c7f1d271d743138f5d324344eaff5b7d954c2546de3f06",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/rostov-na-donu--anapa--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=rostov-na-donu&to=anapa&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "4bf08582788e4f7081207e603e57cda1067aa0428e098d7e37b4828269ce4f9b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/rostov-na-donu--krasnodar--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=rostov-na-donu&to=krasnodar&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "4031269c8536ef037be905cf88ac0843a7912ea371ffb776ba15437ec580f15b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/rostov-na-donu--sochi--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=rostov-na-donu&to=sochi&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "839e6f54d0e10f7ff241ce1fe6d5cdde815adef429bab061d8d057d1a7b52239",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/rostov-na-donu--sochi--3000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=rostov-na-donu&to=sochi&weight=3000",
+		"fetchedAt": null,
+		"dataSha256": "5775d76160be21aebaaa35b60611572da15482c940f7043a3fe0390a64a993d3",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--berdsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=berdsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "6df44ecc4f7fcfaeb3d6edaa9d0b79603c0f46a544fd2184faf4623285f57479",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--ekaterinburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=ekaterinburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "ca27257907c6472b795712c9bd8851149ac8989033a5df15d224cc5b852539fe",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--krymsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=krymsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "f773f6aaec4bb399a95b3459f791b8766743a5a23bbd71ef3637aaa4c973e65b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--miass--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=miass&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "74a61366d639a69207fbbc3d0441a323908b796e0caf152fd6f29398984585ce",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--nizhniy-tagil--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=nizhniy-tagil&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "801305ae4d5228db230a7f6a3f61eb544055f76357fcfecf62e958eecc2dc7e0",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--novosibirsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=novosibirsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "175effca8621f0b8513a57530a383a5faa9fabf0127e5e0093c351cc44b09ad2",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--pervouralsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=pervouralsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "74cdc94720ea26b9c6f38cd25dc4477d65c38fb0aab50e5c61414b2c4331f47a",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--sankt-peterburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=sankt-peterburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "21d1ee15c9e6e9b1d91ff027193b5eadda46b8a9177dcfc5ccfe93b12693e765",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--saratov--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=saratov&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "44a4f0eedf4a329f759232ca1e1ca07fea8ffaf8e18eda23aacfdafa2ebb62f7",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--sterlitamak--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=sterlitamak&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "6eb9f82a231055d543f96f7c72837306e25aaff86bebc170689ef2503c52041b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--tolyatti--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=tolyatti&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "a006aeacf84c10350c9d2947c0bcbee526b214a4070d7c8a0f24c9f5ecbd9a17",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--ufa--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=ufa&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "eaa7f9d430c168404f4cbc7add17b814c233fb3650af25860a24bd356a028e4a",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/samara--ulyanovsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=samara&to=ulyanovsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "8ee787fa4b1fc2d2292fcb3b9c62e21ace1da9c9dc7f4b00a401d10f8cc14a4f",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sankt-peterburg--berdsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sankt-peterburg&to=berdsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "e54ead49a6db82b0c1c445186c23d78d1dae9a6306cca4c7ff93586ef3ad4519",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sankt-peterburg--ekaterinburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sankt-peterburg&to=ekaterinburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "29ca8ddc710b2a8a0b36b697198c801dcf2946cd51bb7d1fefa35226cb3f5f4f",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sankt-peterburg--kazan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sankt-peterburg&to=kazan&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "b047134c98baa918c8574436855c10fb54aab24f6db9cbb2bf54751243c5f332",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sankt-peterburg--novosibirsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sankt-peterburg&to=novosibirsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "f974c3b91b61da9c090f502dc640c614f7ce1d0095ba326f5d903a3d9153df86",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sankt-peterburg--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sankt-peterburg&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "73b6e1c010f4c74e2e2688cc0ddf602c5c2ed45b9fd231c6f428bc0ac4c732fe",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sankt-peterburg--tolyatti--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sankt-peterburg&to=tolyatti&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "d06e2ca717d823c85a248bf1c95bb329da496e283b95653cde1ec8288d1c8a6f",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/saratov--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=saratov&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "084aaf73e79af78c04331ed4290129fecf554aadb291398957a0650c713e5dce",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sochi--rostov-na-donu--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sochi&to=rostov-na-donu&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "3d592927bd22aae1c263e44a695fd3f660e7c87de08c507ccc2b68a3f3236d3b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/syzran--ekaterinburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=syzran&to=ekaterinburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "a058fed4c1971b64d452d76bd470141fafe86596867a8b0c3fc2c68ab4f3ec34",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/taganrog--anapa--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=taganrog&to=anapa&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "194f60a4b8d6db90a028bcc6a1445e8ba4d082bd20965015e63bd5b433afa5d7",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/taganrog--sochi--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=taganrog&to=sochi&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "12d96d6bca454e0a452c73bb08ec20fb8d5e8e77d73019b91da15e194e00834e",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/tolyatti--chelyabinsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=tolyatti&to=chelyabinsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "799b62d8cb5f5647766db8d0236441b5a2afcc69571f9cb82806d60311b3aa38",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/tolyatti--ekaterinburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=tolyatti&to=ekaterinburg&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "d814f26bab208614918705fb2de79fd96de35e8a519915f64ddfd31a156c7212",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/tolyatti--neftekamsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=tolyatti&to=neftekamsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "5038a38dccf730e5e746263ccacb42665e85eadcca21a15ccff4aeef0ab23b8e",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/tolyatti--novosibirsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=tolyatti&to=novosibirsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "735795d9b8358f282c410fe58a170cec792342e0251c86b5b5489b24081b03d7",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/tolyatti--ufa--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=tolyatti&to=ufa&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "beca24dd1bcb1362990b9417d10ae1ade1b63b5631e40b99c136dc198de613f2",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ufa--chelyabinsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ufa&to=chelyabinsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "50a9008243e8ea405c6e380c4269938aa8020b372d8e0286a51e6f90a9e9f04d",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ufa--naberezhnye-chelny--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ufa&to=naberezhnye-chelny&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "e102d4d9f389fde00f7c8bf98da4a23159e7baa2ba34039106d59274941c6560",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ufa--tolyatti--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ufa&to=tolyatti&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "b01033a7c97b1560c9009fec7f50d26024e56173e8e15035c239f04827fc718d",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ulyanovsk--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ulyanovsk&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "9cf21ba86ee90d606f68ae23a072723c1d71456ab859292024fc71896efb97de",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ussuriysk--habarovsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ussuriysk&to=habarovsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "0bcdb194d022799405f83eaa9eb76f2d6e3f57c0b79b666a6711b053bfee5de6",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/vladivostok--habarovsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=vladivostok&to=habarovsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "5058e0f87ff1f4c7c46a46e937fdb066e6b9f8d1f4c8b9f818a6f4e61a4d9d58",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/vladivostok--komsomolsk-na-amure--1501.json",
+		"requestUrl": "https://datrans.ru/calc/?from=vladivostok&to=komsomolsk-na-amure&weight=1501",
+		"fetchedAt": null,
+		"dataSha256": "a026db42639a3dd1cde94364fe7b6511f0e8d2941e76ad8f53ad73448954047b",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/vladivostok--komsomolsk-na-amure--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=vladivostok&to=komsomolsk-na-amure&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "9682b35427761a1b5f3b5971f684d65cb4a07d70578a32476395082aee7ee53a",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/vsevolozhsk--novosibirsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=vsevolozhsk&to=novosibirsk&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "dbfbd78f2a5604b07e4aba1b17cb914ada4215db35d96697aaaa14dd75ee0af9",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/vsevolozhsk--samara--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=vsevolozhsk&to=samara&weight=20000",
+		"fetchedAt": null,
+		"dataSha256": "b033b9ccd85f5cee780f3a340b8346509c28aab68ac562706e3d2024ecf8106f",
+		"responseSha256": null,
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/akkol--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=akkol&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:58:17.723766+00:00",
+		"dataSha256": "715484dcecf4f658e315f8f749c37208863fdebf5af3d20ee912e054fb97b64c",
+		"responseSha256": "ffc46326faa48ce48eb58662e22b55401c2c989cd6ed1668623e47a190778a2b",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/aksay--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=aksay&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:58:23.365217+00:00",
+		"dataSha256": "97ecff3dde385e884b6c87fc5ff6fda51d5e53ce6b714090c0745fee44e92cb1",
+		"responseSha256": "a3666ab6ae88b11c01682d2df544bef8f28c04a1ce7079c64022c6b92848600c",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/aksu--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=aksu&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:58:29.595443+00:00",
+		"dataSha256": "c167c87b8967f81e570cdb7bdbeee1be56f2da1660aeeb6274e32348da8d4162",
+		"responseSha256": "e1bbe4370b87e8960bba45c3deb45d9b8b29fb492df4a6308e930fd95ff019f9",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/aktau--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=aktau&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:58:34.766859+00:00",
+		"dataSha256": "e04fb28dc2637c72d23136d7daecc5c2969028d49f0948c56e062406fedf7791",
+		"responseSha256": "cad9266b2fd37b942a51c827c147a8fe715fa54460abd645cc3d8143d6df9e95",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/aktobe--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=aktobe&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:58:40.253529+00:00",
+		"dataSha256": "8fb70011bdf871354017342bdeb22c6bcd2d4dd17d84b71ce02b0095a8386e62",
+		"responseSha256": "9f6e4d5034fe3383988a5957accba41c77e86cc5830bc5b52bc497092580be63",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/alga--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=alga&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:58:46.464883+00:00",
+		"dataSha256": "acc2a50eb787bf130bd6fcfdf42bc2ec25e4077ede76a7628877064bdd8d8400",
+		"responseSha256": "6950353e45de5031cf028bb443e5b1ed9dbf2b929d16de504c5bf6d7d06bffe3",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/altay--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=altay&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:58:53.726498+00:00",
+		"dataSha256": "2e233bee905f984ed093ff6f2c48334c4a8c029f224cf16dc520d34480daaabc",
+		"responseSha256": "1cb4db55a081ea4ead2650904499d6305a149d84ae4c5da68fff365eec680fa1",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/aralsk--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=aralsk&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:58:58.667949+00:00",
+		"dataSha256": "a43d841763c3aeab43576b412606266467988f1f333614bd5294e52186f3663c",
+		"responseSha256": "80517b16aa0a7cb8d2bb9a09dda738220587d3d787a1633c2833f0b6123367a2",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/aris--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=aris&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:08.997626+00:00",
+		"dataSha256": "a552f98d763f8010b8c302caa26c2fa076adadff4034cc16b3e573242dea9beb",
+		"responseSha256": "7fb97b58af3c28ada08117fcb5f8f11c9172f5d1e9a233cc973900fab41e6727",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/arkalik--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=arkalik&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:13.564398+00:00",
+		"dataSha256": "44dc40a5ec028ae5143532b171786a81b4271f6f75d6d06e7fabd16891c087a7",
+		"responseSha256": "c829bebc54687061e9d51b5adcda04ee51f2a20c9e49f471600f4a41807d1894",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/astana--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=astana&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:18.410745+00:00",
+		"dataSha256": "300fb503e8ad348a71c9633ad8ee24ea931344b84185dc3c8c53848fbb7429f6",
+		"responseSha256": "2f18c2202b31d5a6203a73989df69e4d317d50d2671d686febd8fd1c3bac14cd",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/atbasar--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=atbasar&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:29.769298+00:00",
+		"dataSha256": "5eddae42de3174d78c0af1ce39c9689e2a1841b2467b3c2ec2c77643c2282d82",
+		"responseSha256": "9c0ac13100e9b42abc88398266f58693bb0b0bae5bf760bf2c77c5e5c5f04455",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/atirau--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=atirau&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:34.473027+00:00",
+		"dataSha256": "ef38b9ea33091542d1c7469133a6744fe37279a6294011c534a6eec4b5f21985",
+		"responseSha256": "3cd82a1cc0bca5241bb413c4b63bdcc3b5f91e3b15313bda10122f308489e92d",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ayagoz--komsomolsk-na-amure--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ayagoz&to=komsomolsk-na-amure&weight=20000",
+		"fetchedAt": "2026-11-14T16:51:03.516889+00:00",
+		"dataSha256": "9023518c2da15ec1f74d61d8d526fc1fdf68d813d9b8f5974409c823f328b44a",
+		"responseSha256": "b41bcae15f1750a37cd78f98f2df9ad409cfd8edc3bbb7bca59a576fd0da7ec2",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/azov--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=azov&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:51:07.686377+00:00",
+		"dataSha256": "8b2dd1b30117c5e8c2139924579e570337e3023132cddfb6786fc6fea7d4dba9",
+		"responseSha256": "be155e09b8a4a3050aa81ab8d5de61a54fb7b7324fb2195cb3dbf62ce70bb99a",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/baykonur--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=baykonur&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:02.107205+00:00",
+		"dataSha256": "ac4814629236ced5cecabf9deee476ddb118fd71d4c73c66dc949de0670936b3",
+		"responseSha256": "626e42d2242024fd9b9c67b94e3c99e6ed113c42357b607bcb4747248c079e07",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/bulaevo--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=bulaevo&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:15.103121+00:00",
+		"dataSha256": "d4bf243a74222bcc23e6e317855602367a034344285e9debbd065fb524b2a234",
+		"responseSha256": "0fbddc12364a9a13488dee8150f8a11c27ba85e80ada6a3737a6e10796d2e4e6",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/cherepovec--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=cherepovec&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:34.235851+00:00",
+		"dataSha256": "fa4b8832e6a8133d8f4b7ab7a2ec0cdd628e6e3ee8f38315790b34b660447242",
+		"responseSha256": "7b4ffe3a2f30bb2db69d33c6ea4efd18d87d91302ab080fbc8418ea33bc393a2",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/chrometau--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=chrometau&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:51:31.869053+00:00",
+		"dataSha256": "2658e75a1571a4755247972bf1a9deb628bc1a8913bdd8d15ce8e3d45af7aaf1",
+		"responseSha256": "ea734f92dead16014827301a1ab293dc83f6bbf4efdcf7bd8e93bf27e34bf790",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/derzhavinsk--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=derzhavinsk&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:51:36.642054+00:00",
+		"dataSha256": "03c76475d8f50425aa88905f10e0418ce0af60e7c7ba0bc9f84b8ae1581f954f",
+		"responseSha256": "676b2bb4ff61c8546b8ef3d65bae16e672fed708f46daf12f9d76ebdce4839c1",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/dimitrovgrad--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=dimitrovgrad&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:51:40.558661+00:00",
+		"dataSha256": "f0180999937ed6af1c8d241f22b71abe98c249f5b62e27e41d4e1bdf525bc852",
+		"responseSha256": "03f37ce2569a8cd0bba40b3b7e2c5c0da0b30a00883aa761de36091cbd4f62cd",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/dolgoprudniy--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=dolgoprudniy&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:51:44.958452+00:00",
+		"dataSha256": "18f65ec6b3e2f19866e2b61e8f7e53eb9a90f17f26cf69368446324c6966c2cc",
+		"responseSha256": "2d21f0ed26377059e268080842b16c0178b84e428e8e4a6b1b4252a971c66868",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ekibastuz--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ekibastuz&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:51:51.636163+00:00",
+		"dataSha256": "98ae9bba898983dc21d4fd62bbcd21466ed88e228916fa89a782ce663913cdf0",
+		"responseSha256": "3605ff6221770d762e8ddb9de7a00099da76d513bbc4d7eda7efdad8665f24ff",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/elektrostal--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=elektrostal&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:51:57.424883+00:00",
+		"dataSha256": "3d185b00bc17ae77b22e6448a0131f458dacaaebb074b5dfd801be3d372368ba",
+		"responseSha256": "43dbb071952b20b10107a62e0e6b12017992c1a60b6c51ed30fab819c47bc784",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/emba--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=emba&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:52:09.393483+00:00",
+		"dataSha256": "e0ba090fe811177eb1d37c93b799766e045e7f5fe22a524b65cf043b2618648a",
+		"responseSha256": "3372f5ac7db45a8eb9b94af3562b88e503a3908079238061aa5ecd954a1f4ced",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ereymentau--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ereymentau&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:52:21.034047+00:00",
+		"dataSha256": "7a6898cca75ba0d887f0a8fb012070503d14e1cd54d6ce783ce92c70aca6201f",
+		"responseSha256": "0d3a277ee7929e29487b594c2b8ec977ca127cf1c07c67274fafe679779276a0",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/esik--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=esik&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:42.788518+00:00",
+		"dataSha256": "605ae80e53183a0416cfbc2c41be341bec2acde0cc8e2309dc57d5b8de0a7729",
+		"responseSha256": "5912740f2b25eb0743596242752c240791515f0b4584d725fd2754fe58f3197a",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/esil--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=esil&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:48.764928+00:00",
+		"dataSha256": "1a45affd1d608965815601b55ad646f6e97309c49ad63bc67ff9fcafd5d51855",
+		"responseSha256": "6c8d83468e37a3a83cb2632ff38121a8f7468098ba848a7126c9226de66eeaa2",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/fortshevchenko--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=fortshevchenko&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:52:25.934603+00:00",
+		"dataSha256": "44c3b14f69a5e03126e1ce53e0140fabd35086f9f73efc01b17db285664d9754",
+		"responseSha256": "e77eac16a3d46ef05d595c7b9c56f8733f5093ffcf4dea3a4c133d8df3b7c8d6",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/fryazino--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=fryazino&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:52:31.340020+00:00",
+		"dataSha256": "bf03bd1fba3b35fa9aa76feb036277807c5028175244e708dd43a2898ac6b4bf",
+		"responseSha256": "f752d50d9de7120d3437e4a51e9439c09d1da7cac5e9a1e264aa6fe769c09d5d",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/himki--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=himki&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:52:50.495695+00:00",
+		"dataSha256": "80320e51f818444926a2c38d9a5df9f62784928989f11049a079e2020772371c",
+		"responseSha256": "0a171560f92c5253378cdeed5d3f52ad901c6b0c9c210b041c866d980e41e1e6",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ivanteevka--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ivanteevka&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:53:02.080406+00:00",
+		"dataSha256": "962574075a960465b6529880bfbe3fc6195139a073c1548701d17ef63d724d42",
+		"responseSha256": "15b698e1f8882ef60fc14393a38c1024f861e1b4a8a837df4e1d03f729c97ab4",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kaluga--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kaluga&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T16:53:13.092091+00:00",
+		"dataSha256": "c10eee4a34211ae0ba028391581a3e345c9d6224c379a4ef4c9b0b899587c6b3",
+		"responseSha256": "e8c790f68beac8bebbddc7d90910fecf22760926962a4c0f3db026fdb27d6ed1",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kamyshin--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kamyshin&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:53:18.040901+00:00",
+		"dataSha256": "bc206e0150bfc9b195a8133cf09aea9ee99df85580624aa41eedfa26ac48a4ef",
+		"responseSha256": "85914f5bfe91e0aceba0947a4f972335c00acb1b4734a96006e2e6bf2362e657",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kandiagash--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kandiagash&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:56.771666+00:00",
+		"dataSha256": "93848bb3a8e7d7b210e04f3dd85e1db432000b7f619b45368a331f928bd648ec",
+		"responseSha256": "168969bc53aff32395fea616708e65323ad7136ff8bc4ed4a8dbc031ce42590c",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/karaganda--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=karaganda&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:01:06.070118+00:00",
+		"dataSha256": "7fb166d8193d6f93805a58f956183954b16967f6cfb0dd4aff24cc36d47d8622",
+		"responseSha256": "3e2efb823d8637de7c8fd9f537d17337a134172e17ddeed376f2babfcc3b298e",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/karatau--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=karatau&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:01:11.521404+00:00",
+		"dataSha256": "328db3e1f1b9e9868c9c0db760977a404d179ae26319974f00764511c75b2044",
+		"responseSha256": "9474de59290ca8d6958eb10b3be087b8111dc812ca3f389683a9c4d4527a50bb",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/karazhal--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=karazhal&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:01:17.656594+00:00",
+		"dataSha256": "5fcc713867bdc264b23a2271480b5625d5212e2a8b3c7ed91ca9c28d16c3f0d2",
+		"responseSha256": "8c6e8070e7be5f999996ff7c5499a8d892086fdbe278afb390c23ce222f1ff18",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/karkaralinsk--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=karkaralinsk&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:01:23.612967+00:00",
+		"dataSha256": "e9acbaaec4e926623548fb812dd4efddd704bd8e52c1a573158d4f230e7b13b2",
+		"responseSha256": "f2ad938626af2c567b2be4d72be77c60ad9d0bf4a42ef78c9f8da3ead0685974",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kaskelen--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kaskelen&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:53:24.468586+00:00",
+		"dataSha256": "7d23f6fd4d9d27ff3ebeb6ddf1fa8b9a52a7ce5f244bc4fe4761334a070830fd",
+		"responseSha256": "6db0777dcc3dded36f2dcaafdfe0aa8e0f2481a302c37bb4d56917fe12d06b95",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kazalinsk--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kazalinsk&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:01:28.861918+00:00",
+		"dataSha256": "66e3fbb24374aeb957944c57a3116b801ca0c47ab19ed416f8bf48cd767908ed",
+		"responseSha256": "69119a5828623c3bc39650ac07b1cce48adeb71fe3fdcb0e53b200854f924154",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kentau--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kentau&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:01:37.904962+00:00",
+		"dataSha256": "256cbb6c9146c3271bd4a5448293fcb98be7397a67d06286ac9269155128403e",
+		"responseSha256": "c6825bd4e6b69ba1071d4fb88fef904b042f83f12eb8e3cb297c6227bbe173a3",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kizilorda--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kizilorda&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:01:52.977605+00:00",
+		"dataSha256": "23fc764d79c7d3c3b89cc16545f4fa2139697c03a7ef6e896ea69ac44f166800",
+		"responseSha256": "a8fef28222526d0815d5821cf8c6aab26984f11b30209adb5c759ff1c3a0ff5c",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kokshetau--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kokshetau&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:01.530365+00:00",
+		"dataSha256": "1c682056633966fbc2d48bd56be65f0c1143a62294d60b59f73027b1c9004416",
+		"responseSha256": "897525cd671e2e0ce2b60a64d24c15f4f6fa875082fab489c1e9c15bcce0af6c",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kolomna--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kolomna&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:05.314310+00:00",
+		"dataSha256": "61cc372662b0e30538df8a47c82aa28ab304fe4a68914ef6ddccbee0499e69ce",
+		"responseSha256": "3cc667f2f8f20008ebdc87006e367a03b8b171ab7fd3cbe265d7f7a0edd042a2",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/konaev--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=konaev&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:10.423557+00:00",
+		"dataSha256": "073c67ae4bd93a351dde69ca9575ae2198117800e8defc371b063472f584bb7e",
+		"responseSha256": "ec1468a307ff93b4ea83c09193654745179bcec2e93a6f28bebeea2d5a22106b",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kosshi--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kosshi&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:14.937066+00:00",
+		"dataSha256": "ac1d991e965ae3ba2f40cc20896c4395ced98785c3d7d9a4635c91a092f2a1db",
+		"responseSha256": "40765aa3dc26f4d5461eea2f87d54b55e15fa149561a54c43b5c998c03c41546",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kostanay--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kostanay&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:18.574031+00:00",
+		"dataSha256": "f9471f9096221b5e4e44f4ef22c3e3bb6bb52ee045128437a2ea2c68cad807a1",
+		"responseSha256": "bd182243810059c2085aa8e78ab23ab31198e08f2b25dc551532892c51d3bd9a",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kulsari--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kulsari&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:27.982576+00:00",
+		"dataSha256": "a284c03ea66ff99b41ba7e664956d52f363217efe4a6cac877dd1a5fe7e37d03",
+		"responseSha256": "9f96348a0bcbaeede0eb93a61d8e736f3e5bc2572ebf2e8da0065c198dcd4812",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/kurchatov--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=kurchatov&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:31.678092+00:00",
+		"dataSha256": "54b1409f7bb6d17af3bfc7690bc58bdd9ce96aa9318faa93da40685c0920305d",
+		"responseSha256": "1550a349aac3ce5f5a40db7fdf74e47cdd289f0bc49e34e0220e4e30dd8321ee",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/lipeck--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=lipeck&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:57.644341+00:00",
+		"dataSha256": "75ce0eb068fc5e0f5d1fd6351d9efa566a51c14bf6b007b51e3f7181eed54012",
+		"responseSha256": "cf1b8ef208855f4afe29733a93fd1f72ec99b7be73fa6b668402bb698a74615e",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/lisakovsk--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=lisakovsk&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:02.368179+00:00",
+		"dataSha256": "11dcef294306070ddc18aee919b400e6106b05fd052ec75b156e04b339a052a1",
+		"responseSha256": "005087f5107d13104e75ee164c382a2259c230a5464f54cbb8c3b4e98c6a2404",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/makinsk--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=makinsk&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:14.944332+00:00",
+		"dataSha256": "05969af74ac9a5ae49b1bbeb03846198d7436618948c6d0f7749877615a1da49",
+		"responseSha256": "fb2a28b5866fa55c7cb44188a6b0ed7a36331ee7bcdb95f591c3adca46434523",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/mamlutka--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=mamlutka&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:21.271549+00:00",
+		"dataSha256": "5bd398182dceb74fa37a237ab27e5814d9727bd4ed456017c3d27b3c3e6873de",
+		"responseSha256": "ab8c6e63fc2aaf3a7026311d8edc66e752f6e099855a19da2e0905be1d57b039",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/mineralnye-vody--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=mineralnye-vody&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:53:36.166130+00:00",
+		"dataSha256": "31cc3a5b866e0757b22c188726d65d585979634047e58b1875a98043421d33db",
+		"responseSha256": "d8dd0594eb2599c96fc78177d18c2898353019e70efe4caf5c0216e421cd531c",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--achinsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=achinsk&weight=20000",
+		"fetchedAt": "2026-11-14T16:50:49.626611+00:00",
+		"dataSha256": "ae9d7aa623d933cc2eaf4a76481f83c3a241fa90180e81b83947b85a21956fd9",
+		"responseSha256": "9b823f07dec1f868c54e3bc849e35a42be21bf0ecd41c000e5b779f560a60019",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--almetevsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=almetevsk&weight=20000",
+		"fetchedAt": "2026-11-14T16:50:56.806954+00:00",
+		"dataSha256": "9929ef4545d099fa0d4ada5688a8b726f9bff4dfc7212d89de9ade0189eabf26",
+		"responseSha256": "e1051735e955b89ac276f80e9eb380f7d601c6edf5c096b9b327ceae6836ba8f",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--alushta--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=alushta&weight=20000",
+		"fetchedAt": "2026-11-14T16:56:40.805284+00:00",
+		"dataSha256": "f10c31054edbf00b2eb848d8e3e5777f82794e7d97dc9aacd273196e241170e8",
+		"responseSha256": "effa41e8d7e99f97a0f9b8a4a3f697345b748c3f6dc3e581cd4e18aeefab8bbf",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--arhangelsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=arhangelsk&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:03.737104+00:00",
+		"dataSha256": "24adc0a45a8334f783fe6091b1d9be1ad63257254f24a1918ab0a4746882092b",
+		"responseSha256": "3cc9c66b7b312fa7e5f80a64f55079d4c47f130ed1d8d129d3adeb19084c4425",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--astrahan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=astrahan&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:24.010933+00:00",
+		"dataSha256": "0b96f78ab6a9c984b9d662945bfdf613001d0b915b501d7d8463f70479110ee7",
+		"responseSha256": "a47de3a83c102505662ad71e414fe9abe742a63cbfa06efbabf93e3d28d7da7a",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--balakovo--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=balakovo&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:39.065122+00:00",
+		"dataSha256": "678a5ff51a7824bc4cbf006aea06544cf5c0807e6474082b55b8d6bc0b36aece",
+		"responseSha256": "5f044c569e1654e98885a9817074b94713e257d43b51ccb5b1256a5095b6aece",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--balashov--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=balashov&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:44.095034+00:00",
+		"dataSha256": "e1f87614622c8de022ba2b124a36713ee4dfe55ba55dd92fe63463d645581047",
+		"responseSha256": "f172b041cd7208b757c27804974e7a166f4f85f7fbb4d49834a1d7a503df1704",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--balhash--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=balhash&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:49.114742+00:00",
+		"dataSha256": "8ff2620da8c8a15caf821e9a03c23924292022707e4fc4b0f18ca9ebd108527f",
+		"responseSha256": "8a2fa682d109aeacbe25bfd9f6118c00af344ad1f2a4db9f59fd5f6959139404",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--barnaul--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=barnaul&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:52.701064+00:00",
+		"dataSha256": "b41548350eb63f1c1e6aa97321c67d082fbdf8bd06782195ee94518142b77bf9",
+		"responseSha256": "16a31fe085c076d15898a64d26dd3d34a3bbeb1c6c5250bb3fbec121b14e6dbc",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--bataysk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=bataysk&weight=20000",
+		"fetchedAt": "2026-11-14T16:59:57.045251+00:00",
+		"dataSha256": "13853a3014abf22b1237a2858eeee4a03fe7e7ada5c0ea706e0d2ed4c53cfe19",
+		"responseSha256": "800cc0a2197f3160e08d72c552a08b6e71c94ee941d133c67cf235a34bf48fa5",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--belgorod--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=belgorod&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:06.184752+00:00",
+		"dataSha256": "4a4aafb1c017ebc649788d83884bb52088e3b5a7c5d024ada17b2eaa90ea30ac",
+		"responseSha256": "1030803bc13cecf5e17a6275258eb402dd30b53064705431a4a4e458395f9b25",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:51:13.581870+00:00",
+		"dataSha256": "1f65e1623e4afff82d28dbc6edb3505a10cf06389eac7a53970ac5d6f4ce47e2",
+		"responseSha256": "321d35900ac5b9dce3122da26f2468b4868d8e18ec21ddea01460d39349b9921",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--blagoveschensk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=blagoveschensk&weight=20000",
+		"fetchedAt": "2026-11-14T16:51:19.062372+00:00",
+		"dataSha256": "b49e8111509f905c5b081a1f34f357ffc3877ba971cb3b8573316ada41601edc",
+		"responseSha256": "2f37e8fa61516347e17b4907534a9d5379e6772dc223f869a856100a5d6f2b5f",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--bryansk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=bryansk&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:10.347897+00:00",
+		"dataSha256": "58407a13a6a1c109ad05cc14ce07543c9a2c0e84f7e31325a0a5747d23927545",
+		"responseSha256": "d55b933063ff62a2e65160825a8c9f13e8d904e84bef85097c20c80e2881fa83",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--buzuluk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=buzuluk&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:20.092579+00:00",
+		"dataSha256": "9d0df43e680d4f6dc82241c20a2de3648d395e58dfc9c46deaf222574a5aa324",
+		"responseSha256": "cfd27a293d4d048490e9216f0008103cc614ec638da4be0578580fecd6b10fbf",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--chapaevsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=chapaevsk&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:24.062203+00:00",
+		"dataSha256": "5328d29b04eed543508f41303cb841b2550060ccd32ea3d17f3299b6ff5195d3",
+		"responseSha256": "e746ac028c7ad6ada9c3b9ee093772ccebc57d9105d301d3062d05bad8511cf9",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--cheboksary--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=cheboksary&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:28.665834+00:00",
+		"dataSha256": "4463ce5813e3c8117de28d4649005e0bdf0cd14802f841f4a4563a8d3f8cd49e",
+		"responseSha256": "a7030cdd109fd4fe85419900e5ad207e25ff155a5009905b8d02f6f7941a52fa",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--cherkessk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=cherkessk&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:37.981414+00:00",
+		"dataSha256": "6d70fcc0195375214604ed3e58565f6a360b83fb05d9c21331d366c41f7e7a16",
+		"responseSha256": "a5035420c70d905e1f54b7e0a2d01640bf5faf4c013c3e154f65df2bebaad627",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--chita--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=chita&weight=20000",
+		"fetchedAt": "2026-11-14T16:51:25.521904+00:00",
+		"dataSha256": "05516d05b6ce16edffbe962c19ff028d8f3902cc96456218af6cdba66d796475",
+		"responseSha256": "644c9ab1b6a15804757152ace32856a2b17f78c8335268e17b5677f45782a06d",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--elista--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=elista&weight=20000",
+		"fetchedAt": "2026-11-14T16:52:03.166991+00:00",
+		"dataSha256": "19cff95c3b4201bccc68e03d4e6fc80d153d3831f10c2a2714a3b7a75bc35283",
+		"responseSha256": "3c6ed2de53e0c5a1ddf737525ef1f61e83a8a28a203a34ee646559e4857e4d27",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--engels--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=engels&weight=20000",
+		"fetchedAt": "2026-11-14T16:52:14.754582+00:00",
+		"dataSha256": "fb160848d595163db20c34a77730f0456865211c2ba9df71421f2c5a159699b9",
+		"responseSha256": "426d241aff2d63582d310fe75bd8e31f53fc07df71cf23ff671f90a8b8b196e2",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--gorno-altaysk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=gorno-altaysk&weight=20000",
+		"fetchedAt": "2026-11-14T16:52:36.238091+00:00",
+		"dataSha256": "2defc2041565c477918be1825258f39c556880aee1751dda5d0548abffc52e77",
+		"responseSha256": "4132cb9af997a76620047ad93be7d12a848c5d47b48c4b93022005dcb85dd26a",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--grozniy--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=grozniy&weight=20000",
+		"fetchedAt": "2026-11-14T16:52:43.164180+00:00",
+		"dataSha256": "228c79ff17ef35d197fa6ba9b95f7dc781ebfaf53d9663af80dde9110bb15a4d",
+		"responseSha256": "11f59c71a3a579606e9ce1a44e3a7730ae38fa320a359b968d942aaaf3415a2f",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--hanty-mansiysk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=hanty-mansiysk&weight=20000",
+		"fetchedAt": "2026-11-14T17:00:52.297307+00:00",
+		"dataSha256": "1b1e688edbc1bff46469e1fa6844af31dda54bec7efdf967a40e57b55fc1b2ba",
+		"responseSha256": "079ca9aef4941270987b2b17ec7bc0975131ae3c3a646ebf8167bbf22cd261d8",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--ivanovo--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=ivanovo&weight=20000",
+		"fetchedAt": "2026-11-14T16:52:56.679313+00:00",
+		"dataSha256": "4c3f4b591af2a8cdeb809a835be86b7438d71aa34308d16118576e979d62fdfd",
+		"responseSha256": "0c51d2c7deebc679c1f981ccfc52eebe64e0e7936858c19963b996caa5d862d6",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--izhevsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=izhevsk&weight=20000",
+		"fetchedAt": "2026-11-14T16:53:07.584245+00:00",
+		"dataSha256": "f9044697d88655fccf4bb3f039fc10ded50da97d313efaed29e25834f678cbe8",
+		"responseSha256": "12e5d6c995a8b331073b6cdd15b9261f224b7f5156b55464751d9deda63b0e06",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--kemerovo--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=kemerovo&weight=20000",
+		"fetchedAt": "2026-11-14T17:01:33.458769+00:00",
+		"dataSha256": "d780795f0350799ff270cd7f25651d3fa9f321061706b53d3c8a98b8db8c55d3",
+		"responseSha256": "6012cf1923c99e31053917091dc22872774786c90b9d352f3f14f4e6c8fa247d",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--kirov--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=kirov&weight=20000",
+		"fetchedAt": "2026-11-14T17:01:42.767823+00:00",
+		"dataSha256": "6c44978d5db49067c63559cfcbd45129ad1b896499e22731bc55baa4a692f71d",
+		"responseSha256": "7aec45d9836080cf30aa260f9fc8496a1f8f7187ffe14caa65f8a33e60a2ad6a",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--kislovodsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=kislovodsk&weight=20000",
+		"fetchedAt": "2026-11-14T17:01:47.685161+00:00",
+		"dataSha256": "21490524d2e1dd16521d1730de5ef1eba85f5ff91ef07e847db62f16d807cd62",
+		"responseSha256": "c882feed662e0a23eb39fa1bdb3557f8b387f7233d97e24da0bbad26d04257c2",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--kogalym--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=kogalym&weight=20000",
+		"fetchedAt": "2026-11-14T17:01:56.730811+00:00",
+		"dataSha256": "443e8096deb0caf172cb9cf9de7d60d1daf3c2be6d331aae472dd916889a27ce",
+		"responseSha256": "0ee2c67514e178508e1ebc02bf34dec00c8c18cfb83a61f06a41c88edb6cc315",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--kostroma--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=kostroma&weight=20000",
+		"fetchedAt": "2026-11-14T16:53:31.214441+00:00",
+		"dataSha256": "fc27d37f64c156b8de689e02cdac3ca364689393a8875fa0435806a9bef0e7e1",
+		"responseSha256": "a02c0021a13870a2d75241bd80649d87f9090397adcadd1d408ab27086178384",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--krasnokamensk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=krasnokamensk&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:22.269371+00:00",
+		"dataSha256": "1c5fbd74632b0bf22321c2bc39a55863bdb8ea1655c660cf1b2d32a7fcb904ff",
+		"responseSha256": "43d8277b0f60ac1be5421d50d60ace16a3618bdeaf3c7ae04ecb85de44567203",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--kurgan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=kurgan&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:35.689989+00:00",
+		"dataSha256": "53c92a0235b7a5dbfaabaa6b36b20e1d112bf23dafaf2dd55abcd9dded9991df",
+		"responseSha256": "1df13e9a8510a9b548b2136ad3936405ffafebad6ad6abd750be504f6a124de4",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--kursk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=kursk&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:39.684116+00:00",
+		"dataSha256": "2096718a4b9b156513a8c2f8d68d9326bba57d7e6273fbf8c77d7abc83537e8f",
+		"responseSha256": "37f45e296fa0ba600ddcebc88b81ad66ca50ef472746366c6b60c8dc9c5543a5",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--kyzyl--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=kyzyl&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:43.948183+00:00",
+		"dataSha256": "74d88799b5ba73e7c3769577c5d96ee131b2fcf29c7e977ff6c00b4df1768e58",
+		"responseSha256": "41b70df135e8818373da39a59ad5c8b5fc68335e38032fee227113b7a84ad21d",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--lenger--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=lenger&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:49.625491+00:00",
+		"dataSha256": "d2062fd931bd06715ca7b3b0082655ef02def3e46d3d2fc6088594a0b6685e0b",
+		"responseSha256": "89a660df890b9d1638b49e76366e7a4984098f5f3c197d5ee1f5367b72a51df0",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--lesosibirsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=lesosibirsk&weight=20000",
+		"fetchedAt": "2026-11-14T17:02:53.456717+00:00",
+		"dataSha256": "8b4f675b5c8b8c48cb5ee120a914eae2502a44f39c4daf5baaa5c56cd8ce2446",
+		"responseSha256": "80eaa10d4a611a89d075e729306146236cacb7c378dd54668f48920bf319af59",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--magnitogorsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=magnitogorsk&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:06.311188+00:00",
+		"dataSha256": "7e591e88d8fcc92cd5365ac1a2bf4e062fa45fae20f30abfdfeb07d9ada5f12e",
+		"responseSha256": "de2d0f70db64debac70b241ac5ad2ccbd4c891df2136f48a743797d7e4cb28d8",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--mahachkala--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=mahachkala&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:09.761777+00:00",
+		"dataSha256": "dd8620866edb7310e37cf366eff7f6d27c6c31503a5c396a5dba403211121388",
+		"responseSha256": "4541fb1b67814a011668a97c219d7f0608f47ef9fd1a3c600d4d24f9f2b1c27f",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--maykop--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=maykop&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:25.004282+00:00",
+		"dataSha256": "91483da45502fd3bf634a994eb70865e898169ceae712d6be640179f0856e826",
+		"responseSha256": "0ef35f37a354217b1f6fa9186823a4cecc7511c982fb075dadbd7259b7272532",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--nadym--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=nadym&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:30.781554+00:00",
+		"dataSha256": "eaf9d07c250572bf73ec76f1adae75bd8079460396ae591c8be7b8247d132368",
+		"responseSha256": "2fd77f03f989915ef5ca81485136020619d5ec2db5a7b3bdc3eee4f00c29aa3c",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--nalchik--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=nalchik&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:39.891807+00:00",
+		"dataSha256": "814d753f923dfbef234e808f86d9f4531d7cc2afa53753a35f61a4f2b97ffa4c",
+		"responseSha256": "6fd2e226f453be4f7c65e2796bf0c6f8791ddeaea3e10f0480bae6f58cce1e9f",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--nazran--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=nazran&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:44.502082+00:00",
+		"dataSha256": "f5a27ace33c73aee05d487461576cb82841da182169b4ac11431dfc1e8c9226e",
+		"responseSha256": "38115f90e3d52fc250e0e75835121e3c17619c8286029026603afbe565561420",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--noviy-urengoy--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=noviy-urengoy&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:48.276628+00:00",
+		"dataSha256": "2cfedeb4fa058dd0c7d4bbe99f92a7a5d9949ddfbd7edc9d7111aa96154da5ed",
+		"responseSha256": "ba62ae2a4cdb11310325833628776a4705f737468089e592b81bebc61f6aa8d5",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--novocherkassk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=novocherkassk&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:52.088403+00:00",
+		"dataSha256": "b313553a1a887aa30d0f38e30233336794f14a336b5f3ef0ce674f6cf7363ab0",
+		"responseSha256": "ae2ea8a7f98d49a0ed7f7224fc0246145877c5c2697146a1e498317a6b4d12da",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--novokuzneck--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=novokuzneck&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:58.507884+00:00",
+		"dataSha256": "72a628f5d8848087b615902ec2882a408a347a163fd923cbcf72c40ade343e89",
+		"responseSha256": "fc01f692d09ef6d44775bf91be43bb0a5608e01bb4d0212bcc38e0ad0584ffca",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--novorossiysk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=novorossiysk&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:02.651240+00:00",
+		"dataSha256": "76d9f25a410beaeed91cedf1202841050bcf71daf7bdf110cefa51015c09e9a0",
+		"responseSha256": "4fa358047299b8c44acb71d9e176b893e085e63107e040df85355170a2e4c04f",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--novouralsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=novouralsk&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:06.441074+00:00",
+		"dataSha256": "604fe04b7821619799fc4479891ed9cfa82775faf2f40af3b2715335f73d00af",
+		"responseSha256": "820614f9b7bf54fe2c11803710129bef9bda803f38fbc7b55ebb39aa04ebfb8f",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--noyabrsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=noyabrsk&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:10.346836+00:00",
+		"dataSha256": "81f591202d23f39d4c2f44f29e6adafbf744cc19346893680264ee435ad82dbf",
+		"responseSha256": "eca0f7b47f10ab49ec19612de7fed177c5d86c5820feb1ed3e96c4d00f0c0ecb",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--orenburg--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=orenburg&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:19.423292+00:00",
+		"dataSha256": "ba97926e43495f6dbc42469e3caf057ccfc11099f0a5d9f2791fdd2fe0b1b661",
+		"responseSha256": "20c5f74a3952496101a96e530076d463f07af3764a9a2f7e35e9589ff103c208",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--penza--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=penza&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:23.035244+00:00",
+		"dataSha256": "eda8f5d468a3df17c41f8f9668bbaeb6c0b129641204518ef929a2201e7bb031",
+		"responseSha256": "39f1d13c647df48a567c249f122d4df09190418573a77de8e593f2729e639341",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--perm--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=perm&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:27.179340+00:00",
+		"dataSha256": "da3aaf8ba11372a2be4944cbc06b2ddc14769c1a889e10f82eb6ce9543acfe93",
+		"responseSha256": "a02a5ddc0a0c026415f9eea20263fb8f679027595f03210129218a022c9fac78",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--petrozavodsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=petrozavodsk&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:36.489845+00:00",
+		"dataSha256": "8dbe62dc1edb01764d96314edea0180380fdaac186d33a5287ca09182c6a2872",
+		"responseSha256": "ba7c0082351c62cb7de7d23c07db024605a6534b4bfc278c593d4648805fb332",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--saransk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=saransk&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:40.044347+00:00",
+		"dataSha256": "20c5ee49bf64dacfa45cd8284b18a3d78a85ac804fbbcd3490bfc96eeb956167",
+		"responseSha256": "c65e7b82c09218f8d4797cfdd6c556d145856eb620d0df9a854909c944ef306e",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--sevastopol--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=sevastopol&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:22.630809+00:00",
+		"dataSha256": "af606ad1eeb3b155a65930d8790c782adf69d54b39a67542211e4be3c79067ed",
+		"responseSha256": "37f8001039b99c864cfefc1af4d28e100d8022c4954dc7993b572d836678bca8",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--severodvinsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=severodvinsk&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:27.511725+00:00",
+		"dataSha256": "30b5a13241be6236963737309c07e26c2a7358f7adef1e6eda7a581ba267caac",
+		"responseSha256": "07ff81c82bbb802cbd7e9322d5b2dd27693dcf800387c423c3603c713cf928b7",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--shahty--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=shahty&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:35.709616+00:00",
+		"dataSha256": "0f6195ebc107adfa5fb2a4fd931c291bc1641b36ecb0d9511baeecd05b68a359",
+		"responseSha256": "00c20a4768bf73db4e3564fbf6ef68c653cb5883ac75a791a65a5d9cb729a856",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--simferopol--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=simferopol&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:56.264491+00:00",
+		"dataSha256": "e1b2c6d00678aa4ce95f8f4343f56664d70e5d34c6071ba15183ab9300e09618",
+		"responseSha256": "9189793e0bf0586f27ea540a772db9ab48119109188ac003d03b2807634a15b1",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--solikamsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=solikamsk&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:59.889096+00:00",
+		"dataSha256": "b6fe22e26eb8950182e5929b7d141ce78878d9d7a67b5dfd779154a8d1cdd369",
+		"responseSha256": "19e0ab335756f6a00e985d73af3dbb809c37bf2f71f2107779fca6b0bff2fa79",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--stariy-oskol--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=stariy-oskol&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:03.830341+00:00",
+		"dataSha256": "78acacecc19040325b1bacc5ac79f49ad88076f20c2159b3e8d1493c0dfdf28b",
+		"responseSha256": "5d5b2ac3537382bbbc6f5018dcb47ad9008cad7c7e719389cb58e4a2284599e9",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--stavropol--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=stavropol&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:08.495209+00:00",
+		"dataSha256": "50396a5e076c84a5840bc2cbed068d8b34523789370e17421b09739ea3e9df7d",
+		"responseSha256": "8ae7efd1362565fc79993c724858d6290e272fd917e1187ca70c6ea4ab699502",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--tambov--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=tambov&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:32.468517+00:00",
+		"dataSha256": "885153afe61025da1f982d59e31ebccee1837616b02ddcc770b39cd569adf64d",
+		"responseSha256": "16c73f3fd388e63722bdaa8c8066bdf9aa843e90dbec5fb3df9bdfa79cad9cf6",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--tobil--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=tobil&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:58.832286+00:00",
+		"dataSha256": "d1382032a8da8215027a87463e432f0604bd2fd419b1fa26c69bcb5eb59d4240",
+		"responseSha256": "794bbf3f50a58ed053178ab8bcdb5f754b838e7f2e1c17426f52e83441ee35d3",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--tobolsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=tobolsk&weight=20000",
+		"fetchedAt": "2026-11-14T17:07:01.760866+00:00",
+		"dataSha256": "7208426bb3e13586aa05b5fa87a7cd499e428dac761fbd67e2b1bc401eb9ebd9",
+		"responseSha256": "10d278a66556a9aa86251b1326fa933cec87da4549a5aab1cd7769d27cd8f3bb",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--tomsk--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=tomsk&weight=20000",
+		"fetchedAt": "2026-11-14T17:07:04.447464+00:00",
+		"dataSha256": "994d1a0acd31c37e0ca8c766ad2ed02f53f4d14738b2412f66c1a90ef67b5a7b",
+		"responseSha256": "ffce061fb6b7198809748d7941261d5114b45f4390ecfa9381d6d29902e53d02",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/moskva--tula--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=moskva&to=tula&weight=20000",
+		"fetchedAt": "2026-11-14T17:07:07.151943+00:00",
+		"dataSha256": "268ee84b72c7dc664fa4ac27d7c9f9e0d004b686963be40be975fbaa912ce473",
+		"responseSha256": "2b6e85f52364551d94997016a16559616922c978dace00a13fdbc0b845a25212",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/nahodka--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=nahodka&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:03:36.033682+00:00",
+		"dataSha256": "cd678d3ab697d6659bef1558a48f10e2881be7d1624ae09783c73d3771d2ba92",
+		"responseSha256": "1c9e6ba41d93c4d26eb6ff8e3ce54a904ec50fed5ddc4ce899151778069cc1f2",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/novoaltaysk--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=novoaltaysk&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:53:42.263454+00:00",
+		"dataSha256": "57a8c33b4235317e289d1db7b36686f0e553f2feecf0e08ab83d0dc52684a597",
+		"responseSha256": "6f4f60526abb7323bd2488e39b6cf1981fa0bdc64823a2bdaaad9ab62c96160f",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/omsk--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=omsk&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:53:47.746783+00:00",
+		"dataSha256": "a0881031e5dd243bd081b93b20af0c8fd1b9566480c4b2c6fa42dea0908a9d9c",
+		"responseSha256": "902b958dbe22df588ad245a54b6325dfabd8788872e70078d99a2344e7f3f322",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/orel--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=orel&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:14.520818+00:00",
+		"dataSha256": "a94af41a89c02fdd1e45e3e353e8784da1f4c68240a9ad6068b4bc2c2f86c71d",
+		"responseSha256": "0ff56ec602107e3c41a7dd6fa11303d9505884d980ba13d8457cf53289aff637",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/pavlodar--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=pavlodar&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:53:53.768449+00:00",
+		"dataSha256": "7de7ff4ac5a79efdc9b6e059918f67997dd9eb4449d87b6ec8ddb0c2b29ea275",
+		"responseSha256": "ee60bef8cc4c229643ef36d7855f53245dbf48fdfd08f720217a5370c9511fda",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/petropavlovsk--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=petropavlovsk&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:32.313234+00:00",
+		"dataSha256": "cb5978f8428e61538ed6acfa2eacb3f61177241fe53cb2f5cdd8c361aea39952",
+		"responseSha256": "2c5e3bd58cfa7927bc1c78a63d8a96e385e412c3149616df3c23a9204838d4ed",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/podolsk--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=podolsk&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:54:00.599943+00:00",
+		"dataSha256": "f2e31d8b0723b25af6e836a75c5214eb7a8cb28fb7e126fb5adbb218b93b3681",
+		"responseSha256": "deb67c0417910746be4447bffc494851bdc71b13de3966a98e5e54acf9fe5a23",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/priozersk--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=priozersk&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:54:05.682839+00:00",
+		"dataSha256": "2dff5e21d262116ca8618c6d2fe41e64d8fbd5902651964a534d3067955a7f8b",
+		"responseSha256": "8aa058d511425a4b12e0c38c12446f9b31c715a927c531555d0389687f4be1d6",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/pskov--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=pskov&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:54:11.415176+00:00",
+		"dataSha256": "9d99aa38a925fce58101b403d5a0a35facdae6540124a168737801ff0426ab86",
+		"responseSha256": "84d4a516887930cd3a5f4bb4e7527a2e67c2ecf34255ca9b484cfd81ab4f3d2f",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/pyatigorsk--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=pyatigorsk&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:54:16.810229+00:00",
+		"dataSha256": "d9e1c6d2d92bbc2a5998cdaa6d6fa7609f59b32ff520ea106dc40d6ded451200",
+		"responseSha256": "689fc1b82d6c4e8b5ca1a6cc8d29964a8f59d588bf9617b0cf4133efccded6ec",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/ridder--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=ridder&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:54:21.246074+00:00",
+		"dataSha256": "0643297d394ebacc8cac0bce45714c325d047d27c7fd17fd98aa5a57ac9e473d",
+		"responseSha256": "4fb8015e07755799a5e9fb0f9f7703f8dbdc35d5de267ce974ee06eb8572592c",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/rudniy--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=rudniy&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:54:29.027382+00:00",
+		"dataSha256": "a3905c36f4538823e2a90d333cda24c3f56915292e663fd1856da009a3c99b7f",
+		"responseSha256": "32b334386c81489cd8b0977ffe86896f4b193b322c13a3f423bebc26da98221e",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/salavat--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=salavat&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:54:34.324308+00:00",
+		"dataSha256": "4c0a07d75bed885a3d63508295b8a7b96049896845db4f5f772af69d31fdc3d6",
+		"responseSha256": "3e9ea99f7419e09fb064270af8a3a7c15f51e44b2ff8b257f2cccef36ca1b4c4",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/salehard--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=salehard&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:54:40.255148+00:00",
+		"dataSha256": "37f531d35919869a2f4f4b92da0c63c0cecde72ea59751ad41b4bdf5ae0c7f23",
+		"responseSha256": "1c202eb6047a844c7225de6677a490de63f86b104353273a06a333adceb6e5f1",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/saran--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=saran&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:54:46.460566+00:00",
+		"dataSha256": "4f5fb7f3538b80724a15a2e5a0274d4f140b67f55587bb369e25081792d43d91",
+		"responseSha256": "aab168762abb4a88e5da6ae1bf96191cd1ab0b8f20ebb7357fd456f850a60836",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sariagash--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sariagash&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:44.820009+00:00",
+		"dataSha256": "2f61b23499f199ef68dbb48a8b1e60caf5c9164d9f15c0b79730e2c31981a4f4",
+		"responseSha256": "539757089c90c13ffe313e9665087f5daa31b9d15accd9aff6abb315a4b21fb1",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sarkand--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sarkand&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:49.329367+00:00",
+		"dataSha256": "cb5c6867162ce6de7ea0f4f617142bd632b6ee674f69a48c43d1d1b1f03e98c0",
+		"responseSha256": "15a9d5209890bb2a3ae3beda3bb56a1331323bf14a2404635f5a9840a921cb85",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sarov--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sarov&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:53.083882+00:00",
+		"dataSha256": "3602fdc1b5b63e31f478bf54d568dcb6f6e3ea69b4d0bbcc3fe310a678988102",
+		"responseSha256": "194171eac9cc64b3560d43e7c4ff82af813b8c3a7d020208e8841946f9cfaea7",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/satpaev--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=satpaev&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:04:58.583871+00:00",
+		"dataSha256": "74852f26755b78959d8987d62cd0255cc83ba1e58900cce863085dcd5cdad672",
+		"responseSha256": "18e334723b7e3243b9cfe52462a200f155e90b7a66c930174b4d705ddc20b7de",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/semey--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=semey&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:05.019207+00:00",
+		"dataSha256": "0dbb8b54d4954c9bc3ac9daa4528c9252a8bb44ce1d3821952cf4b8376bacfa5",
+		"responseSha256": "5e2d0144e6a5ff8f55235bb00ce7ed34a7092c0f0ec4b90544967e2ce226a2d7",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/serebryansk--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=serebryansk&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:10.098505+00:00",
+		"dataSha256": "5be5381bfe6577b0ae893a139d46cc285aee3792739c2067f8e22f50e2b6caf7",
+		"responseSha256": "7b95de3137bed455d9acba8f438e30193e11f6382a715cc29e30f2d70014f3aa",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/sergeevka--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=sergeevka&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:15.318725+00:00",
+		"dataSha256": "f5f57165890f30326c009dbff5f96a0ea855967c1f1428cb07856332885d2fec",
+		"responseSha256": "36e3f22824ed7558c6f490e0d8f2e494bb032793f1c99949510c3d7d5b620273",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/serpuhov--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=serpuhov&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:19.013140+00:00",
+		"dataSha256": "0a12bc31251698b14bf6fee0629b8a27103610a42a1c4651fffd5e7b63ffffc0",
+		"responseSha256": "4b28c8c915527d53f25f85c64a46c1249f876f23294f593974f05138caa268ff",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/shahtinsk--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=shahtinsk&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:32.073230+00:00",
+		"dataSha256": "6a50cc7c712f8a3bbade0a58949b0c26945125032217ddfbc84b0e702223d8c7",
+		"responseSha256": "ef4dc7a8d39d0889d8f5619d4c570cbbc76511e3304a72eca59662a301397402",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/shalkar--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=shalkar&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:40.212236+00:00",
+		"dataSha256": "aef223c7759ce71948bd91df252f7abd06e0f7f7e6c6b75dc74fe50f70e4cb12",
+		"responseSha256": "8fd172025a1539ac88b9472e12d9494beaa04a39355c990918878e2992423d77",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/shar--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=shar&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:45.055241+00:00",
+		"dataSha256": "beff36be320ce5b54e1c1e508b83f4992efd66825164c63975e56561d2704dd7",
+		"responseSha256": "2e84478082dee5af4e96e961d2393c3e185d3721d94095d1f2b6f4477bbb1d14",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/shardara--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=shardara&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:05:52.225961+00:00",
+		"dataSha256": "016c3877713220874fa7951503efac27276225c42d7e61990b3369f864587889",
+		"responseSha256": "9b46e6454bf6568a63d45ac6a20120fa91745199ddf2758b5afa6a89293a6bbc",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/shemonaiha--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=shemonaiha&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:54:52.420757+00:00",
+		"dataSha256": "6537af8ffc24e06d4a4156d6336978346dd5defaca5cacc1a73df20652f13079",
+		"responseSha256": "558a5ffc66ea59af16b8eb152f6ae312c0f9f06c131c7e96b0155d9f52fbf675",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/shimkent--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=shimkent&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:54:58.721276+00:00",
+		"dataSha256": "7b7d18dcdf4e10744b7716a0bd3b2d76a7ab86c645c21b713b8373bb42e1479b",
+		"responseSha256": "fc4265bd45aa0d23f9a37f73a8a58dfb3e046f0ef14790a4e1481835eb99090c",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/shu--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=shu&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:55:06.675777+00:00",
+		"dataSha256": "7c7eba942809544d31132581c73f06c34bb77f7afdedb141edd21f9b656b3717",
+		"responseSha256": "5b072ff96c9b5f3b6c9b3ec1b693f56d8cc77e0475c0677c6b1985fc7b8c4857",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/shuchinsk--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=shuchinsk&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:55:13.058129+00:00",
+		"dataSha256": "fd32f83221b81acb0be339d61e4a1b40e7c1a934a9b5f4012341940b2597450a",
+		"responseSha256": "dd9bc3970d7baec53b9793d232a233ed366d7c4a39ce58e5d617d1bcac75822a",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/smolensk--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=smolensk&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:55:18.827990+00:00",
+		"dataSha256": "53ea95963e7c8f204625fb4fff27e61241624ac51870bfca0a4235930ec42f10",
+		"responseSha256": "850ff2599b56edea5f5ec6d89f7128e57a13d6b4ff724a593c40e2648cd2544f",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/stepnogorsk--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=stepnogorsk&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:13.828283+00:00",
+		"dataSha256": "364ccc053a6f18c5d0d906dab5d0cd02b8ec1f017ddfc75511f5ca2736c7ad02",
+		"responseSha256": "02e06dfce6317678426f29ce9b330e99647135dbfcbefa5b21b549d7cc0404a1",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/stepnyak--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=stepnyak&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:19.703063+00:00",
+		"dataSha256": "d938c4e60c8e0448dcd6fb6f763a878b3cdc37a8b74ae5da90825e4fbf6c803e",
+		"responseSha256": "712954788859f214ad6916c0e295d7a103c466e5fb060e6e4e71c0648eed2058",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/surgut--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=surgut&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:55:24.415560+00:00",
+		"dataSha256": "e59e8e5e81b0101fd152fcfe71cb08747ccb0ae58ba4e91fb8fd7ed50b49f51d",
+		"responseSha256": "fc079c9e099975b4f665da2ce7dce2c48b4397af4135b466d57ea3df5152f07d",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/syktyvkar--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=syktyvkar&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:55:31.198967+00:00",
+		"dataSha256": "5e76f0c1121f25a146175a3179f4c692968c4c0c5928123558d06dbcffa73115",
+		"responseSha256": "8febbeff1f6f493ab4a72334bc5cb94b2ed759af0034b109cc96151c075f67ca",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/taldikorgan--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=taldikorgan&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:24.468418+00:00",
+		"dataSha256": "27c956da447cca4e41cd49dbd6309fac793c6ab07c96e8c3f57c0e15b18ee513",
+		"responseSha256": "4d10ed613c8a52b55c917368cab84cfa85a21a08313bdce97e28c8795c17ef42",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/talgar--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=talgar&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:29.012170+00:00",
+		"dataSha256": "6c52f7cffd275e0bdbcde6b582c4e616a3f384da97af10efeacb4a1bb8ff0c61",
+		"responseSha256": "7f1d47775009d98b3d4e56c6229048e67d62e432cda6010a30a7390fadd209ad",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/taraz--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=taraz&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:37.468586+00:00",
+		"dataSha256": "dcc20bbf34eb124e36fda04a1b1f2bb9184615c40592972eab2e16ef9ecdd388",
+		"responseSha256": "66ae50e76ed567bd45abdef368623d90cebd6a7439dc8f024716d4402e866522",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/tayinsha--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=tayinsha&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:42.132169+00:00",
+		"dataSha256": "0376e074a11e415e5f52a9f33f56ed1bc15497635447c03f2c0f0dd26090c147",
+		"responseSha256": "3e627a8b4e51c4e4f667536fe39538cf367d313c6f8cb03fa4f6be20100bd858",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/tekeli--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=tekeli&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:46.704473+00:00",
+		"dataSha256": "085dcef87bb45949cc9b2124aedc568e5d5276de9e03641482e35e0be0645aaf",
+		"responseSha256": "4926b245d21d2c44a80c98caa35f55a23f9d6cc1783c3db6123afd7b1cb44e44",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/temir--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=temir&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:51.288081+00:00",
+		"dataSha256": "bfe231f098e7dd6f26246a11559427c41d71c68d199bb317d6fdf76902b52c12",
+		"responseSha256": "802d58d639e805a618a9111b17659913a72e8947694138a3065f96b885bb9236",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/temirtau--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=temirtau&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:06:55.758475+00:00",
+		"dataSha256": "81cb0ef817a866c4e099ff3241f2acbeccd7355de0b4f2aa5061cafddc58ff6d",
+		"responseSha256": "c656f1adf8918dbbffb2784b40a4fe33c3138faf15e18480d40bcaa3a4906f21",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/troick--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=troick&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:55:36.711455+00:00",
+		"dataSha256": "15bcc53c3e34fa9b5f58409dd0667ff4f81e1fbc2f335b283f76b6354d90436b",
+		"responseSha256": "acbbbe5941c4b1001c1b15c192c43a353314f1e6fea78d04aa68e923b3f2b32c",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/turkestan--moskva--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=turkestan&to=moskva&weight=20000",
+		"fetchedAt": "2026-11-14T17:07:10.667227+00:00",
+		"dataSha256": "e5b28b36d5d134db781d1d3e81efe72126788b6f37efd69055275e175cd8e088",
+		"responseSha256": "e1f9de500c64de83c11836672ee20731cd00730a8c1ef60165c27e2f124795b9",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/tver--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=tver&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:55:42.094024+00:00",
+		"dataSha256": "b93ae257191abbffd6198170e336feb002b5b0e30b7d9ecef59629a9bfadd928",
+		"responseSha256": "12f25f13cbb0e67da93cd72563e0fede0501132b68e1198445de42d9cde0f6a5",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/tyumen--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=tyumen&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:55:47.701075+00:00",
+		"dataSha256": "83d83ded7c64690639c35fb069b3cc11cb614fd4016ed8108aa3ef06ba416244",
+		"responseSha256": "e14acacd31de5358088ec229e2c75cde3358e4bfdb9056fa461b3035a84a3cc1",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/uhta--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=uhta&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:55:53.074031+00:00",
+		"dataSha256": "9d8338a0ca90b9ff8fe3d4f1abf0d98bd5640d2582c2f83d00ffc0931af29971",
+		"responseSha256": "16632d01bddcb9300bdc955cceb5531712e94f33762fc91042a6377c39439f3f",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/uralsk--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=uralsk&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:56:01.017733+00:00",
+		"dataSha256": "6becd545af8be4b059c95d251c9a72226ee4c962cabf91f9df43a688f7c6039e",
+		"responseSha256": "5446a064b183ac0405d34cb1e49227ed2a8362e578b344ae8caa2f791f7a9086",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/velikiy-novgorod--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=velikiy-novgorod&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:56:07.223435+00:00",
+		"dataSha256": "4f63549af013d1ad7a63903dd62b1ab97d985ce159b0b9827cbd3269770fe16c",
+		"responseSha256": "22c462b22c401ed004a7cd91a79735ad246178fbe8f566cf3bed2894f9ebae57",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/vidnoe--birobidzhan--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=vidnoe&to=birobidzhan&weight=20000",
+		"fetchedAt": "2026-11-14T16:56:12.275892+00:00",
+		"dataSha256": "2ca5d9389df684c66c93ef712c5878d2f3c6fd94dd863b1ddbe9484092f4bca6",
+		"responseSha256": "b064697945490c271dffd0f3ee0ec2b71810d0f9043e807e7d93e67d7b9adfd9",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/yaroslavl--komsomolsk-na-amure--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=yaroslavl&to=komsomolsk-na-amure&weight=20000",
+		"fetchedAt": "2026-11-14T16:56:16.274380+00:00",
+		"dataSha256": "e163f40da2cfbd959a49b5be3fccd8992fbdd9ac367de1971f776ab2cc900443",
+		"responseSha256": "2ffc3e89de39dce1fa244fd9c31372b268ce4e04cd02cb33ea7442259d7371d8",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/yoshkar-ola--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=yoshkar-ola&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:56:22.164314+00:00",
+		"dataSha256": "e0c66e65a1c9a0bc9ebf773c515474b6508200a5824850ce188b711c407379c7",
+		"responseSha256": "81424a8eceffde78b80209d633e9ee21fab92459566b6ae89d4c40f60a321b28",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/zaysan--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=zaysan&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:56:28.608055+00:00",
+		"dataSha256": "b8a4dada081e311dfc10860cc193bbb4e27601d2beba91b04f70fbfcff2e96b3",
+		"responseSha256": "48b3fcab62ac80b2b5cbf6da4c9bb12897f55b55568a53cfcf724835de552939",
+		"rawResponseFile": null
+	},
+	{
+		"sourceFile": "data/catalog/quotes/zhitikara--vladivostok--20000.json",
+		"requestUrl": "https://datrans.ru/calc/?from=zhitikara&to=vladivostok&weight=20000",
+		"fetchedAt": "2026-11-14T16:56:35.671318+00:00",
+		"dataSha256": "8852031144c948216f00b1547cbbf521dd87dc3fb0bd18a807b8533a6d25f627",
+		"responseSha256": "fbab2296e446eef728fc08e56f3ca50f5dab870da1b4c60fb24441308160926a",
+		"rawResponseFile": null
+	}
+]

@@ -7,7 +7,7 @@ export const cities = snapshot.cities.toSorted((a, b) => a.name.localeCompare(b.
 export const checkedAt = snapshot.checkedAt
 export const sourceUrl = snapshot.source
 export const routeCount = Object.keys(snapshot.routes).length
-const tariffs: Record<string, Tariff> = snapshot.routes
+const tariffs: Record<string, number | Tariff> = snapshot.routes
 const routeDetails: Record<string, { km: number | null; days: string; optionDays?: Record<string, string> }> =
 	details.routes
 const containers: Record<string, { priceVat: number; priceNoVat: number | null; days: string }> = details.containers
@@ -18,7 +18,11 @@ export function calculate(from: string, to: string, weightKg: number): Quote {
 
 	if (!tariff) return { status: 'unavailable', weightKg, options: [] }
 
-	const result = priceTariff(tariff, weightKg)
+	const auto =
+		typeof tariff === 'number'
+			? { auto: [44, 53, 66, 75, 88, 100].map((factor) => Math.ceil((tariff * factor) / 10000) * 100) }
+			: tariff
+	const result = priceTariff(auto, weightKg)
 
 	for (const option of result.options) {
 		option.days = routeDetails[key]?.optionDays?.[option.type]

@@ -14,6 +14,41 @@
 			"priceVat": 167000,
 			"priceNoVat": null,
 			"days": "18"
+		},
+		"kazan--novosibirsk": {
+			"priceVat": 351500,
+			"priceNoVat": null,
+			"days": "9"
+		},
+		"samara--novosibirsk": {
+			"priceVat": 383600,
+			"priceNoVat": null,
+			"days": "9"
+		},
+		"sankt-peterburg--novosibirsk": {
+			"priceVat": 173300,
+			"priceNoVat": null,
+			"days": "10"
+		},
+		"moskva--chita": {
+			"priceVat": 348300,
+			"priceNoVat": null,
+			"days": "35"
+		},
+		"pskov--vladivostok": {
+			"priceVat": 318000,
+			"priceNoVat": null,
+			"days": ""
+		},
+		"smolensk--vladivostok": {
+			"priceVat": 268500,
+			"priceNoVat": null,
+			"days": "23"
+		},
+		"tver--vladivostok": {
+			"priceVat": 228900,
+			"priceNoVat": null,
+			"days": "23"
 		}
 	},
 	"routes": {
@@ -64,6 +99,14 @@
 				"auto": "15-16",
 				"modular": "17-18",
 				"container": "23"
+			}
+		},
+		"samara--kazan": {
+			"km": 358,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2",
+				"modular": "2-3"
 			}
 		},
 		"samara--moskva": {
@@ -144,6 +187,1915 @@
 			"optionDays": {
 				"auto": "5-6",
 				"modular": "7-8"
+			}
+		},
+		"anapa--taganrog": {
+			"km": 475,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"berdsk--ekaterinburg": {
+			"km": 1638,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"berdsk--kazan": {
+			"km": 2569,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"berdsk--samara": {
+			"km": 2486,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"chelyabinsk--naberezhnye-chelny": {
+			"km": 703,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"chelyabinsk--tolyatti": {
+			"km": 903,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"chelyabinsk--ufa": {
+			"km": 416,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"dzerzhinsk--kazan": {
+			"km": 427,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2",
+				"modular": "2-3"
+			}
+		},
+		"ekaterinburg--berdsk": {
+			"km": 1631,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"ekaterinburg--kazan": {
+			"km": 1015,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"ekaterinburg--naberezhnye-chelny": {
+			"km": 767,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"ekaterinburg--novosibirsk": {
+			"km": 1598,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"ekaterinburg--samara": {
+			"km": 993,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"ekaterinburg--sankt-peterburg": {
+			"km": 2294,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"ekaterinburg--syzran": {
+			"km": 1112,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"ekaterinburg--tolyatti": {
+			"km": 1030,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"habarovsk--ussuriysk": {
+			"km": 661,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"habarovsk--vladivostok": {
+			"km": 755,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"kazan--berdsk": {
+			"km": 2569,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"kazan--dzerzhinsk": {
+			"km": 427,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"kazan--ekaterinburg": {
+			"km": 1015,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"kazan--miass": {
+			"km": 870,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"kazan--neftekamsk": {
+			"km": 480,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"kazan--nizhniy-novgorod": {
+			"km": 397,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"kazan--nizhniy-tagil": {
+			"km": 1010,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"kazan--novosibirsk": {
+			"km": 2534,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5",
+				"container": "9"
+			}
+		},
+		"kazan--pervouralsk": {
+			"km": 982,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"kazan--samara": {
+			"km": 374,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2",
+				"modular": "2-3"
+			}
+		},
+		"kazan--sankt-peterburg": {
+			"km": 1524,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"kazan--sterlitamak": {
+			"km": 658,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"kazan--ufa": {
+			"km": 527,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"komsomolsk-na-amure--vladivostok": {
+			"km": 1151,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"krasnodar--rostov-na-donu": {
+			"km": 275,
+			"days": "1-2",
+			"optionDays": {}
+		},
+		"krasnoyarsk--novosibirsk": {
+			"km": 792,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"krymsk--samara": {
+			"km": 1604,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--angarsk": {
+			"km": 5194,
+			"days": "8-9",
+			"optionDays": {
+				"auto": "8-9"
+			}
+		},
+		"moskva--bratsk": {
+			"km": 5068,
+			"days": "8-9",
+			"optionDays": {
+				"auto": "8-9"
+			}
+		},
+		"moskva--obninsk": {
+			"km": 105,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--ryazan": {
+			"km": 199,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"naberezhnye-chelny--chelyabinsk": {
+			"km": 703,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"naberezhnye-chelny--ekaterinburg": {
+			"km": 767,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"naberezhnye-chelny--nizhniy-novgorod": {
+			"km": 639,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"naberezhnye-chelny--ufa": {
+			"km": 292,
+			"days": "1-2",
+			"optionDays": {}
+		},
+		"nizhniy-novgorod--kazan": {
+			"km": 399,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"nizhniy-novgorod--naberezhnye-chelny": {
+			"km": 639,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"nizhniy-tagil--kazan": {
+			"km": 1010,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"nizhniy-tagil--novosibirsk": {
+			"km": 1739,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"nizhniy-tagil--samara": {
+			"km": 1136,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"novosibirsk--ekaterinburg": {
+			"km": 1605,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"novosibirsk--kazan": {
+			"km": 2534,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"novosibirsk--krasnoyarsk": {
+			"km": 790,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"novosibirsk--nizhniy-tagil": {
+			"km": 1741,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3",
+				"modular": "3-4"
+			}
+		},
+		"novosibirsk--samara": {
+			"km": 2454,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"novosibirsk--sankt-peterburg": {
+			"km": 3899,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"novosibirsk--vsevolozhsk": {
+			"km": 3919,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"pervouralsk--kazan": {
+			"km": 922,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"pervouralsk--samara": {
+			"km": 992,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"rostov-na-donu--anapa": {
+			"km": 406,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"rostov-na-donu--krasnodar": {
+			"km": 274,
+			"days": "1-2",
+			"optionDays": {}
+		},
+		"rostov-na-donu--sochi": {
+			"km": 551,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2",
+				"modular": "2-3"
+			}
+		},
+		"samara--berdsk": {
+			"km": 2479,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"samara--ekaterinburg": {
+			"km": 993,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"samara--krymsk": {
+			"km": 1625,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"samara--miass": {
+			"km": 773,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"samara--nizhniy-tagil": {
+			"km": 1137,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"samara--novosibirsk": {
+			"km": 2446,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5",
+				"container": "9"
+			}
+		},
+		"samara--pervouralsk": {
+			"km": 992,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"samara--sankt-peterburg": {
+			"km": 1761,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"samara--saratov": {
+			"km": 418,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"samara--sterlitamak": {
+			"km": 570,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"samara--tolyatti": {
+			"km": null,
+			"days": "",
+			"optionDays": {}
+		},
+		"samara--ufa": {
+			"km": 464,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"samara--ulyanovsk": {
+			"km": 249,
+			"days": "1-2",
+			"optionDays": {}
+		},
+		"sankt-peterburg--berdsk": {
+			"km": 3939,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"sankt-peterburg--ekaterinburg": {
+			"km": 2310,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"sankt-peterburg--kazan": {
+			"km": 1524,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"sankt-peterburg--novosibirsk": {
+			"km": 3906,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7",
+				"container": "10"
+			}
+		},
+		"sankt-peterburg--samara": {
+			"km": 1772,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"sankt-peterburg--tolyatti": {
+			"km": 1704,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"saratov--samara": {
+			"km": 413,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"sochi--rostov-na-donu": {
+			"km": 552,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"syzran--ekaterinburg": {
+			"km": 1113,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"taganrog--anapa": {
+			"km": 479,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"taganrog--sochi": {
+			"km": 623,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"tolyatti--chelyabinsk": {
+			"km": 906,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"tolyatti--ekaterinburg": {
+			"km": 1033,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"tolyatti--neftekamsk": {
+			"km": 587,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"tolyatti--novosibirsk": {
+			"km": 2486,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"tolyatti--ufa": {
+			"km": 504,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"ufa--chelyabinsk": {
+			"km": 418,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"ufa--naberezhnye-chelny": {
+			"km": 293,
+			"days": "1-2",
+			"optionDays": {}
+		},
+		"ufa--tolyatti": {
+			"km": 501,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"ulyanovsk--samara": {
+			"km": 250,
+			"days": "1-2",
+			"optionDays": {}
+		},
+		"ussuriysk--habarovsk": {
+			"km": 661,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"vladivostok--habarovsk": {
+			"km": 755,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"vladivostok--komsomolsk-na-amure": {
+			"km": 1150,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2",
+				"modular": "2-3"
+			}
+		},
+		"vsevolozhsk--novosibirsk": {
+			"km": 3924,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"vsevolozhsk--samara": {
+			"km": 1790,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"akkol--moskva": {
+			"km": 2730,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"aksay--moskva": {
+			"km": 1450,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"aksu--moskva": {
+			"km": 3088,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"aktau--moskva": {
+			"km": 1988,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"aktobe--moskva": {
+			"km": 1753,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"alga--moskva": {
+			"km": 2417,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"altay--moskva": {
+			"km": 3809,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"aralsk--moskva": {
+			"km": 2318,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"aris--moskva": {
+			"km": 4829,
+			"days": "8-9",
+			"optionDays": {
+				"auto": "8-9"
+			}
+		},
+		"arkalik--moskva": {
+			"km": 2559,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"astana--moskva": {
+			"km": 2801,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"atbasar--moskva": {
+			"km": 2541,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"atirau--moskva": {
+			"km": 1721,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"ayagoz--komsomolsk-na-amure": {
+			"km": 5992,
+			"days": "9-10",
+			"optionDays": {
+				"auto": "9-10"
+			}
+		},
+		"azov--vladivostok": {
+			"km": 9528,
+			"days": "15-16",
+			"optionDays": {
+				"auto": "15-16"
+			}
+		},
+		"baykonur--moskva": {
+			"km": 2561,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"bulaevo--moskva": {
+			"km": 2604,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"cherepovec--moskva": {
+			"km": 512,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"chrometau--vladivostok": {
+			"km": 8057,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"derzhavinsk--vladivostok": {
+			"km": 8161,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"dimitrovgrad--vladivostok": {
+			"km": 8260,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"dolgoprudniy--birobidzhan": {
+			"km": 8246,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"ekibastuz--vladivostok": {
+			"km": 6645,
+			"days": "11-12",
+			"optionDays": {
+				"auto": "11-12"
+			}
+		},
+		"elektrostal--birobidzhan": {
+			"km": 8208,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"emba--vladivostok": {
+			"km": 8057,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"ereymentau--vladivostok": {
+			"km": 6645,
+			"days": "11-12",
+			"optionDays": {
+				"auto": "11-12"
+			}
+		},
+		"esik--moskva": {
+			"km": 4096,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"esil--moskva": {
+			"km": 2380,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"fortshevchenko--vladivostok": {
+			"km": 9316,
+			"days": "15-16",
+			"optionDays": {
+				"auto": "15-16"
+			}
+		},
+		"fryazino--birobidzhan": {
+			"km": 8228,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"himki--birobidzhan": {
+			"km": 8249,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"ivanteevka--birobidzhan": {
+			"km": 8218,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"kaluga--moskva": {
+			"km": 180,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"kamyshin--vladivostok": {
+			"km": 8837,
+			"days": "14-15",
+			"optionDays": {
+				"auto": "14-15"
+			}
+		},
+		"kandiagash--moskva": {
+			"km": 1850,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"karaganda--moskva": {
+			"km": 2969,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"karatau--moskva": {
+			"km": 3384,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"karazhal--moskva": {
+			"km": 3374,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"karkaralinsk--moskva": {
+			"km": 3224,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"kaskelen--vladivostok": {
+			"km": 6354,
+			"days": "10-11",
+			"optionDays": {
+				"auto": "10-11"
+			}
+		},
+		"kazalinsk--moskva": {
+			"km": 2440,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"kentau--moskva": {
+			"km": 3079,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"kizilorda--moskva": {
+			"km": 2772,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"kokshetau--moskva": {
+			"km": 2526,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"kolomna--birobidzhan": {
+			"km": 8179,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"konaev--moskva": {
+			"km": 4092,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"kosshi--moskva": {
+			"km": 2825,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"kostanay--moskva": {
+			"km": 2079,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"kulsari--moskva": {
+			"km": 1944,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"kurchatov--moskva": {
+			"km": 644,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"lipeck--moskva": {
+			"km": 437,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"lisakovsk--moskva": {
+			"km": 2079,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"makinsk--moskva": {
+			"km": 2639,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"mamlutka--moskva": {
+			"km": 2286,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"mineralnye-vody--birobidzhan": {
+			"km": 8713,
+			"days": "14-15",
+			"optionDays": {
+				"auto": "14-15"
+			}
+		},
+		"moskva--achinsk": {
+			"km": 4021,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"moskva--almetevsk": {
+			"km": 1077,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--alushta": {
+			"km": null,
+			"days": "",
+			"optionDays": {}
+		},
+		"moskva--arhangelsk": {
+			"km": 1232,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--astrahan": {
+			"km": 1392,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--balakovo": {
+			"km": 1001,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--balashov": {
+			"km": 701,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--balhash": {
+			"km": 3404,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"moskva--barnaul": {
+			"km": 3635,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"moskva--bataysk": {
+			"km": 1084,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--belgorod": {
+			"km": 665,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--birobidzhan": {
+			"km": 8245,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"moskva--blagoveschensk": {
+			"km": 7858,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"moskva--bryansk": {
+			"km": 382,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--buzuluk": {
+			"km": 1218,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--chapaevsk": {
+			"km": 1108,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--cheboksary": {
+			"km": 673,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--cherkessk": {
+			"km": 1496,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--chita": {
+			"km": 6316,
+			"days": "10-11",
+			"optionDays": {
+				"auto": "10-11",
+				"container": "35"
+			}
+		},
+		"moskva--elista": {
+			"km": 1260,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--engels": {
+			"km": 914,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--gorno-altaysk": {
+			"km": 3853,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"moskva--grozniy": {
+			"km": 1884,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"moskva--hanty-mansiysk": {
+			"km": 2600,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"moskva--ivanovo": {
+			"km": 302,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--izhevsk": {
+			"km": 1193,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--kemerovo": {
+			"km": 3664,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"moskva--kirov": {
+			"km": 958,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--kislovodsk": {
+			"km": 1630,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--kogalym": {
+			"km": 3069,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"moskva--kostroma": {
+			"km": 345,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--krasnokamensk": {
+			"km": 6901,
+			"days": "11-12",
+			"optionDays": {
+				"auto": "11-12"
+			}
+		},
+		"moskva--kurgan": {
+			"km": 2045,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"moskva--kursk": {
+			"km": 526,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--kyzyl": {
+			"km": 4702,
+			"days": "7-8",
+			"optionDays": {
+				"auto": "7-8"
+			}
+		},
+		"moskva--lenger": {
+			"km": 3281,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"moskva--lesosibirsk": {
+			"km": 4465,
+			"days": "7-8",
+			"optionDays": {
+				"auto": "7-8"
+			}
+		},
+		"moskva--magnitogorsk": {
+			"km": 1695,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--mahachkala": {
+			"km": 1798,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--maykop": {
+			"km": 1403,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--nadym": {
+			"km": 3039,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"moskva--nalchik": {
+			"km": 1685,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--nazran": {
+			"km": 1796,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--noviy-urengoy": {
+			"km": 3276,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"moskva--novocherkassk": {
+			"km": 1045,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--novokuzneck": {
+			"km": 3871,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"moskva--novorossiysk": {
+			"km": 1480,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--novouralsk": {
+			"km": 1872,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"moskva--noyabrsk": {
+			"km": 3201,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"moskva--orenburg": {
+			"km": 1461,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--penza": {
+			"km": 644,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--perm": {
+			"km": 1442,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--petrozavodsk": {
+			"km": 1033,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--saransk": {
+			"km": 649,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--sevastopol": {
+			"km": null,
+			"days": "",
+			"optionDays": {}
+		},
+		"moskva--severodvinsk": {
+			"km": 1267,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--shahty": {
+			"km": 1009,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--simferopol": {
+			"km": null,
+			"days": "",
+			"optionDays": {}
+		},
+		"moskva--solikamsk": {
+			"km": 1644,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--stariy-oskol": {
+			"km": 635,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--stavropol": {
+			"km": 1412,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"moskva--tambov": {
+			"km": 459,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"moskva--tobil": {
+			"km": 2085,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"moskva--tobolsk": {
+			"km": 2379,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"moskva--tomsk": {
+			"km": 3662,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"moskva--tula": {
+			"km": 183,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"nahodka--moskva": {
+			"km": 9287,
+			"days": "15-16",
+			"optionDays": {
+				"auto": "15-16"
+			}
+		},
+		"novoaltaysk--birobidzhan": {
+			"km": 4975,
+			"days": "8-9",
+			"optionDays": {
+				"auto": "8-9"
+			}
+		},
+		"omsk--vladivostok": {
+			"km": 6429,
+			"days": "10-11",
+			"optionDays": {
+				"auto": "10-11"
+			}
+		},
+		"orel--moskva": {
+			"km": 362,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"pavlodar--vladivostok": {
+			"km": 6280,
+			"days": "10-11",
+			"optionDays": {
+				"auto": "10-11"
+			}
+		},
+		"petropavlovsk--moskva": {
+			"km": 2556,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"podolsk--birobidzhan": {
+			"km": 8292,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"priozersk--vladivostok": {
+			"km": 6353,
+			"days": "10-11",
+			"optionDays": {
+				"auto": "10-11"
+			}
+		},
+		"pskov--vladivostok": {
+			"km": 9793,
+			"days": "16-17",
+			"optionDays": {
+				"auto": "16-17"
+			}
+		},
+		"pyatigorsk--birobidzhan": {
+			"km": 8728,
+			"days": "14-15",
+			"optionDays": {
+				"auto": "14-15"
+			}
+		},
+		"ridder--vladivostok": {
+			"km": 6383,
+			"days": "10-11",
+			"optionDays": {
+				"auto": "10-11"
+			}
+		},
+		"rudniy--vladivostok": {
+			"km": 7714,
+			"days": "12-13",
+			"optionDays": {
+				"auto": "12-13"
+			}
+		},
+		"salavat--vladivostok": {
+			"km": 7925,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"salehard--vladivostok": {
+			"km": 8504,
+			"days": "14-15",
+			"optionDays": {
+				"auto": "14-15"
+			}
+		},
+		"saran--vladivostok": {
+			"km": 6645,
+			"days": "11-12",
+			"optionDays": {
+				"auto": "11-12"
+			}
+		},
+		"sariagash--moskva": {
+			"km": 3331,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"sarkand--moskva": {
+			"km": 4343,
+			"days": "7-8",
+			"optionDays": {
+				"auto": "7-8"
+			}
+		},
+		"sarov--moskva": {
+			"km": 467,
+			"days": "1-2",
+			"optionDays": {
+				"auto": "1-2"
+			}
+		},
+		"satpaev--moskva": {
+			"km": 3220,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"semey--moskva": {
+			"km": 3433,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"serebryansk--moskva": {
+			"km": 3708,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"sergeevka--moskva": {
+			"km": 2286,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"serpuhov--birobidzhan": {
+			"km": 8362,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"shahtinsk--moskva": {
+			"km": 2904,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"shalkar--moskva": {
+			"km": 2108,
+			"days": "3-4",
+			"optionDays": {
+				"auto": "3-4"
+			}
+		},
+		"shar--moskva": {
+			"km": 3546,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"shardara--moskva": {
+			"km": 3468,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"shemonaiha--vladivostok": {
+			"km": 6322,
+			"days": "10-11",
+			"optionDays": {
+				"auto": "10-11"
+			}
+		},
+		"shimkent--vladivostok": {
+			"km": 8161,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"shu--vladivostok": {
+			"km": 6354,
+			"days": "10-11",
+			"optionDays": {
+				"auto": "10-11"
+			}
+		},
+		"shuchinsk--vladivostok": {
+			"km": 6648,
+			"days": "11-12",
+			"optionDays": {
+				"auto": "11-12"
+			}
+		},
+		"smolensk--vladivostok": {
+			"km": 9584,
+			"days": "15-16",
+			"optionDays": {
+				"auto": "15-16",
+				"container": "23"
+			}
+		},
+		"stepnogorsk--moskva": {
+			"km": 2694,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"stepnyak--moskva": {
+			"km": 2587,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"surgut--vladivostok": {
+			"km": 6672,
+			"days": "11-12",
+			"optionDays": {
+				"auto": "11-12"
+			}
+		},
+		"syktyvkar--vladivostok": {
+			"km": 8640,
+			"days": "14-15",
+			"optionDays": {
+				"auto": "14-15"
+			}
+		},
+		"taldikorgan--moskva": {
+			"km": 4292,
+			"days": "7-8",
+			"optionDays": {
+				"auto": "7-8"
+			}
+		},
+		"talgar--moskva": {
+			"km": 3609,
+			"days": "6-7",
+			"optionDays": {
+				"auto": "6-7"
+			}
+		},
+		"taraz--moskva": {
+			"km": 3373,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"tayinsha--moskva": {
+			"km": 2492,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"tekeli--moskva": {
+			"km": 4326,
+			"days": "7-8",
+			"optionDays": {
+				"auto": "7-8"
+			}
+		},
+		"temir--moskva": {
+			"km": 1783,
+			"days": "2-3",
+			"optionDays": {
+				"auto": "2-3"
+			}
+		},
+		"temirtau--moskva": {
+			"km": 2969,
+			"days": "4-5",
+			"optionDays": {
+				"auto": "4-5"
+			}
+		},
+		"troick--birobidzhan": {
+			"km": 6538,
+			"days": "10-11",
+			"optionDays": {
+				"auto": "10-11"
+			}
+		},
+		"turkestan--moskva": {
+			"km": 3093,
+			"days": "5-6",
+			"optionDays": {
+				"auto": "5-6"
+			}
+		},
+		"tver--vladivostok": {
+			"km": 9248,
+			"days": "15-16",
+			"optionDays": {
+				"auto": "15-16",
+				"container": "23"
+			}
+		},
+		"tyumen--vladivostok": {
+			"km": 7059,
+			"days": "11-12",
+			"optionDays": {
+				"auto": "11-12"
+			}
+		},
+		"uhta--vladivostok": {
+			"km": 8956,
+			"days": "14-15",
+			"optionDays": {
+				"auto": "14-15"
+			}
+		},
+		"uralsk--vladivostok": {
+			"km": 8381,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"velikiy-novgorod--birobidzhan": {
+			"km": 8622,
+			"days": "14-15",
+			"optionDays": {
+				"auto": "14-15"
+			}
+		},
+		"vidnoe--birobidzhan": {
+			"km": 8274,
+			"days": "13-14",
+			"optionDays": {
+				"auto": "13-14"
+			}
+		},
+		"yaroslavl--komsomolsk-na-amure": {
+			"km": 8561,
+			"days": "14-15",
+			"optionDays": {
+				"auto": "14-15"
+			}
+		},
+		"yoshkar-ola--vladivostok": {
+			"km": 8448,
+			"days": "14-15",
+			"optionDays": {
+				"auto": "14-15"
+			}
+		},
+		"zaysan--vladivostok": {
+			"km": 6420,
+			"days": "10-11",
+			"optionDays": {
+				"auto": "10-11"
+			}
+		},
+		"zhitikara--vladivostok": {
+			"km": 7388,
+			"days": "12-13",
+			"optionDays": {
+				"auto": "12-13"
 			}
 		}
 	}

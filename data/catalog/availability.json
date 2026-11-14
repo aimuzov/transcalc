@@ -1,0 +1,66 @@
+{
+	"krasnodar--rostov-na-donu": {
+		"status": "not_served",
+		"publishedTariff": null,
+		"publishedSources": [],
+		"source": "https://datrans.ru/calc/?from=krasnodar&to=rostov-na-donu&weight=20000"
+	},
+	"naberezhnye-chelny--ufa": {
+		"status": "not_served",
+		"publishedTariff": null,
+		"publishedSources": [],
+		"source": "https://datrans.ru/calc/?from=naberezhnye-chelny&to=ufa&weight=20000"
+	},
+	"rostov-na-donu--krasnodar": {
+		"status": "not_served",
+		"publishedTariff": null,
+		"publishedSources": [],
+		"source": "https://datrans.ru/calc/?from=rostov-na-donu&to=krasnodar&weight=20000"
+	},
+	"samara--tolyatti": {
+		"status": "not_served",
+		"publishedTariff": null,
+		"publishedSources": [],
+		"source": "https://datrans.ru/calc/?from=samara&to=tolyatti&weight=20000"
+	},
+	"samara--ulyanovsk": {
+		"status": "not_served",
+		"publishedTariff": null,
+		"publishedSources": [],
+		"source": "https://datrans.ru/calc/?from=samara&to=ulyanovsk&weight=20000"
+	},
+	"ufa--naberezhnye-chelny": {
+		"status": "not_served",
+		"publishedTariff": null,
+		"publishedSources": [],
+		"source": "https://datrans.ru/calc/?from=ufa&to=naberezhnye-chelny&weight=20000"
+	},
+	"ulyanovsk--samara": {
+		"status": "not_served",
+		"publishedTariff": null,
+		"publishedSources": [],
+		"source": "https://datrans.ru/calc/?from=ulyanovsk&to=samara&weight=20000"
+	},
+	"moskva--alushta": {
+		"status": "not_served",
+		"publishedTariff": null,
+		"publishedSources": [],
+		"source": "https://datrans.ru/calc/?from=moskva&to=alushta&weight=20000"
+	},
+	"moskva--sevastopol": {
+		"status": "not_served",
+		"publishedTariff": {
+			"auto": [291000, 350500, 436400, 495900, 581900, 661200]
+		},
+		"publishedSources": ["https://sevastopol.datrans.ru/gruzoperevozki-po-rossii/"],
+		"source": "https://datrans.ru/calc/?from=moskva&to=sevastopol&weight=20000"
+	},
+	"moskva--simferopol": {
+		"status": "not_served",
+		"publishedTariff": {
+			"auto": [275700, 332000, 413500, 469800, 551300, 626400]
+		},
+		"publishedSources": ["https://simferopol.datrans.ru/gruzoperevozki-po-rossii/"],
+		"source": "https://datrans.ru/calc/?from=moskva&to=simferopol&weight=20000"
+	}
+}
