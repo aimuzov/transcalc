@@ -1,0 +1,1953 @@
+{
+	"quoteCases": 200,
+	"routes20t": 98,
+	"regionalPairs": 49,
+	"multiRouteRegionalPairs": 24,
+	"rateConflicts": [],
+	"ordinaryBaseMatches": 85,
+	"exceptions": [
+		{
+			"from": "ekaterinburg",
+			"to": "sankt-peterburg",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Ленинградская область",
+			"km": 2294,
+			"roundedKm": 2300,
+			"rate": 91,
+			"actualBase": 210000,
+			"ordinaryBase": 209300,
+			"source": "data/route-formula/quotes/ekaterinburg--sankt-peterburg--20000.json",
+			"delta": 700
+		},
+		{
+			"from": "krasnoyarsk",
+			"to": "novosibirsk",
+			"fromRegion": "Красноярский край",
+			"toRegion": "Новосибирская область",
+			"km": 792,
+			"roundedKm": 800,
+			"rate": 112,
+			"actualBase": 90000,
+			"ordinaryBase": 89600,
+			"source": "data/route-formula/quotes/krasnoyarsk--novosibirsk--20000.json",
+			"delta": 400
+		},
+		{
+			"from": "moskva",
+			"to": "bratsk",
+			"fromRegion": "Московская область",
+			"toRegion": "Иркутская область",
+			"km": 5068,
+			"roundedKm": 5100,
+			"rate": 104,
+			"actualBase": 600000,
+			"ordinaryBase": 530400,
+			"source": "data/route-formula/quotes/moskva--bratsk--20000.json",
+			"delta": 69600
+		},
+		{
+			"from": "moskva",
+			"to": "habarovsk",
+			"fromRegion": "Московская область",
+			"toRegion": "Хабаровский край",
+			"km": 8428,
+			"roundedKm": 8500,
+			"rate": 82,
+			"actualBase": 700000,
+			"ordinaryBase": 697000,
+			"source": "data/control/moskva--habarovsk--20000.json",
+			"delta": 3000
+		},
+		{
+			"from": "moskva",
+			"to": "irkutsk",
+			"fromRegion": "Московская область",
+			"toRegion": "Иркутская область",
+			"km": 5240,
+			"roundedKm": 5300,
+			"rate": 104,
+			"actualBase": 480000,
+			"ordinaryBase": 551200,
+			"source": "data/control/moskva--irkutsk--20000.json",
+			"delta": -71200
+		},
+		{
+			"from": "moskva",
+			"to": "samara",
+			"fromRegion": "Московская область",
+			"toRegion": "Самарская область",
+			"km": 1060,
+			"roundedKm": 1100,
+			"rate": 167,
+			"actualBase": 180000,
+			"ordinaryBase": 183700,
+			"source": "data/training/moskva--samara--20000.json",
+			"delta": -3700
+		},
+		{
+			"from": "moskva",
+			"to": "sankt-peterburg",
+			"fromRegion": "Московская область",
+			"toRegion": "Ленинградская область",
+			"km": 704,
+			"roundedKm": 800,
+			"rate": 162,
+			"actualBase": 130000,
+			"ordinaryBase": 129600,
+			"source": "data/training/moskva--sankt-peterburg--20000.json",
+			"delta": 400
+		},
+		{
+			"from": "moskva",
+			"to": "vladivostok",
+			"fromRegion": "Московская область",
+			"toRegion": "Приморский край",
+			"km": 9186,
+			"roundedKm": 9200,
+			"rate": 82,
+			"actualBase": 750000,
+			"ordinaryBase": 754400,
+			"source": "data/control/moskva--vladivostok--20000.json",
+			"delta": -4400
+		},
+		{
+			"from": "novosibirsk",
+			"to": "krasnoyarsk",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Красноярский край",
+			"km": 790,
+			"roundedKm": 800,
+			"rate": 162,
+			"actualBase": 130000,
+			"ordinaryBase": 129600,
+			"source": "data/route-formula/quotes/novosibirsk--krasnoyarsk--20000.json",
+			"delta": 400
+		},
+		{
+			"from": "novosibirsk",
+			"to": "sankt-peterburg",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Ленинградская область",
+			"km": 3899,
+			"roundedKm": 3900,
+			"rate": 77,
+			"actualBase": 300000,
+			"ordinaryBase": 300300,
+			"source": "data/route-formula/quotes/novosibirsk--sankt-peterburg--20000.json",
+			"delta": -300
+		},
+		{
+			"from": "samara",
+			"to": "sankt-peterburg",
+			"fromRegion": "Самарская область",
+			"toRegion": "Ленинградская область",
+			"km": 1761,
+			"roundedKm": 1800,
+			"rate": 106,
+			"actualBase": 190000,
+			"ordinaryBase": 190800,
+			"source": "data/route-formula/quotes/samara--sankt-peterburg--20000.json",
+			"delta": -800
+		},
+		{
+			"from": "sankt-peterburg",
+			"to": "ekaterinburg",
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Свердловская область",
+			"km": 2310,
+			"roundedKm": 2400,
+			"rate": 120,
+			"actualBase": 290000,
+			"ordinaryBase": 288000,
+			"source": "data/route-formula/quotes/sankt-peterburg--ekaterinburg--20000.json",
+			"delta": 2000
+		},
+		{
+			"from": "sankt-peterburg",
+			"to": "novosibirsk",
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Новосибирская область",
+			"km": 3906,
+			"roundedKm": 4000,
+			"rate": 106,
+			"actualBase": 480000,
+			"ordinaryBase": 424000,
+			"source": "data/route-formula/quotes/sankt-peterburg--novosibirsk--20000.json",
+			"delta": 56000
+		}
+	],
+	"unavailable": [
+		{
+			"from": "krasnodar",
+			"to": "rostov-na-donu",
+			"status": "not_served",
+			"km": 275,
+			"source": "data/route-formula/quotes/krasnodar--rostov-na-donu--20000.json"
+		},
+		{
+			"from": "naberezhnye-chelny",
+			"to": "ufa",
+			"status": "not_served",
+			"km": 292,
+			"source": "data/route-formula/quotes/naberezhnye-chelny--ufa--20000.json"
+		},
+		{
+			"from": "rostov-na-donu",
+			"to": "krasnodar",
+			"status": "not_served",
+			"km": 274,
+			"source": "data/route-formula/quotes/rostov-na-donu--krasnodar--20000.json"
+		},
+		{
+			"from": "samara",
+			"to": "tolyatti",
+			"status": "not_served",
+			"km": null,
+			"source": "data/route-formula/quotes/samara--tolyatti--20000.json"
+		},
+		{
+			"from": "samara",
+			"to": "ulyanovsk",
+			"status": "not_served",
+			"km": 249,
+			"source": "data/route-formula/quotes/samara--ulyanovsk--20000.json"
+		},
+		{
+			"from": "ufa",
+			"to": "naberezhnye-chelny",
+			"status": "not_served",
+			"km": 293,
+			"source": "data/route-formula/quotes/ufa--naberezhnye-chelny--20000.json"
+		},
+		{
+			"from": "ulyanovsk",
+			"to": "samara",
+			"status": "not_served",
+			"km": 250,
+			"source": "data/route-formula/quotes/ulyanovsk--samara--20000.json"
+		}
+	],
+	"registry": [
+		{
+			"fromRegion": "Карагандинская область",
+			"toRegion": "Московская область",
+			"rates": [81],
+			"routes": 1,
+			"evidence": ["data/control/abay--moskva--20000.json"]
+		},
+		{
+			"fromRegion": "Краснодарский край",
+			"toRegion": "Ростовская область",
+			"rates": [210],
+			"routes": 2,
+			"evidence": [
+				"data/route-formula/quotes/anapa--taganrog--20000.json",
+				"data/route-formula/quotes/sochi--rostov-na-donu--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Краснодарский край",
+			"toRegion": "Самарская область",
+			"rates": [105],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/krymsk--samara--20000.json"]
+		},
+		{
+			"fromRegion": "Красноярский край",
+			"toRegion": "Новосибирская область",
+			"rates": [112],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/krasnoyarsk--novosibirsk--20000.json"]
+		},
+		{
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Новосибирская область",
+			"rates": [106],
+			"routes": 3,
+			"evidence": [
+				"data/route-formula/quotes/sankt-peterburg--berdsk--20000.json",
+				"data/route-formula/quotes/sankt-peterburg--novosibirsk--20000.json",
+				"data/route-formula/quotes/vsevolozhsk--novosibirsk--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Республика Татарстан",
+			"rates": [120],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/sankt-peterburg--kazan--20000.json"]
+		},
+		{
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Самарская область",
+			"rates": [103],
+			"routes": 3,
+			"evidence": [
+				"data/route-formula/quotes/sankt-peterburg--samara--20000.json",
+				"data/route-formula/quotes/sankt-peterburg--tolyatti--20000.json",
+				"data/route-formula/quotes/vsevolozhsk--samara--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Свердловская область",
+			"rates": [120],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/sankt-peterburg--ekaterinburg--20000.json"]
+		},
+		{
+			"fromRegion": "Московская область",
+			"toRegion": "Иркутская область",
+			"rates": [104],
+			"routes": 3,
+			"evidence": [
+				"data/route-formula/quotes/moskva--angarsk--20000.json",
+				"data/route-formula/quotes/moskva--bratsk--20000.json",
+				"data/control/moskva--irkutsk--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Московская область",
+			"toRegion": "Калужская область",
+			"rates": [300],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/moskva--obninsk--20000.json"]
+		},
+		{
+			"fromRegion": "Московская область",
+			"toRegion": "Ленинградская область",
+			"rates": [162],
+			"routes": 1,
+			"evidence": ["data/training/moskva--sankt-peterburg--20000.json"]
+		},
+		{
+			"fromRegion": "Московская область",
+			"toRegion": "Приморский край",
+			"rates": [82],
+			"routes": 1,
+			"evidence": ["data/control/moskva--vladivostok--20000.json"]
+		},
+		{
+			"fromRegion": "Московская область",
+			"toRegion": "Рязанская область",
+			"rates": [275],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/moskva--ryazan--20000.json"]
+		},
+		{
+			"fromRegion": "Московская область",
+			"toRegion": "Самарская область",
+			"rates": [167],
+			"routes": 1,
+			"evidence": ["data/training/moskva--samara--20000.json"]
+		},
+		{
+			"fromRegion": "Московская область",
+			"toRegion": "Хабаровский край",
+			"rates": [82],
+			"routes": 1,
+			"evidence": ["data/control/moskva--habarovsk--20000.json"]
+		},
+		{
+			"fromRegion": "Нижегородская область",
+			"toRegion": "Республика Татарстан",
+			"rates": [184],
+			"routes": 3,
+			"evidence": [
+				"data/route-formula/quotes/dzerzhinsk--kazan--20000.json",
+				"data/route-formula/quotes/nizhniy-novgorod--kazan--20000.json",
+				"data/route-formula/quotes/nizhniy-novgorod--naberezhnye-chelny--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Красноярский край",
+			"rates": [162],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/novosibirsk--krasnoyarsk--20000.json"]
+		},
+		{
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Ленинградская область",
+			"rates": [77],
+			"routes": 2,
+			"evidence": [
+				"data/route-formula/quotes/novosibirsk--sankt-peterburg--20000.json",
+				"data/route-formula/quotes/novosibirsk--vsevolozhsk--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Республика Татарстан",
+			"rates": [69],
+			"routes": 2,
+			"evidence": [
+				"data/route-formula/quotes/berdsk--kazan--20000.json",
+				"data/route-formula/quotes/novosibirsk--kazan--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Самарская область",
+			"rates": [69],
+			"routes": 2,
+			"evidence": [
+				"data/route-formula/quotes/berdsk--samara--20000.json",
+				"data/route-formula/quotes/novosibirsk--samara--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Свердловская область",
+			"rates": [59],
+			"routes": 3,
+			"evidence": [
+				"data/route-formula/quotes/berdsk--ekaterinburg--20000.json",
+				"data/route-formula/quotes/novosibirsk--ekaterinburg--20000.json",
+				"data/route-formula/quotes/novosibirsk--nizhniy-tagil--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Приморский край",
+			"toRegion": "Хабаровский край",
+			"rates": [225],
+			"routes": 3,
+			"evidence": [
+				"data/route-formula/quotes/ussuriysk--habarovsk--20000.json",
+				"data/route-formula/quotes/vladivostok--habarovsk--20000.json",
+				"data/route-formula/quotes/vladivostok--komsomolsk-na-amure--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Республика Башкортостан",
+			"toRegion": "Самарская область",
+			"rates": [147],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/ufa--tolyatti--20000.json"]
+		},
+		{
+			"fromRegion": "Республика Башкортостан",
+			"toRegion": "Челябинская область",
+			"rates": [147],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/ufa--chelyabinsk--20000.json"]
+		},
+		{
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Ленинградская область",
+			"rates": [120],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/kazan--sankt-peterburg--20000.json"]
+		},
+		{
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Нижегородская область",
+			"rates": [93],
+			"routes": 3,
+			"evidence": [
+				"data/route-formula/quotes/kazan--dzerzhinsk--20000.json",
+				"data/route-formula/quotes/kazan--nizhniy-novgorod--20000.json",
+				"data/route-formula/quotes/naberezhnye-chelny--nizhniy-novgorod--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Новосибирская область",
+			"rates": [137],
+			"routes": 2,
+			"evidence": [
+				"data/route-formula/quotes/kazan--berdsk--20000.json",
+				"data/route-formula/quotes/kazan--novosibirsk--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Республика Башкортостан",
+			"rates": [137],
+			"routes": 3,
+			"evidence": [
+				"data/route-formula/quotes/kazan--neftekamsk--20000.json",
+				"data/route-formula/quotes/kazan--sterlitamak--20000.json",
+				"data/route-formula/quotes/kazan--ufa--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Самарская область",
+			"rates": [79],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/kazan--samara--20000.json"]
+		},
+		{
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Свердловская область",
+			"rates": [137],
+			"routes": 4,
+			"evidence": [
+				"data/route-formula/quotes/kazan--ekaterinburg--20000.json",
+				"data/route-formula/quotes/kazan--nizhniy-tagil--20000.json",
+				"data/route-formula/quotes/kazan--pervouralsk--20000.json",
+				"data/route-formula/quotes/naberezhnye-chelny--ekaterinburg--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Челябинская область",
+			"rates": [137],
+			"routes": 2,
+			"evidence": [
+				"data/route-formula/quotes/kazan--miass--20000.json",
+				"data/route-formula/quotes/naberezhnye-chelny--chelyabinsk--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Ростовская область",
+			"toRegion": "Краснодарский край",
+			"rates": [158],
+			"routes": 4,
+			"evidence": [
+				"data/route-formula/quotes/rostov-na-donu--anapa--20000.json",
+				"data/route-formula/quotes/rostov-na-donu--sochi--20000.json",
+				"data/route-formula/quotes/taganrog--anapa--20000.json",
+				"data/route-formula/quotes/taganrog--sochi--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Самарская область",
+			"toRegion": "Краснодарский край",
+			"rates": [105],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/samara--krymsk--20000.json"]
+		},
+		{
+			"fromRegion": "Самарская область",
+			"toRegion": "Ленинградская область",
+			"rates": [106],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/samara--sankt-peterburg--20000.json"]
+		},
+		{
+			"fromRegion": "Самарская область",
+			"toRegion": "Новосибирская область",
+			"rates": [137],
+			"routes": 3,
+			"evidence": [
+				"data/route-formula/quotes/samara--berdsk--20000.json",
+				"data/route-formula/quotes/samara--novosibirsk--20000.json",
+				"data/route-formula/quotes/tolyatti--novosibirsk--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Самарская область",
+			"toRegion": "Республика Башкортостан",
+			"rates": [133],
+			"routes": 4,
+			"evidence": [
+				"data/route-formula/quotes/samara--sterlitamak--20000.json",
+				"data/route-formula/quotes/samara--ufa--20000.json",
+				"data/route-formula/quotes/tolyatti--neftekamsk--20000.json",
+				"data/route-formula/quotes/tolyatti--ufa--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Самарская область",
+			"toRegion": "Республика Татарстан",
+			"rates": [133],
+			"routes": 1,
+			"evidence": ["data/training/samara--kazan--20000.json"]
+		},
+		{
+			"fromRegion": "Самарская область",
+			"toRegion": "Саратовская область",
+			"rates": [99],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/samara--saratov--20000.json"]
+		},
+		{
+			"fromRegion": "Самарская область",
+			"toRegion": "Свердловская область",
+			"rates": [147],
+			"routes": 5,
+			"evidence": [
+				"data/route-formula/quotes/samara--ekaterinburg--20000.json",
+				"data/route-formula/quotes/samara--nizhniy-tagil--20000.json",
+				"data/route-formula/quotes/samara--pervouralsk--20000.json",
+				"data/route-formula/quotes/syzran--ekaterinburg--20000.json",
+				"data/route-formula/quotes/tolyatti--ekaterinburg--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Самарская область",
+			"toRegion": "Челябинская область",
+			"rates": [133],
+			"routes": 2,
+			"evidence": [
+				"data/route-formula/quotes/samara--miass--20000.json",
+				"data/route-formula/quotes/tolyatti--chelyabinsk--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Саратовская область",
+			"toRegion": "Самарская область",
+			"rates": [133],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/saratov--samara--20000.json"]
+		},
+		{
+			"fromRegion": "Свердловская область",
+			"toRegion": "Ленинградская область",
+			"rates": [91],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/ekaterinburg--sankt-peterburg--20000.json"]
+		},
+		{
+			"fromRegion": "Свердловская область",
+			"toRegion": "Новосибирская область",
+			"rates": [125],
+			"routes": 3,
+			"evidence": [
+				"data/route-formula/quotes/ekaterinburg--berdsk--20000.json",
+				"data/route-formula/quotes/ekaterinburg--novosibirsk--20000.json",
+				"data/route-formula/quotes/nizhniy-tagil--novosibirsk--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Свердловская область",
+			"toRegion": "Республика Татарстан",
+			"rates": [99],
+			"routes": 4,
+			"evidence": [
+				"data/route-formula/quotes/ekaterinburg--kazan--20000.json",
+				"data/route-formula/quotes/ekaterinburg--naberezhnye-chelny--20000.json",
+				"data/route-formula/quotes/nizhniy-tagil--kazan--20000.json",
+				"data/route-formula/quotes/pervouralsk--kazan--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Свердловская область",
+			"toRegion": "Самарская область",
+			"rates": [79],
+			"routes": 5,
+			"evidence": [
+				"data/route-formula/quotes/ekaterinburg--samara--20000.json",
+				"data/route-formula/quotes/ekaterinburg--syzran--20000.json",
+				"data/route-formula/quotes/ekaterinburg--tolyatti--20000.json",
+				"data/route-formula/quotes/nizhniy-tagil--samara--20000.json",
+				"data/route-formula/quotes/pervouralsk--samara--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Хабаровский край",
+			"toRegion": "Приморский край",
+			"rates": [200],
+			"routes": 3,
+			"evidence": [
+				"data/route-formula/quotes/habarovsk--ussuriysk--20000.json",
+				"data/route-formula/quotes/habarovsk--vladivostok--20000.json",
+				"data/route-formula/quotes/komsomolsk-na-amure--vladivostok--20000.json"
+			]
+		},
+		{
+			"fromRegion": "Челябинская область",
+			"toRegion": "Республика Башкортостан",
+			"rates": [199],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/chelyabinsk--ufa--20000.json"]
+		},
+		{
+			"fromRegion": "Челябинская область",
+			"toRegion": "Республика Татарстан",
+			"rates": [121],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/chelyabinsk--naberezhnye-chelny--20000.json"]
+		},
+		{
+			"fromRegion": "Челябинская область",
+			"toRegion": "Самарская область",
+			"rates": [93],
+			"routes": 1,
+			"evidence": ["data/route-formula/quotes/chelyabinsk--tolyatti--20000.json"]
+		}
+	],
+	"routes": [
+		{
+			"from": "abay",
+			"to": "moskva",
+			"fromRegion": "Карагандинская область",
+			"toRegion": "Московская область",
+			"km": 2929,
+			"roundedKm": 3000,
+			"rate": 81,
+			"actualBase": 243000,
+			"ordinaryBase": 243000,
+			"source": "data/control/abay--moskva--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "anapa",
+			"to": "taganrog",
+			"fromRegion": "Краснодарский край",
+			"toRegion": "Ростовская область",
+			"km": 475,
+			"roundedKm": 500,
+			"rate": 210,
+			"actualBase": 105000,
+			"ordinaryBase": 105000,
+			"source": "data/route-formula/quotes/anapa--taganrog--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "berdsk",
+			"to": "ekaterinburg",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Свердловская область",
+			"km": 1638,
+			"roundedKm": 1700,
+			"rate": 59,
+			"actualBase": 100300,
+			"ordinaryBase": 100300,
+			"source": "data/route-formula/quotes/berdsk--ekaterinburg--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "berdsk",
+			"to": "kazan",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Республика Татарстан",
+			"km": 2569,
+			"roundedKm": 2600,
+			"rate": 69,
+			"actualBase": 179400,
+			"ordinaryBase": 179400,
+			"source": "data/route-formula/quotes/berdsk--kazan--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "berdsk",
+			"to": "samara",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Самарская область",
+			"km": 2486,
+			"roundedKm": 2500,
+			"rate": 69,
+			"actualBase": 172500,
+			"ordinaryBase": 172500,
+			"source": "data/route-formula/quotes/berdsk--samara--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "chelyabinsk",
+			"to": "naberezhnye-chelny",
+			"fromRegion": "Челябинская область",
+			"toRegion": "Республика Татарстан",
+			"km": 703,
+			"roundedKm": 800,
+			"rate": 121,
+			"actualBase": 96800,
+			"ordinaryBase": 96800,
+			"source": "data/route-formula/quotes/chelyabinsk--naberezhnye-chelny--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "chelyabinsk",
+			"to": "tolyatti",
+			"fromRegion": "Челябинская область",
+			"toRegion": "Самарская область",
+			"km": 903,
+			"roundedKm": 1000,
+			"rate": 93,
+			"actualBase": 93000,
+			"ordinaryBase": 93000,
+			"source": "data/route-formula/quotes/chelyabinsk--tolyatti--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "chelyabinsk",
+			"to": "ufa",
+			"fromRegion": "Челябинская область",
+			"toRegion": "Республика Башкортостан",
+			"km": 416,
+			"roundedKm": 500,
+			"rate": 199,
+			"actualBase": 99500,
+			"ordinaryBase": 99500,
+			"source": "data/route-formula/quotes/chelyabinsk--ufa--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "dzerzhinsk",
+			"to": "kazan",
+			"fromRegion": "Нижегородская область",
+			"toRegion": "Республика Татарстан",
+			"km": 427,
+			"roundedKm": 500,
+			"rate": 184,
+			"actualBase": 92000,
+			"ordinaryBase": 92000,
+			"source": "data/route-formula/quotes/dzerzhinsk--kazan--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "ekaterinburg",
+			"to": "berdsk",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Новосибирская область",
+			"km": 1631,
+			"roundedKm": 1700,
+			"rate": 125,
+			"actualBase": 212500,
+			"ordinaryBase": 212500,
+			"source": "data/route-formula/quotes/ekaterinburg--berdsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "ekaterinburg",
+			"to": "kazan",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Республика Татарстан",
+			"km": 1015,
+			"roundedKm": 1100,
+			"rate": 99,
+			"actualBase": 108900,
+			"ordinaryBase": 108900,
+			"source": "data/route-formula/quotes/ekaterinburg--kazan--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "ekaterinburg",
+			"to": "naberezhnye-chelny",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Республика Татарстан",
+			"km": 767,
+			"roundedKm": 800,
+			"rate": 99,
+			"actualBase": 79200,
+			"ordinaryBase": 79200,
+			"source": "data/route-formula/quotes/ekaterinburg--naberezhnye-chelny--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "ekaterinburg",
+			"to": "novosibirsk",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Новосибирская область",
+			"km": 1598,
+			"roundedKm": 1600,
+			"rate": 125,
+			"actualBase": 200000,
+			"ordinaryBase": 200000,
+			"source": "data/route-formula/quotes/ekaterinburg--novosibirsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "ekaterinburg",
+			"to": "samara",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Самарская область",
+			"km": 993,
+			"roundedKm": 1000,
+			"rate": 79,
+			"actualBase": 79000,
+			"ordinaryBase": 79000,
+			"source": "data/route-formula/quotes/ekaterinburg--samara--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "ekaterinburg",
+			"to": "sankt-peterburg",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Ленинградская область",
+			"km": 2294,
+			"roundedKm": 2300,
+			"rate": 91,
+			"actualBase": 210000,
+			"ordinaryBase": 209300,
+			"source": "data/route-formula/quotes/ekaterinburg--sankt-peterburg--20000.json",
+			"delta": 700
+		},
+		{
+			"from": "ekaterinburg",
+			"to": "syzran",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Самарская область",
+			"km": 1112,
+			"roundedKm": 1200,
+			"rate": 79,
+			"actualBase": 94800,
+			"ordinaryBase": 94800,
+			"source": "data/route-formula/quotes/ekaterinburg--syzran--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "ekaterinburg",
+			"to": "tolyatti",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Самарская область",
+			"km": 1030,
+			"roundedKm": 1100,
+			"rate": 79,
+			"actualBase": 86900,
+			"ordinaryBase": 86900,
+			"source": "data/route-formula/quotes/ekaterinburg--tolyatti--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "habarovsk",
+			"to": "ussuriysk",
+			"fromRegion": "Хабаровский край",
+			"toRegion": "Приморский край",
+			"km": 661,
+			"roundedKm": 700,
+			"rate": 200,
+			"actualBase": 140000,
+			"ordinaryBase": 140000,
+			"source": "data/route-formula/quotes/habarovsk--ussuriysk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "habarovsk",
+			"to": "vladivostok",
+			"fromRegion": "Хабаровский край",
+			"toRegion": "Приморский край",
+			"km": 755,
+			"roundedKm": 800,
+			"rate": 200,
+			"actualBase": 160000,
+			"ordinaryBase": 160000,
+			"source": "data/route-formula/quotes/habarovsk--vladivostok--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "berdsk",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Новосибирская область",
+			"km": 2569,
+			"roundedKm": 2600,
+			"rate": 137,
+			"actualBase": 356200,
+			"ordinaryBase": 356200,
+			"source": "data/route-formula/quotes/kazan--berdsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "dzerzhinsk",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Нижегородская область",
+			"km": 427,
+			"roundedKm": 500,
+			"rate": 93,
+			"actualBase": 46500,
+			"ordinaryBase": 46500,
+			"source": "data/route-formula/quotes/kazan--dzerzhinsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "ekaterinburg",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Свердловская область",
+			"km": 1015,
+			"roundedKm": 1100,
+			"rate": 137,
+			"actualBase": 150700,
+			"ordinaryBase": 150700,
+			"source": "data/route-formula/quotes/kazan--ekaterinburg--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "miass",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Челябинская область",
+			"km": 870,
+			"roundedKm": 900,
+			"rate": 137,
+			"actualBase": 123300,
+			"ordinaryBase": 123300,
+			"source": "data/route-formula/quotes/kazan--miass--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "neftekamsk",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Республика Башкортостан",
+			"km": 480,
+			"roundedKm": 500,
+			"rate": 137,
+			"actualBase": 68500,
+			"ordinaryBase": 68500,
+			"source": "data/route-formula/quotes/kazan--neftekamsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "nizhniy-novgorod",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Нижегородская область",
+			"km": 397,
+			"roundedKm": 400,
+			"rate": 93,
+			"actualBase": 37200,
+			"ordinaryBase": 37200,
+			"source": "data/route-formula/quotes/kazan--nizhniy-novgorod--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "nizhniy-tagil",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Свердловская область",
+			"km": 1010,
+			"roundedKm": 1100,
+			"rate": 137,
+			"actualBase": 150700,
+			"ordinaryBase": 150700,
+			"source": "data/route-formula/quotes/kazan--nizhniy-tagil--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "novosibirsk",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Новосибирская область",
+			"km": 2534,
+			"roundedKm": 2600,
+			"rate": 137,
+			"actualBase": 356200,
+			"ordinaryBase": 356200,
+			"source": "data/route-formula/quotes/kazan--novosibirsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "pervouralsk",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Свердловская область",
+			"km": 982,
+			"roundedKm": 1000,
+			"rate": 137,
+			"actualBase": 137000,
+			"ordinaryBase": 137000,
+			"source": "data/route-formula/quotes/kazan--pervouralsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "samara",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Самарская область",
+			"km": 374,
+			"roundedKm": 400,
+			"rate": 79,
+			"actualBase": 35000,
+			"ordinaryBase": 35000,
+			"source": "data/route-formula/quotes/kazan--samara--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "sankt-peterburg",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Ленинградская область",
+			"km": 1524,
+			"roundedKm": 1600,
+			"rate": 120,
+			"actualBase": 192000,
+			"ordinaryBase": 192000,
+			"source": "data/route-formula/quotes/kazan--sankt-peterburg--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "sterlitamak",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Республика Башкортостан",
+			"km": 658,
+			"roundedKm": 700,
+			"rate": 137,
+			"actualBase": 95900,
+			"ordinaryBase": 95900,
+			"source": "data/route-formula/quotes/kazan--sterlitamak--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "kazan",
+			"to": "ufa",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Республика Башкортостан",
+			"km": 527,
+			"roundedKm": 600,
+			"rate": 137,
+			"actualBase": 82200,
+			"ordinaryBase": 82200,
+			"source": "data/route-formula/quotes/kazan--ufa--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "komsomolsk-na-amure",
+			"to": "vladivostok",
+			"fromRegion": "Хабаровский край",
+			"toRegion": "Приморский край",
+			"km": 1151,
+			"roundedKm": 1200,
+			"rate": 200,
+			"actualBase": 240000,
+			"ordinaryBase": 240000,
+			"source": "data/route-formula/quotes/komsomolsk-na-amure--vladivostok--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "krasnoyarsk",
+			"to": "novosibirsk",
+			"fromRegion": "Красноярский край",
+			"toRegion": "Новосибирская область",
+			"km": 792,
+			"roundedKm": 800,
+			"rate": 112,
+			"actualBase": 90000,
+			"ordinaryBase": 89600,
+			"source": "data/route-formula/quotes/krasnoyarsk--novosibirsk--20000.json",
+			"delta": 400
+		},
+		{
+			"from": "krymsk",
+			"to": "samara",
+			"fromRegion": "Краснодарский край",
+			"toRegion": "Самарская область",
+			"km": 1604,
+			"roundedKm": 1700,
+			"rate": 105,
+			"actualBase": 178500,
+			"ordinaryBase": 178500,
+			"source": "data/route-formula/quotes/krymsk--samara--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "moskva",
+			"to": "angarsk",
+			"fromRegion": "Московская область",
+			"toRegion": "Иркутская область",
+			"km": 5194,
+			"roundedKm": 5200,
+			"rate": 104,
+			"actualBase": 540800,
+			"ordinaryBase": 540800,
+			"source": "data/route-formula/quotes/moskva--angarsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "moskva",
+			"to": "bratsk",
+			"fromRegion": "Московская область",
+			"toRegion": "Иркутская область",
+			"km": 5068,
+			"roundedKm": 5100,
+			"rate": 104,
+			"actualBase": 600000,
+			"ordinaryBase": 530400,
+			"source": "data/route-formula/quotes/moskva--bratsk--20000.json",
+			"delta": 69600
+		},
+		{
+			"from": "moskva",
+			"to": "habarovsk",
+			"fromRegion": "Московская область",
+			"toRegion": "Хабаровский край",
+			"km": 8428,
+			"roundedKm": 8500,
+			"rate": 82,
+			"actualBase": 700000,
+			"ordinaryBase": 697000,
+			"source": "data/control/moskva--habarovsk--20000.json",
+			"delta": 3000
+		},
+		{
+			"from": "moskva",
+			"to": "irkutsk",
+			"fromRegion": "Московская область",
+			"toRegion": "Иркутская область",
+			"km": 5240,
+			"roundedKm": 5300,
+			"rate": 104,
+			"actualBase": 480000,
+			"ordinaryBase": 551200,
+			"source": "data/control/moskva--irkutsk--20000.json",
+			"delta": -71200
+		},
+		{
+			"from": "moskva",
+			"to": "obninsk",
+			"fromRegion": "Московская область",
+			"toRegion": "Калужская область",
+			"km": 105,
+			"roundedKm": 200,
+			"rate": 300,
+			"actualBase": 60000,
+			"ordinaryBase": 60000,
+			"source": "data/route-formula/quotes/moskva--obninsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "moskva",
+			"to": "ryazan",
+			"fromRegion": "Московская область",
+			"toRegion": "Рязанская область",
+			"km": 199,
+			"roundedKm": 200,
+			"rate": 275,
+			"actualBase": 55000,
+			"ordinaryBase": 55000,
+			"source": "data/route-formula/quotes/moskva--ryazan--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "moskva",
+			"to": "samara",
+			"fromRegion": "Московская область",
+			"toRegion": "Самарская область",
+			"km": 1060,
+			"roundedKm": 1100,
+			"rate": 167,
+			"actualBase": 180000,
+			"ordinaryBase": 183700,
+			"source": "data/training/moskva--samara--20000.json",
+			"delta": -3700
+		},
+		{
+			"from": "moskva",
+			"to": "sankt-peterburg",
+			"fromRegion": "Московская область",
+			"toRegion": "Ленинградская область",
+			"km": 704,
+			"roundedKm": 800,
+			"rate": 162,
+			"actualBase": 130000,
+			"ordinaryBase": 129600,
+			"source": "data/training/moskva--sankt-peterburg--20000.json",
+			"delta": 400
+		},
+		{
+			"from": "moskva",
+			"to": "vladivostok",
+			"fromRegion": "Московская область",
+			"toRegion": "Приморский край",
+			"km": 9186,
+			"roundedKm": 9200,
+			"rate": 82,
+			"actualBase": 750000,
+			"ordinaryBase": 754400,
+			"source": "data/control/moskva--vladivostok--20000.json",
+			"delta": -4400
+		},
+		{
+			"from": "naberezhnye-chelny",
+			"to": "chelyabinsk",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Челябинская область",
+			"km": 703,
+			"roundedKm": 800,
+			"rate": 137,
+			"actualBase": 109600,
+			"ordinaryBase": 109600,
+			"source": "data/route-formula/quotes/naberezhnye-chelny--chelyabinsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "naberezhnye-chelny",
+			"to": "ekaterinburg",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Свердловская область",
+			"km": 767,
+			"roundedKm": 800,
+			"rate": 137,
+			"actualBase": 109600,
+			"ordinaryBase": 109600,
+			"source": "data/route-formula/quotes/naberezhnye-chelny--ekaterinburg--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "naberezhnye-chelny",
+			"to": "nizhniy-novgorod",
+			"fromRegion": "Республика Татарстан",
+			"toRegion": "Нижегородская область",
+			"km": 639,
+			"roundedKm": 700,
+			"rate": 93,
+			"actualBase": 65100,
+			"ordinaryBase": 65100,
+			"source": "data/route-formula/quotes/naberezhnye-chelny--nizhniy-novgorod--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "nizhniy-novgorod",
+			"to": "kazan",
+			"fromRegion": "Нижегородская область",
+			"toRegion": "Республика Татарстан",
+			"km": 399,
+			"roundedKm": 400,
+			"rate": 184,
+			"actualBase": 73600,
+			"ordinaryBase": 73600,
+			"source": "data/route-formula/quotes/nizhniy-novgorod--kazan--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "nizhniy-novgorod",
+			"to": "naberezhnye-chelny",
+			"fromRegion": "Нижегородская область",
+			"toRegion": "Республика Татарстан",
+			"km": 639,
+			"roundedKm": 700,
+			"rate": 184,
+			"actualBase": 128800,
+			"ordinaryBase": 128800,
+			"source": "data/route-formula/quotes/nizhniy-novgorod--naberezhnye-chelny--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "nizhniy-tagil",
+			"to": "kazan",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Республика Татарстан",
+			"km": 1010,
+			"roundedKm": 1100,
+			"rate": 99,
+			"actualBase": 108900,
+			"ordinaryBase": 108900,
+			"source": "data/route-formula/quotes/nizhniy-tagil--kazan--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "nizhniy-tagil",
+			"to": "novosibirsk",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Новосибирская область",
+			"km": 1739,
+			"roundedKm": 1800,
+			"rate": 125,
+			"actualBase": 225000,
+			"ordinaryBase": 225000,
+			"source": "data/route-formula/quotes/nizhniy-tagil--novosibirsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "nizhniy-tagil",
+			"to": "samara",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Самарская область",
+			"km": 1136,
+			"roundedKm": 1200,
+			"rate": 79,
+			"actualBase": 94800,
+			"ordinaryBase": 94800,
+			"source": "data/route-formula/quotes/nizhniy-tagil--samara--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "novosibirsk",
+			"to": "ekaterinburg",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Свердловская область",
+			"km": 1605,
+			"roundedKm": 1700,
+			"rate": 59,
+			"actualBase": 100300,
+			"ordinaryBase": 100300,
+			"source": "data/route-formula/quotes/novosibirsk--ekaterinburg--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "novosibirsk",
+			"to": "kazan",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Республика Татарстан",
+			"km": 2534,
+			"roundedKm": 2600,
+			"rate": 69,
+			"actualBase": 179400,
+			"ordinaryBase": 179400,
+			"source": "data/route-formula/quotes/novosibirsk--kazan--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "novosibirsk",
+			"to": "krasnoyarsk",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Красноярский край",
+			"km": 790,
+			"roundedKm": 800,
+			"rate": 162,
+			"actualBase": 130000,
+			"ordinaryBase": 129600,
+			"source": "data/route-formula/quotes/novosibirsk--krasnoyarsk--20000.json",
+			"delta": 400
+		},
+		{
+			"from": "novosibirsk",
+			"to": "nizhniy-tagil",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Свердловская область",
+			"km": 1741,
+			"roundedKm": 1800,
+			"rate": 59,
+			"actualBase": 106200,
+			"ordinaryBase": 106200,
+			"source": "data/route-formula/quotes/novosibirsk--nizhniy-tagil--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "novosibirsk",
+			"to": "samara",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Самарская область",
+			"km": 2454,
+			"roundedKm": 2500,
+			"rate": 69,
+			"actualBase": 172500,
+			"ordinaryBase": 172500,
+			"source": "data/route-formula/quotes/novosibirsk--samara--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "novosibirsk",
+			"to": "sankt-peterburg",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Ленинградская область",
+			"km": 3899,
+			"roundedKm": 3900,
+			"rate": 77,
+			"actualBase": 300000,
+			"ordinaryBase": 300300,
+			"source": "data/route-formula/quotes/novosibirsk--sankt-peterburg--20000.json",
+			"delta": -300
+		},
+		{
+			"from": "novosibirsk",
+			"to": "vsevolozhsk",
+			"fromRegion": "Новосибирская область",
+			"toRegion": "Ленинградская область",
+			"km": 3919,
+			"roundedKm": 4000,
+			"rate": 77,
+			"actualBase": 308000,
+			"ordinaryBase": 308000,
+			"source": "data/route-formula/quotes/novosibirsk--vsevolozhsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "pervouralsk",
+			"to": "kazan",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Республика Татарстан",
+			"km": 922,
+			"roundedKm": 1000,
+			"rate": 99,
+			"actualBase": 99000,
+			"ordinaryBase": 99000,
+			"source": "data/route-formula/quotes/pervouralsk--kazan--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "pervouralsk",
+			"to": "samara",
+			"fromRegion": "Свердловская область",
+			"toRegion": "Самарская область",
+			"km": 992,
+			"roundedKm": 1000,
+			"rate": 79,
+			"actualBase": 79000,
+			"ordinaryBase": 79000,
+			"source": "data/route-formula/quotes/pervouralsk--samara--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "rostov-na-donu",
+			"to": "anapa",
+			"fromRegion": "Ростовская область",
+			"toRegion": "Краснодарский край",
+			"km": 406,
+			"roundedKm": 500,
+			"rate": 158,
+			"actualBase": 79000,
+			"ordinaryBase": 79000,
+			"source": "data/route-formula/quotes/rostov-na-donu--anapa--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "rostov-na-donu",
+			"to": "sochi",
+			"fromRegion": "Ростовская область",
+			"toRegion": "Краснодарский край",
+			"km": 551,
+			"roundedKm": 600,
+			"rate": 158,
+			"actualBase": 94800,
+			"ordinaryBase": 94800,
+			"source": "data/route-formula/quotes/rostov-na-donu--sochi--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "samara",
+			"to": "berdsk",
+			"fromRegion": "Самарская область",
+			"toRegion": "Новосибирская область",
+			"km": 2479,
+			"roundedKm": 2500,
+			"rate": 137,
+			"actualBase": 342500,
+			"ordinaryBase": 342500,
+			"source": "data/route-formula/quotes/samara--berdsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "samara",
+			"to": "ekaterinburg",
+			"fromRegion": "Самарская область",
+			"toRegion": "Свердловская область",
+			"km": 993,
+			"roundedKm": 1000,
+			"rate": 147,
+			"actualBase": 147000,
+			"ordinaryBase": 147000,
+			"source": "data/route-formula/quotes/samara--ekaterinburg--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "samara",
+			"to": "kazan",
+			"fromRegion": "Самарская область",
+			"toRegion": "Республика Татарстан",
+			"km": 358,
+			"roundedKm": 400,
+			"rate": 133,
+			"actualBase": 53200,
+			"ordinaryBase": 53200,
+			"source": "data/training/samara--kazan--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "samara",
+			"to": "krymsk",
+			"fromRegion": "Самарская область",
+			"toRegion": "Краснодарский край",
+			"km": 1625,
+			"roundedKm": 1700,
+			"rate": 105,
+			"actualBase": 178500,
+			"ordinaryBase": 178500,
+			"source": "data/route-formula/quotes/samara--krymsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "samara",
+			"to": "miass",
+			"fromRegion": "Самарская область",
+			"toRegion": "Челябинская область",
+			"km": 773,
+			"roundedKm": 800,
+			"rate": 133,
+			"actualBase": 106400,
+			"ordinaryBase": 106400,
+			"source": "data/route-formula/quotes/samara--miass--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "samara",
+			"to": "nizhniy-tagil",
+			"fromRegion": "Самарская область",
+			"toRegion": "Свердловская область",
+			"km": 1137,
+			"roundedKm": 1200,
+			"rate": 147,
+			"actualBase": 176400,
+			"ordinaryBase": 176400,
+			"source": "data/route-formula/quotes/samara--nizhniy-tagil--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "samara",
+			"to": "novosibirsk",
+			"fromRegion": "Самарская область",
+			"toRegion": "Новосибирская область",
+			"km": 2446,
+			"roundedKm": 2500,
+			"rate": 137,
+			"actualBase": 342500,
+			"ordinaryBase": 342500,
+			"source": "data/route-formula/quotes/samara--novosibirsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "samara",
+			"to": "pervouralsk",
+			"fromRegion": "Самарская область",
+			"toRegion": "Свердловская область",
+			"km": 992,
+			"roundedKm": 1000,
+			"rate": 147,
+			"actualBase": 147000,
+			"ordinaryBase": 147000,
+			"source": "data/route-formula/quotes/samara--pervouralsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "samara",
+			"to": "sankt-peterburg",
+			"fromRegion": "Самарская область",
+			"toRegion": "Ленинградская область",
+			"km": 1761,
+			"roundedKm": 1800,
+			"rate": 106,
+			"actualBase": 190000,
+			"ordinaryBase": 190800,
+			"source": "data/route-formula/quotes/samara--sankt-peterburg--20000.json",
+			"delta": -800
+		},
+		{
+			"from": "samara",
+			"to": "saratov",
+			"fromRegion": "Самарская область",
+			"toRegion": "Саратовская область",
+			"km": 418,
+			"roundedKm": 500,
+			"rate": 99,
+			"actualBase": 49500,
+			"ordinaryBase": 49500,
+			"source": "data/route-formula/quotes/samara--saratov--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "samara",
+			"to": "sterlitamak",
+			"fromRegion": "Самарская область",
+			"toRegion": "Республика Башкортостан",
+			"km": 570,
+			"roundedKm": 600,
+			"rate": 133,
+			"actualBase": 79800,
+			"ordinaryBase": 79800,
+			"source": "data/route-formula/quotes/samara--sterlitamak--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "samara",
+			"to": "ufa",
+			"fromRegion": "Самарская область",
+			"toRegion": "Республика Башкортостан",
+			"km": 464,
+			"roundedKm": 500,
+			"rate": 133,
+			"actualBase": 66500,
+			"ordinaryBase": 66500,
+			"source": "data/route-formula/quotes/samara--ufa--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "sankt-peterburg",
+			"to": "berdsk",
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Новосибирская область",
+			"km": 3939,
+			"roundedKm": 4000,
+			"rate": 106,
+			"actualBase": 424000,
+			"ordinaryBase": 424000,
+			"source": "data/route-formula/quotes/sankt-peterburg--berdsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "sankt-peterburg",
+			"to": "ekaterinburg",
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Свердловская область",
+			"km": 2310,
+			"roundedKm": 2400,
+			"rate": 120,
+			"actualBase": 290000,
+			"ordinaryBase": 288000,
+			"source": "data/route-formula/quotes/sankt-peterburg--ekaterinburg--20000.json",
+			"delta": 2000
+		},
+		{
+			"from": "sankt-peterburg",
+			"to": "kazan",
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Республика Татарстан",
+			"km": 1524,
+			"roundedKm": 1600,
+			"rate": 120,
+			"actualBase": 192000,
+			"ordinaryBase": 192000,
+			"source": "data/route-formula/quotes/sankt-peterburg--kazan--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "sankt-peterburg",
+			"to": "novosibirsk",
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Новосибирская область",
+			"km": 3906,
+			"roundedKm": 4000,
+			"rate": 106,
+			"actualBase": 480000,
+			"ordinaryBase": 424000,
+			"source": "data/route-formula/quotes/sankt-peterburg--novosibirsk--20000.json",
+			"delta": 56000
+		},
+		{
+			"from": "sankt-peterburg",
+			"to": "samara",
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Самарская область",
+			"km": 1772,
+			"roundedKm": 1800,
+			"rate": 103,
+			"actualBase": 185400,
+			"ordinaryBase": 185400,
+			"source": "data/route-formula/quotes/sankt-peterburg--samara--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "sankt-peterburg",
+			"to": "tolyatti",
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Самарская область",
+			"km": 1704,
+			"roundedKm": 1800,
+			"rate": 103,
+			"actualBase": 185400,
+			"ordinaryBase": 185400,
+			"source": "data/route-formula/quotes/sankt-peterburg--tolyatti--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "saratov",
+			"to": "samara",
+			"fromRegion": "Саратовская область",
+			"toRegion": "Самарская область",
+			"km": 413,
+			"roundedKm": 500,
+			"rate": 133,
+			"actualBase": 66500,
+			"ordinaryBase": 66500,
+			"source": "data/route-formula/quotes/saratov--samara--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "sochi",
+			"to": "rostov-na-donu",
+			"fromRegion": "Краснодарский край",
+			"toRegion": "Ростовская область",
+			"km": 552,
+			"roundedKm": 600,
+			"rate": 210,
+			"actualBase": 126000,
+			"ordinaryBase": 126000,
+			"source": "data/route-formula/quotes/sochi--rostov-na-donu--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "syzran",
+			"to": "ekaterinburg",
+			"fromRegion": "Самарская область",
+			"toRegion": "Свердловская область",
+			"km": 1113,
+			"roundedKm": 1200,
+			"rate": 147,
+			"actualBase": 176400,
+			"ordinaryBase": 176400,
+			"source": "data/route-formula/quotes/syzran--ekaterinburg--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "taganrog",
+			"to": "anapa",
+			"fromRegion": "Ростовская область",
+			"toRegion": "Краснодарский край",
+			"km": 479,
+			"roundedKm": 500,
+			"rate": 158,
+			"actualBase": 79000,
+			"ordinaryBase": 79000,
+			"source": "data/route-formula/quotes/taganrog--anapa--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "taganrog",
+			"to": "sochi",
+			"fromRegion": "Ростовская область",
+			"toRegion": "Краснодарский край",
+			"km": 623,
+			"roundedKm": 700,
+			"rate": 158,
+			"actualBase": 110600,
+			"ordinaryBase": 110600,
+			"source": "data/route-formula/quotes/taganrog--sochi--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "tolyatti",
+			"to": "chelyabinsk",
+			"fromRegion": "Самарская область",
+			"toRegion": "Челябинская область",
+			"km": 906,
+			"roundedKm": 1000,
+			"rate": 133,
+			"actualBase": 133000,
+			"ordinaryBase": 133000,
+			"source": "data/route-formula/quotes/tolyatti--chelyabinsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "tolyatti",
+			"to": "ekaterinburg",
+			"fromRegion": "Самарская область",
+			"toRegion": "Свердловская область",
+			"km": 1033,
+			"roundedKm": 1100,
+			"rate": 147,
+			"actualBase": 161700,
+			"ordinaryBase": 161700,
+			"source": "data/route-formula/quotes/tolyatti--ekaterinburg--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "tolyatti",
+			"to": "neftekamsk",
+			"fromRegion": "Самарская область",
+			"toRegion": "Республика Башкортостан",
+			"km": 587,
+			"roundedKm": 600,
+			"rate": 133,
+			"actualBase": 79800,
+			"ordinaryBase": 79800,
+			"source": "data/route-formula/quotes/tolyatti--neftekamsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "tolyatti",
+			"to": "novosibirsk",
+			"fromRegion": "Самарская область",
+			"toRegion": "Новосибирская область",
+			"km": 2486,
+			"roundedKm": 2500,
+			"rate": 137,
+			"actualBase": 342500,
+			"ordinaryBase": 342500,
+			"source": "data/route-formula/quotes/tolyatti--novosibirsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "tolyatti",
+			"to": "ufa",
+			"fromRegion": "Самарская область",
+			"toRegion": "Республика Башкортостан",
+			"km": 504,
+			"roundedKm": 600,
+			"rate": 133,
+			"actualBase": 79800,
+			"ordinaryBase": 79800,
+			"source": "data/route-formula/quotes/tolyatti--ufa--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "ufa",
+			"to": "chelyabinsk",
+			"fromRegion": "Республика Башкортостан",
+			"toRegion": "Челябинская область",
+			"km": 418,
+			"roundedKm": 500,
+			"rate": 147,
+			"actualBase": 73500,
+			"ordinaryBase": 73500,
+			"source": "data/route-formula/quotes/ufa--chelyabinsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "ufa",
+			"to": "tolyatti",
+			"fromRegion": "Республика Башкортостан",
+			"toRegion": "Самарская область",
+			"km": 501,
+			"roundedKm": 600,
+			"rate": 147,
+			"actualBase": 88200,
+			"ordinaryBase": 88200,
+			"source": "data/route-formula/quotes/ufa--tolyatti--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "ussuriysk",
+			"to": "habarovsk",
+			"fromRegion": "Приморский край",
+			"toRegion": "Хабаровский край",
+			"km": 661,
+			"roundedKm": 700,
+			"rate": 225,
+			"actualBase": 157500,
+			"ordinaryBase": 157500,
+			"source": "data/route-formula/quotes/ussuriysk--habarovsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "vladivostok",
+			"to": "habarovsk",
+			"fromRegion": "Приморский край",
+			"toRegion": "Хабаровский край",
+			"km": 755,
+			"roundedKm": 800,
+			"rate": 225,
+			"actualBase": 180000,
+			"ordinaryBase": 180000,
+			"source": "data/route-formula/quotes/vladivostok--habarovsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "vladivostok",
+			"to": "komsomolsk-na-amure",
+			"fromRegion": "Приморский край",
+			"toRegion": "Хабаровский край",
+			"km": 1150,
+			"roundedKm": 1200,
+			"rate": 225,
+			"actualBase": 270000,
+			"ordinaryBase": 270000,
+			"source": "data/route-formula/quotes/vladivostok--komsomolsk-na-amure--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "vsevolozhsk",
+			"to": "novosibirsk",
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Новосибирская область",
+			"km": 3924,
+			"roundedKm": 4000,
+			"rate": 106,
+			"actualBase": 424000,
+			"ordinaryBase": 424000,
+			"source": "data/route-formula/quotes/vsevolozhsk--novosibirsk--20000.json",
+			"delta": 0
+		},
+		{
+			"from": "vsevolozhsk",
+			"to": "samara",
+			"fromRegion": "Ленинградская область",
+			"toRegion": "Самарская область",
+			"km": 1790,
+			"roundedKm": 1800,
+			"rate": 103,
+			"actualBase": 185400,
+			"ordinaryBase": 185400,
+			"source": "data/route-formula/quotes/vsevolozhsk--samara--20000.json",
+			"delta": 0
+		}
+	],
+	"publishedRows": 3853,
+	"publishedUniqueRoutes": 3756,
+	"publishedPriceConflicts": 0,
+	"checkedWeightPrices": 15412,
+	"weightFactorErrors": []
+}

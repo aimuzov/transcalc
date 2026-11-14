@@ -25,6 +25,9 @@ jobs:
           workflow: .github/workflows/check.yml
       - uses: aimuzov/infra-site-kit/check@v5
         if: steps.verified.outputs.reused != 'true'
+      - name: Verify recovered regional tariff formula
+        if: steps.verified.outputs.reused != 'true'
+        run: npm run test:routes
       # e2e из infra-site-kit: сборка в Chromium. Браузер кэшируется по версии Playwright,
       # его системные библиотеки ставятся из apt каждый прогон.
       - id: playwright

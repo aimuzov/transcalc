@@ -1,0 +1,81 @@
+{
+	"status": "ok",
+	"route": {
+		"from": "Новосибирск",
+		"to": "Нижний Тагил",
+		"from_case": "Новосибирска",
+		"to_case": "Нижний Тагил",
+		"from_slug": "novosibirsk",
+		"to_slug": "nizhniy-tagil",
+		"from_region": "Новосибирск, Новосибирская область",
+		"to_region": "Нижний Тагил, Свердловская область",
+		"km": 1741,
+		"days": "2-3"
+	},
+	"cargo": {
+		"weight_kg": 11000,
+		"volume_m3": null
+	},
+	"vat_rate": 22,
+	"options": [
+		{
+			"type": "auto",
+			"title": "Отдельная машина",
+			"price_vat": 106200,
+			"price_novat": 87049,
+			"days": "2-3",
+			"available": true,
+			"is_recommended": false,
+			"unavailable_reason": null,
+			"vehicle": {
+				"name": "Фура / 20-тонник",
+				"l": 13.6,
+				"w": 2.47,
+				"h": 2.75,
+				"volume_m3": 82,
+				"max_kg": 20000
+			},
+			"badge": "Экспресс-доставка",
+			"slogan": "Быстрее, без перегрузки. Груз едет напрямую от двери до двери",
+			"fits": "Средние и крупные партии, когда важна скорость",
+			"risk": "Зависимость от дорожной ситуации"
+		},
+		{
+			"type": "modular",
+			"title": "Сборный груз",
+			"price_vat": 90200,
+			"price_novat": 73934,
+			"days": "3-4",
+			"available": true,
+			"is_recommended": true,
+			"unavailable_reason": null,
+			"vehicle": null,
+			"badge": "Экономия",
+			"slogan": "Выгоднее по цене, но может быть дольше из-за консолидации",
+			"fits": "Небольшие партии, оптимизация затрат",
+			"risk": "Возможна консолидация, срок может увеличиться"
+		}
+	],
+	"message": "",
+	"insurance_note": "Страхование груза рассчитывается менеджером при оформлении заявки",
+	"phone": "8 (800) 250-06-60",
+	"_meta": {
+		"api_version": "2026-09-21",
+		"vat_rate": 22,
+		"calc_status": "ok",
+		"calc_reason": "",
+		"days_source": "estimate_by_km",
+		"container_source": "none",
+		"container_kind": "",
+		"tariff_source": "",
+		"tariff_transport": "",
+		"site": "datrans.ru",
+		"legacy": {
+			"price_per_km": 59,
+			"km_rounded": 1800,
+			"auto": 106200,
+			"modular": 114500,
+			"volume_car_m3": "80"
+		}
+	}
+}
