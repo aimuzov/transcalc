@@ -476,14 +476,10 @@ h3 {
 	font-size: var(--text-sm);
 	color: var(--muted);
 }
-.estimate-note,
-.source-note {
+.estimate-note {
 	margin-top: var(--space-4);
 	font-size: var(--text-sm);
 	color: var(--muted);
-}
-.source-note {
-	padding-inline: var(--space-1);
 }
 .footer {
 	--credit-hover: var(--fg);
