@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/aimuzov/transcalc/compare/v1.2.0...v1.2.1) (2026-11-15)
+
+
+### Bug Fixes
+
+* remove tariff source caption ([#16](https://github.com/aimuzov/transcalc/issues/16)) ([0d20f72](https://github.com/aimuzov/transcalc/commit/0d20f721ce10cea97a432f867705540403e54e57))
+
 ## [1.2.0](https://github.com/aimuzov/transcalc/compare/v1.1.0...v1.2.0) (2026-11-14)
 
 
