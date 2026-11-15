@@ -4,7 +4,7 @@
 	import Input from '@aimuzov/infra-site-kit/ui/input.svelte'
 	import Field from '@aimuzov/infra-site-kit/ui/field.svelte'
 	import CityPicker from './city-picker.svelte'
-	import { calculate, cities, checkedAt, routeInfo, sourceUrl } from '#frontend/lib/calculator.ts'
+	import { calculate, cities, routeInfo } from '#frontend/lib/calculator.ts'
 	import type { Quote } from '#frontend/lib/pricing.ts'
 	let from = $state('moskva')
 	let to = $state('sankt-peterburg')
@@ -235,10 +235,4 @@
 			</div>
 		{/if}
 	</section>
-	<p class="source-note">
-		Тарифы: <a href={sourceUrl} target="_blank" rel="noreferrer">datrans.ru</a>. Проверены {new Intl.DateTimeFormat(
-			'ru-RU',
-			{ day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' },
-		).format(new Date(checkedAt))}
-	</p>
 </div>
